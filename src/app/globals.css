@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+@layer base {
+  * {
+    box-sizing: border-box;
+  }
+  body {
+    background-color: #f1f5f9;
+    color: #0f172a;
+    font-family: var(--font-geist-sans), system-ui, -apple-system, sans-serif;
+  }
+}
+
+@media print {
+  body * {
+    visibility: hidden;
+  }
+  #printable-slip, #printable-slip * {
+    visibility: visible;
+  }
+  #printable-slip {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    margin: 0;
+    padding: 20px;
+    box-shadow: none;
+    border: 2px solid #000;
+  }
+}

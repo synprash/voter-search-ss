@@ -1,0 +1,32 @@
+{
+  "safety-gate": {
+    "enabled": false,
+    "PreToolUse": [
+      {
+        "matcher": "run_command",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo 'Pre-command hook check: OK' && exit 0",
+            "timeout": 10
+          }
+        ]
+      }
+    ]
+  },
+  "post-edit-linter": {
+    "enabled": false,
+    "PostToolUse": [
+      {
+        "matcher": "replace_file_content|write_to_file",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo 'Post-edit check completed.' && exit 0",
+            "timeout": 15
+          }
+        ]
+      }
+    ]
+  }
+}
