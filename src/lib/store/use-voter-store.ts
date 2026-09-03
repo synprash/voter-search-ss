@@ -47,7 +47,7 @@ export const useVoterStore = create<VoterStoreState>((set, get) => ({
   adminUser: null,
   isCheckingAuth: true,
 
-  language: 'en',
+  language: 'mr',
   viewMode: 'table',
   filters: initialFilters,
   selectedVoter: null,
@@ -197,28 +197,32 @@ export const useVoterStore = create<VoterStoreState>((set, get) => ({
         if (ageBracket === '61+' && age < 61) return false;
       }
 
-      // 5. Bilingual text & mobile number query search
+      // 5. Bilingual text & mobile number query search (multi-word tokenized)
       if (q) {
-        const searchableText = [
-          v.voter_name_en,
-          v.voter_name_mr,
-          v.relative_name_en,
-          v.relative_name_mr,
-          v.epic_no,
-          v.mobile_no,
-          v.address_en,
-          v.address_mr,
-          v.house_no,
-          String(v.serial_no),
-          String(v.family_id),
-          v.section_name_en,
-          v.section_name_mr,
-        ]
-          .filter(Boolean)
-          .join(' ')
-          .toLowerCase();
+        const tokens = q.split(/\s+/).filter(Boolean);
+        if (tokens.length > 0) {
+          const searchableText = [
+            v.voter_name_en,
+            v.voter_name_mr,
+            v.relative_name_en,
+            v.relative_name_mr,
+            v.epic_no,
+            v.mobile_no,
+            v.address_en,
+            v.address_mr,
+            v.house_no,
+            String(v.serial_no),
+            String(v.family_id),
+            v.section_name_en,
+            v.section_name_mr,
+          ]
+            .filter(Boolean)
+            .join(' ')
+            .toLowerCase();
 
-        if (!searchableText.includes(q)) return false;
+          const matchesAllTokens = tokens.every((t) => searchableText.includes(t));
+          if (!matchesAllTokens) return false;
+        }
       }
 
       return true;

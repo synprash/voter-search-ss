@@ -45,21 +45,24 @@ export async function GET(request: NextRequest) {
       }
 
       if (q) {
-        conditions.push(`(
-          voter_name_en ILIKE $${paramIdx} OR
-          voter_name_mr ILIKE $${paramIdx} OR
-          relative_name_en ILIKE $${paramIdx} OR
-          relative_name_mr ILIKE $${paramIdx} OR
-          epic_no ILIKE $${paramIdx} OR
-          mobile_no ILIKE $${paramIdx} OR
-          address_en ILIKE $${paramIdx} OR
-          address_mr ILIKE $${paramIdx} OR
-          house_no ILIKE $${paramIdx} OR
-          serial_no::text ILIKE $${paramIdx} OR
-          family_id::text ILIKE $${paramIdx}
-        )`);
-        values.push(`%${q}%`);
-        paramIdx++;
+        const tokens = q.split(/\s+/).filter(Boolean);
+        tokens.forEach((token) => {
+          conditions.push(`(
+            voter_name_en ILIKE $${paramIdx} OR
+            voter_name_mr ILIKE $${paramIdx} OR
+            relative_name_en ILIKE $${paramIdx} OR
+            relative_name_mr ILIKE $${paramIdx} OR
+            epic_no ILIKE $${paramIdx} OR
+            mobile_no ILIKE $${paramIdx} OR
+            address_en ILIKE $${paramIdx} OR
+            address_mr ILIKE $${paramIdx} OR
+            house_no ILIKE $${paramIdx} OR
+            serial_no::text ILIKE $${paramIdx} OR
+            family_id::text ILIKE $${paramIdx}
+          )`);
+          values.push(`%${token}%`);
+          paramIdx++;
+        });
       }
 
       const whereClause = conditions.length > 0 ? `WHERE ${conditions.join(' AND ')}` : '';
@@ -115,22 +118,28 @@ export async function GET(request: NextRequest) {
       if (ageBracket === '61+' && age < 61) return false;
     }
     if (queryLower) {
-      const hay = [
-        v.voter_name_en,
-        v.voter_name_mr,
-        v.relative_name_en,
-        v.relative_name_mr,
-        v.epic_no,
-        v.address_en,
-        v.address_mr,
-        v.house_no,
-        String(v.serial_no),
-        String(v.family_id),
-      ]
-        .filter(Boolean)
-        .join(' ')
-        .toLowerCase();
-      if (!hay.includes(queryLower)) return false;
+      const tokens = queryLower.split(/\s+/).filter(Boolean);
+      if (tokens.length > 0) {
+        const hay = [
+          v.voter_name_en,
+          v.voter_name_mr,
+          v.relative_name_en,
+          v.relative_name_mr,
+          v.epic_no,
+          v.mobile_no,
+          v.address_en,
+          v.address_mr,
+          v.house_no,
+          String(v.serial_no),
+          String(v.family_id),
+        ]
+          .filter(Boolean)
+          .join(' ')
+          .toLowerCase();
+
+        const matchesAll = tokens.every((t) => hay.includes(t));
+        if (!matchesAll) return false;
+      }
     }
     return true;
   });
