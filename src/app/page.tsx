@@ -17,6 +17,7 @@ export default function Home() {
     isAuthenticated,
     isCheckingAuth,
     checkAuth,
+    loadFromSupabase,
     viewMode,
     language,
   } = useVoterStore();
@@ -26,6 +27,12 @@ export default function Home() {
   useEffect(() => {
     checkAuth();
   }, [checkAuth]);
+
+  useEffect(() => {
+    if (isAuthenticated) {
+      loadFromSupabase();
+    }
+  }, [isAuthenticated, loadFromSupabase]);
 
   if (isCheckingAuth) {
     return (
