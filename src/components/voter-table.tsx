@@ -155,7 +155,7 @@ export const VoterTable: React.FC = () => {
         <table className="w-full text-left border-collapse min-w-[1050px]">
           <thead>
             <tr className="bg-orange-50/60 border-b border-orange-200 text-xs font-bold text-orange-950 uppercase tracking-wider">
-              <th className="py-3 px-3 w-16 text-center">{t.householdNumber}</th>
+              <th className="py-3 px-3 w-20 text-center">{t.boothNo}</th>
               <th className="py-3 px-3 w-14 text-center">{t.serialNo}</th>
               <th className="py-3 px-4">{t.voterName}</th>
               <th className="py-3 px-4">{t.epicNo}</th>
@@ -182,10 +182,13 @@ export const VoterTable: React.FC = () => {
                   onClick={() => setSelectedVoter(v)}
                   className="hover:bg-orange-50/40 cursor-pointer transition-colors group"
                 >
-                  {/* Household ID */}
+                  {/* Booth No */}
                   <td className="py-3 px-3 text-center">
-                    <span className="inline-flex items-center px-2 py-0.5 rounded-md text-xs font-extrabold bg-amber-100 text-amber-900 border border-amber-300">
-                      #{v.family_id}
+                    <span
+                      className="inline-flex items-center px-2 py-0.5 rounded-md text-xs font-extrabold bg-orange-100 text-orange-950 border border-orange-300"
+                      title={language === 'mr' ? v.polling_station_mr : (v.polling_station_en || v.polling_station_mr)}
+                    >
+                      #{v.part_no}
                     </span>
                   </td>
 
