@@ -75,8 +75,10 @@ export async function GET(request: NextRequest) {
         });
       }
 
+      const limitParam = searchParams.get('limit');
+      const limitClause = limitParam ? ` LIMIT ${Math.max(1, parseInt(limitParam, 10))}` : '';
       const whereClause = conditions.length > 0 ? `WHERE ${conditions.join(' AND ')}` : '';
-      const sqlQuery = `SELECT * FROM voters_view ${whereClause} ORDER BY part_no ASC, serial_no ASC LIMIT 10000;`;
+      const sqlQuery = `SELECT * FROM voters_view ${whereClause} ORDER BY part_no ASC, serial_no ASC${limitClause};`;
 
       const result = await pool.query(sqlQuery, values);
       return NextResponse.json({

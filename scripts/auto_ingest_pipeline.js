@@ -538,7 +538,7 @@ async function syncLocalSeeds(client) {
   fs.writeFileSync(path.join(DATA_DIR, 'seed-booths.json'), JSON.stringify(booths, null, 2));
 
   // 3. Seed Voters
-  const votersRes = await client.query('SELECT * FROM voters_view ORDER BY part_no ASC, serial_no ASC LIMIT 15000;');
+  const votersRes = await client.query('SELECT * FROM voters_view ORDER BY part_no ASC, serial_no ASC;');
   fs.writeFileSync(path.join(DATA_DIR, 'seed-voters.json'), JSON.stringify(votersRes.rows, null, 2));
 
   log(`Synced ${psRes.rows.length} stations and ${votersRes.rows.length} electors to local JSON seeds.`, 'SUCCESS');
