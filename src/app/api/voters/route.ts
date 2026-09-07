@@ -7,7 +7,17 @@ import { Voter } from '@/lib/types';
 export async function GET(request: NextRequest) {
   const { searchParams } = new URL(request.url);
   const q = (searchParams.get('q') || '').trim();
-  const partNo = searchParams.get('partNo');
+  const rawParts = [
+    ...searchParams.getAll('partNo'),
+    ...searchParams.getAll('partNos'),
+  ];
+  const partNos = rawParts
+    .flatMap((p) => p.split(','))
+    .map((p) => p.trim())
+    .filter((p) => p && p !== 'all')
+    .map(Number)
+    .filter((n) => !isNaN(n) && n > 0);
+
   const gender = searchParams.get('gender');
   const ageBracket = searchParams.get('ageBracket');
   const familyId = searchParams.get('familyId');
@@ -18,12 +28,12 @@ export async function GET(request: NextRequest) {
   if (pool) {
     try {
       const conditions: string[] = [];
-      const values: (string | number)[] = [];
+      const values: (string | number | number[])[] = [];
       let paramIdx = 1;
 
-      if (partNo && partNo !== 'all') {
-        conditions.push(`part_no = $${paramIdx++}`);
-        values.push(Number(partNo));
+      if (partNos.length > 0) {
+        conditions.push(`part_no = ANY($${paramIdx++}::int[])`);
+        values.push(partNos);
       }
 
       if (familyId) {
@@ -66,7 +76,7 @@ export async function GET(request: NextRequest) {
       }
 
       const whereClause = conditions.length > 0 ? `WHERE ${conditions.join(' AND ')}` : '';
-      const sqlQuery = `SELECT * FROM voters_view ${whereClause} ORDER BY part_no ASC, serial_no ASC LIMIT 2000;`;
+      const sqlQuery = `SELECT * FROM voters_view ${whereClause} ORDER BY part_no ASC, serial_no ASC LIMIT 10000;`;
 
       const result = await pool.query(sqlQuery, values);
       return NextResponse.json({
@@ -85,8 +95,8 @@ export async function GET(request: NextRequest) {
   if (isSupabaseConfigured && supabase) {
     try {
       let queryBuilder = supabase.from('voters').select('*');
-      if (partNo && partNo !== 'all') {
-        queryBuilder = queryBuilder.eq('part_no', Number(partNo));
+      if (partNos.length > 0) {
+        queryBuilder = queryBuilder.in('part_no', partNos);
       }
       if (familyId) {
         queryBuilder = queryBuilder.eq('family_id', Number(familyId));
@@ -102,7 +112,7 @@ export async function GET(request: NextRequest) {
 
   const queryLower = q.toLowerCase();
   const filtered = voters.filter((v) => {
-    if (partNo && partNo !== 'all' && v.part_no !== Number(partNo)) return false;
+    if (partNos.length > 0 && !partNos.includes(v.part_no)) return false;
     if (familyId && String(v.family_id) !== familyId) return false;
     if (gender) {
       const match =

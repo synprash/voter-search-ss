@@ -1,0 +1,5448 @@
+[
+  {
+    "serialNo": 1,
+    "name": "भिमा सुरेश बागुल",
+    "relativeName": "सुरेश बागुल",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 2,
+    "name": "प्रसाद राजेंद्र बागुल",
+    "relativeName": "राजेंद्र बागुल",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 3,
+    "name": "मोहंमदअली अजीज बेग",
+    "relativeName": "अजीज बेग",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 4,
+    "name": "गोपाल बाबुराव गडे",
+    "relativeName": "बाबुराव गडे",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 5,
+    "name": "राकेश शिवलिंग जगताप",
+    "relativeName": "शिवलिंग जगताप",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 6,
+    "name": "जयश्री राकेश जगताप",
+    "relativeName": "राकेश जगताप",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 7,
+    "name": "किरण शिवलिंग जगताप",
+    "relativeName": "शिवलिंग जगताप",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 8,
+    "name": "संदीप शिवलिंग जगताप",
+    "relativeName": "शिवलिंग जगताप",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 9,
+    "name": "सारिका किरण जगताप",
+    "relativeName": "किरण जगताप",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 10,
+    "name": "रविंद्र शिवलिंग जगताप",
+    "relativeName": "शिवलिंग जगताप",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 11,
+    "name": "सचिन विजय जगताप",
+    "relativeName": "विजय जगताप",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 12,
+    "name": "अश्विनी हरीश जगताप",
+    "relativeName": "हरीश जगताप",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 13,
+    "name": "योगेश शातीलाल कासलीवाल",
+    "relativeName": "शातीलाल कासलीवाल",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 14,
+    "name": "विवेक चिंधु खैरे",
+    "relativeName": "चिंधु खैरे",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 15,
+    "name": "सोनाली मांगिलाल खैरे",
+    "relativeName": "मांगिलाल खैरे",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 16,
+    "name": "संदिप सुभाष कोतवाल",
+    "relativeName": "सुभाष कोतवाल गा22504561",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 17,
+    "name": "शितल अनिल कोतवाल",
+    "relativeName": "अनिल कोतवाल गा26176333",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 18,
+    "name": "अर्चना प्रविण कोतवाल",
+    "relativeName": "प्रविण कोतवाल गा26431274",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 19,
+    "name": "अतुल शंकर कोतवाल",
+    "relativeName": "शंकर कोतवाल",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 20,
+    "name": "सागर रमेश कोतवाल",
+    "relativeName": "रमेश कोतवाल",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 21,
+    "name": "पवन संजय कोतवाल आरईचे नाव जया कोतवाल",
+    "relativeName": "जया कोतवाल",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 22,
+    "name": "भुषण अशोक कोतवाल",
+    "relativeName": "अशोक कोतवाल",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 23,
+    "name": "राहुल सुभाष कोतवाल",
+    "relativeName": "सुभाष कोतवाल",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 24,
+    "name": "रोहित सुनिल कोतवाल",
+    "relativeName": "सुनिल कोतवाल",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 25,
+    "name": "माया निलेश कोतवाल '",
+    "relativeName": "निलेश कोतवाल",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 26,
+    "name": "गायत्री संदिप कोतवाल",
+    "relativeName": "संदिप कोतवाल",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 27,
+    "name": "तेजस संदीप महाले",
+    "relativeName": "संदीप महाले",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 28,
+    "name": "जुबेर निसार पठाण",
+    "relativeName": "निसार पठाण",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 29,
+    "name": "अशिष कचरदास रारिया",
+    "relativeName": "कचरदास रारिया",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 30,
+    "name": "अकिब जमशिद शेख इतर जमशिद शेख",
+    "relativeName": "",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 31,
+    "name": "तंजीर इम्तियाज शेख इतर इम्तियाज रहेमान शेख",
+    "relativeName": "",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 32,
+    "name": "कैलास गुलाबराव शेळके",
+    "relativeName": "गुलाबराव शेळके",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 33,
+    "name": "जयश्री दिलीप वणवे",
+    "relativeName": "दिलीप वणवे",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 34,
+    "name": "हर्षद राकेश जगताप",
+    "relativeName": "राकेश शिवलींग जगताप",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 35,
+    "name": "अर्चित धर्मेंद्र लोढा",
+    "relativeName": "धर्मेंद्र रमनलालजी लोढा",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 36,
+    "name": "हर्षल राजेंद्र बगडाणे",
+    "relativeName": "राजेंद्र बगडाणे",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 37,
+    "name": "सीमा राजेश बागुल",
+    "relativeName": "राजेश बागुल",
+    "relationType": "पती",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 38,
+    "name": "कुणाल गणेश बागुल",
+    "relativeName": "गणेश बागुल",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 39,
+    "name": "वैशाली कुणाल बागुल",
+    "relativeName": "कुणाल गणेश बागुल",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 40,
+    "name": "रुपेश दिपक बागुल",
+    "relativeName": "दिपक बागुल",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 41,
+    "name": "शालिनी प्रदीप खैरे",
+    "relativeName": "प्रदीप खैरे",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 42,
+    "name": "अंकिता प्रदीप खैरे",
+    "relativeName": "प्रदीप खैरे",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 43,
+    "name": "कल्याणी संतोष खैरे",
+    "relativeName": "संतोष खैरे",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 44,
+    "name": "जितेंद्र अनिल कोतवाल",
+    "relativeName": "अनिल कोतवाल",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 45,
+    "name": "मुक्ता कोतवाल",
+    "relativeName": "भुषण कोतवाल",
+    "relationType": "पती",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 46,
+    "name": "वैभव सुरेश कोतवाल",
+    "relativeName": "सुरेश कोतवाल",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 47,
+    "name": "अंजली वैभव कोतवाल",
+    "relativeName": "वैभव कोतवाल",
+    "relationType": "पती",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 48,
+    "name": "सनी शरद कोतवाल",
+    "relativeName": "शरद कोतवाल",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 49,
+    "name": "देवा शरद कोतवाल",
+    "relativeName": "शरद कोतवाल",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 50,
+    "name": "रमणलाल चांदमल लोढा",
+    "relativeName": "चांदमल लोढा",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 51,
+    "name": "संकेत तुकाराम मिसाळ",
+    "relativeName": "तुकाराम मिसाळ",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 52,
+    "name": "पवन संजय मोरे",
+    "relativeName": "संजय मोरे",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 53,
+    "name": "राहुल संजय मोरे",
+    "relativeName": "संजय मोरे",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 54,
+    "name": "वैशाली मनोज पवार",
+    "relativeName": "मनोज पवार",
+    "relationType": "पती",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 55,
+    "name": "गौरव माधव सांगळे",
+    "relativeName": "माधव सांगळे",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 56,
+    "name": "फ़रीदाबानो ताहेर शेख",
+    "relativeName": "ताहेर शेख",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 57,
+    "name": "नवीद तय्यब शेख",
+    "relativeName": "तय्यब शेख",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 58,
+    "name": "जावीद तैय्यब शेख",
+    "relativeName": "तैय्यब शेख",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 59,
+    "name": "जुनेद तैय्यब शेख",
+    "relativeName": "तैय्यब शेख",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 60,
+    "name": "मयूरी टाटिया",
+    "relativeName": "आशिष टाटिया",
+    "relationType": "पती",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 61,
+    "name": "कृष्णा मोरे",
+    "relativeName": "प्रकाश मोरे",
+    "relationType": "वडील",
+    "houseNo": "--"
+  },
+  {
+    "serialNo": 62,
+    "name": "किरण मोरे",
+    "relativeName": "प्रकाश मोरे",
+    "relationType": "वडील",
+    "houseNo": "--"
+  },
+  {
+    "serialNo": 63,
+    "name": "अश्विनी राकेश कोतवाल",
+    "relativeName": "राकेश कोतवाल",
+    "relationType": "पती",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 64,
+    "name": "संगीता राहुल शेळके",
+    "relativeName": "राहुल शिवाजी शेळके",
+    "relationType": "पती",
+    "houseNo": "गजानन हाउसिंग सोसायटी"
+  },
+  {
+    "serialNo": 65,
+    "name": "भक्ति राहुल शेळके",
+    "relativeName": "राहुल शिवाजी शेळके",
+    "relationType": "वडील",
+    "houseNo": "गजानन हाउसिंग सोसायटी"
+  },
+  {
+    "serialNo": 66,
+    "name": "सना इप्तेकार अत्तार",
+    "relativeName": "इफतेकार अत्तार",
+    "relationType": "पती",
+    "houseNo": "माळी गल्ली"
+  },
+  {
+    "serialNo": 67,
+    "name": "गौरव सुरेश कोतवाल",
+    "relativeName": "सुरेश कोतवाल",
+    "relationType": "वडील",
+    "houseNo": "34"
+  },
+  {
+    "serialNo": 68,
+    "name": "प्रमिला गौरव कोतवाल",
+    "relativeName": "गौरव कोतवाल",
+    "relationType": "पती",
+    "houseNo": "34"
+  },
+  {
+    "serialNo": 69,
+    "name": "प्रतिक्षा अनिल गायकवाड",
+    "relativeName": "अनिल गायकवाड",
+    "relationType": "वडील",
+    "houseNo": "38"
+  },
+  {
+    "serialNo": 70,
+    "name": "दामिनी किशोर चौबे",
+    "relativeName": "किशोर चौबे",
+    "relationType": "वडील",
+    "houseNo": "३१९"
+  },
+  {
+    "serialNo": 71,
+    "name": "किशोर चौब",
+    "relativeName": "किशोर चौबे",
+    "relationType": "वडील",
+    "houseNo": "३१९"
+  },
+  {
+    "serialNo": 72,
+    "name": "सौरभ महेश पोलेकर",
+    "relativeName": "महेश पोलेकर",
+    "relationType": "वडील",
+    "houseNo": "389"
+  },
+  {
+    "serialNo": 73,
+    "name": "पुष्पा रमणलाल लोढा",
+    "relativeName": "रमणलाल लोढा",
+    "relationType": "पती",
+    "houseNo": "462"
+  },
+  {
+    "serialNo": 74,
+    "name": "धर्मेंद्र रमणलाल लोढा",
+    "relativeName": "रमणलाल लोढा",
+    "relationType": "वडील",
+    "houseNo": "462"
+  },
+  {
+    "serialNo": 75,
+    "name": "मनिषा धमेंद्र लोढा",
+    "relativeName": "धमेंद्र लोढा",
+    "relationType": "पती",
+    "houseNo": "462"
+  },
+  {
+    "serialNo": 76,
+    "name": "तेजस लोढा",
+    "relativeName": "धर्मेंद्र लोढा",
+    "relationType": "वडील",
+    "houseNo": "462"
+  },
+  {
+    "serialNo": 77,
+    "name": "गौरव महेश पोलेकर",
+    "relativeName": "महेश पोलेकर",
+    "relationType": "वडील",
+    "houseNo": "464"
+  },
+  {
+    "serialNo": 78,
+    "name": "शेखर बाबुराव वाळंज",
+    "relativeName": "बाबुराव वाळंज",
+    "relationType": "वडील",
+    "houseNo": "464"
+  },
+  {
+    "serialNo": 79,
+    "name": "नजमाबी उस्मान शेख",
+    "relativeName": "उस्मान शेख",
+    "relationType": "पती",
+    "houseNo": "469"
+  },
+  {
+    "serialNo": 80,
+    "name": "सुलोजना जयकिसन ओझा",
+    "relativeName": "जयकिसन ओझा",
+    "relationType": "पती",
+    "houseNo": "470"
+  },
+  {
+    "serialNo": 81,
+    "name": "संजय जयकीसन ओझा",
+    "relativeName": "जयकीसन ओझा",
+    "relationType": "वडील",
+    "houseNo": "470"
+  },
+  {
+    "serialNo": 82,
+    "name": "ज्योती संजय ओझा",
+    "relativeName": "संजय ओझा",
+    "relationType": "पती",
+    "houseNo": "470"
+  },
+  {
+    "serialNo": 83,
+    "name": "विजय जयकिसन ओझा",
+    "relativeName": "जयकिसन ओझा",
+    "relationType": "वडील",
+    "houseNo": "470"
+  },
+  {
+    "serialNo": 84,
+    "name": "स्वरूपचंद नागराज बुरड",
+    "relativeName": "नागराज बुरद",
+    "relationType": "वडील",
+    "houseNo": "471"
+  },
+  {
+    "serialNo": 85,
+    "name": "मनीष कचरदास ताटीया",
+    "relativeName": "कच्छरदास तटीय",
+    "relationType": "वडील",
+    "houseNo": "471"
+  },
+  {
+    "serialNo": 86,
+    "name": "निकिता मनीष ताटीया",
+    "relativeName": "मनीष तातिया",
+    "relationType": "पती",
+    "houseNo": "471"
+  },
+  {
+    "serialNo": 87,
+    "name": "जयेदा मोहमंदखान पठाण",
+    "relativeName": "मोहमदखान पठाण",
+    "relationType": "पती",
+    "houseNo": "472"
+  },
+  {
+    "serialNo": 88,
+    "name": "खाजबानो इसहाक अत्तार",
+    "relativeName": "इसहाक अत्तार",
+    "relationType": "पती",
+    "houseNo": "474"
+  },
+  {
+    "serialNo": 89,
+    "name": "दत्तात्रय दिनकर कोतवाल",
+    "relativeName": "दिनकर कोतवाल",
+    "relationType": "वडील",
+    "houseNo": "476"
+  },
+  {
+    "serialNo": 90,
+    "name": "अलका दत्तात्रय कोतवाल",
+    "relativeName": "दत्तात्रय कोतवाल",
+    "relationType": "पती",
+    "houseNo": "476"
+  },
+  {
+    "serialNo": 91,
+    "name": "शरद दिनकर कोतवाल",
+    "relativeName": "दिनकर कोतवाल",
+    "relationType": "वडील",
+    "houseNo": "476"
+  },
+  {
+    "serialNo": 92,
+    "name": "मनिषा शरद कोतवाल",
+    "relativeName": "शरद कोतवाल",
+    "relationType": "पती",
+    "houseNo": "476"
+  },
+  {
+    "serialNo": 93,
+    "name": "कपिल दत्तात्रय कोतवाल",
+    "relativeName": "दत्तात्रय कोतवाल",
+    "relationType": "वडील",
+    "houseNo": "४७६/ब"
+  },
+  {
+    "serialNo": 94,
+    "name": "नरेंद्र वसंत कोतवाल",
+    "relativeName": "वसंत कोतवाल",
+    "relationType": "वडील",
+    "houseNo": "477"
+  },
+  {
+    "serialNo": 95,
+    "name": "मीना नरेंद्र कोतवाल",
+    "relativeName": "नरेंद्र कोतवाल",
+    "relationType": "पती",
+    "houseNo": "सी/ओ नरेंद्र कोतवाल"
+  },
+  {
+    "serialNo": 96,
+    "name": "जया संजय कोतवाल",
+    "relativeName": "संजय कोतवाल",
+    "relationType": "पती",
+    "houseNo": "477"
+  },
+  {
+    "serialNo": 97,
+    "name": "भूषण नरेंद्र कोतवाल",
+    "relativeName": "नरेंद्र कोतवाल",
+    "relationType": "वडील",
+    "houseNo": "477"
+  },
+  {
+    "serialNo": 98,
+    "name": "शांताबाई त्रिंबक कोतवाल",
+    "relativeName": "त्रिंबक कोतवाल",
+    "relationType": "पती",
+    "houseNo": "479"
+  },
+  {
+    "serialNo": 99,
+    "name": "अरुण त्रिंबक कोतवाल",
+    "relativeName": "त्रिंबक कोतवाल",
+    "relationType": "वडील",
+    "houseNo": "479"
+  },
+  {
+    "serialNo": 100,
+    "name": "अनिल त्रिंबक कोतवाल",
+    "relativeName": "त्रिंबक कोतवाल",
+    "relationType": "वडील",
+    "houseNo": "479"
+  },
+  {
+    "serialNo": 101,
+    "name": "लिला अनिल कोतवाल",
+    "relativeName": "अनिल कोतवाल",
+    "relationType": "पती",
+    "houseNo": "479"
+  },
+  {
+    "serialNo": 102,
+    "name": "सुशिला सुनील कोतवाल",
+    "relativeName": "सुनील कोतवाल",
+    "relationType": "पती",
+    "houseNo": "479"
+  },
+  {
+    "serialNo": 103,
+    "name": "शिला राजेंद्र कोतवाल",
+    "relativeName": "राजेंद्र कोतवाल",
+    "relationType": "पती",
+    "houseNo": "480"
+  },
+  {
+    "serialNo": 104,
+    "name": "केशव रंगनाथ कोतवाल",
+    "relativeName": "रंगनाथ कोतवाल",
+    "relationType": "वडील",
+    "houseNo": "481"
+  },
+  {
+    "serialNo": 105,
+    "name": "शोभा केशव कोतवाल",
+    "relativeName": "केशव कोतवाल",
+    "relationType": "पती",
+    "houseNo": "481"
+  },
+  {
+    "serialNo": 106,
+    "name": "बापू रंगनाथ कोतवाल",
+    "relativeName": "रंगनाथ कोतवाल गा26176382",
+    "relationType": "वडील",
+    "houseNo": "481"
+  },
+  {
+    "serialNo": 107,
+    "name": "मीना अशोक कोतवाल",
+    "relativeName": "अशोक कोतवाल गा2/7175318",
+    "relationType": "पती",
+    "houseNo": "481"
+  },
+  {
+    "serialNo": 108,
+    "name": "रावसाहेब रंगनाथ कोतवाल",
+    "relativeName": "रंगनाथ कोतवाल र्न व्य ि 0 व्य ऱ् ०. जद ०",
+    "relationType": "वडील",
+    "houseNo": "481"
+  },
+  {
+    "serialNo": 109,
+    "name": "निलिमा रावसाहेब कोतवाल",
+    "relativeName": "रावसाहेब कोतवाल",
+    "relationType": "पती",
+    "houseNo": "481"
+  },
+  {
+    "serialNo": 110,
+    "name": "भाऊसाहेब रंगनाथ कोतवाल",
+    "relativeName": "रंगनाथ कोतवाल",
+    "relationType": "वडील",
+    "houseNo": "481"
+  },
+  {
+    "serialNo": 111,
+    "name": "कल्पना बापू कोतवाल",
+    "relativeName": "बापू कोतवाल",
+    "relationType": "पती",
+    "houseNo": "481"
+  },
+  {
+    "serialNo": 112,
+    "name": "संजय रंगनाथ कोतवाल",
+    "relativeName": "रंगनाथ कोतवाल",
+    "relationType": "वडील",
+    "houseNo": "481"
+  },
+  {
+    "serialNo": 113,
+    "name": "अनिता भाऊसाहेब कोतवाल",
+    "relativeName": "भाऊसाहेब कोतवाल",
+    "relationType": "पती",
+    "houseNo": "481"
+  },
+  {
+    "serialNo": 114,
+    "name": "छाया संजय कोतवाल",
+    "relativeName": "संजय कोतवाल",
+    "relationType": "पती",
+    "houseNo": "481"
+  },
+  {
+    "serialNo": 115,
+    "name": "महेश अशोक कोतवाल",
+    "relativeName": "अशोक कोतवाल",
+    "relationType": "वडील",
+    "houseNo": "481"
+  },
+  {
+    "serialNo": 116,
+    "name": "राकेश केशवराव कोतवाल",
+    "relativeName": "केशवराव कोतवाल",
+    "relationType": "वडील",
+    "houseNo": "481"
+  },
+  {
+    "serialNo": 117,
+    "name": "मधुकर दत्तात्रय अहीरे बडिलांचे नाव दत्तात्रय अहीरे",
+    "relativeName": "दत्तात्रेय अहिरे",
+    "relationType": "वडील",
+    "houseNo": "482"
+  },
+  {
+    "serialNo": 118,
+    "name": "दत्तात्रय रामभाऊ बोरसे",
+    "relativeName": "रामभाऊ बोरसे",
+    "relationType": "वडील",
+    "houseNo": "482"
+  },
+  {
+    "serialNo": 119,
+    "name": "अरुणा दत्तात्रय बोरसे",
+    "relativeName": "दत्तात्रय बोरसे",
+    "relationType": "पती",
+    "houseNo": "482"
+  },
+  {
+    "serialNo": 120,
+    "name": "मंगला दत्तात्रेय बोरसे",
+    "relativeName": "दत्तात्रेय बोरसे",
+    "relationType": "वडील",
+    "houseNo": "482"
+  },
+  {
+    "serialNo": 121,
+    "name": "राजेद्र शिवाजी कोतवाल",
+    "relativeName": "शिवाजी कोतवाल",
+    "relationType": "वडील",
+    "houseNo": "482"
+  },
+  {
+    "serialNo": 122,
+    "name": "विजय कारभारी महाले",
+    "relativeName": "कारभारी महाले",
+    "relationType": "वडील",
+    "houseNo": "482"
+  },
+  {
+    "serialNo": 123,
+    "name": "प्रशांत चंद्रकांत परदेशी",
+    "relativeName": "चंद्रकांत परदेशी",
+    "relationType": "वडील",
+    "houseNo": "482"
+  },
+  {
+    "serialNo": 124,
+    "name": "सुरेश संपत कोतवाल",
+    "relativeName": "संपत कोतवाल",
+    "relationType": "वडील",
+    "houseNo": "485"
+  },
+  {
+    "serialNo": 125,
+    "name": "शांताराम संपत कोतवाल",
+    "relativeName": "संपत कोतवाल",
+    "relationType": "वडील",
+    "houseNo": "485"
+  },
+  {
+    "serialNo": 126,
+    "name": "वर्शा सुरेश कोतवाल",
+    "relativeName": "सुरेश कोतवाल",
+    "relationType": "पती",
+    "houseNo": "485"
+  },
+  {
+    "serialNo": 127,
+    "name": "सुधाकर संपत कोतवाल",
+    "relativeName": "संपत कोतवाल",
+    "relationType": "वडील",
+    "houseNo": "485"
+  },
+  {
+    "serialNo": 128,
+    "name": "सुभाष बाबुराव कोतवाल",
+    "relativeName": "बाबुराव कोतवाल",
+    "relationType": "वडील",
+    "houseNo": "487"
+  },
+  {
+    "serialNo": 129,
+    "name": "मीराबाई बाळासाहेब कोतवाल",
+    "relativeName": "बाळासाहेब कोतवाल",
+    "relationType": "पती",
+    "houseNo": "487"
+  },
+  {
+    "serialNo": 130,
+    "name": "हिराबाई सुभाष कोतवाल",
+    "relativeName": "सुभाष कोतवाल",
+    "relationType": "पती",
+    "houseNo": "487"
+  },
+  {
+    "serialNo": 131,
+    "name": "विष्णू बाबुराव कोतवाल",
+    "relativeName": "बाबुराव कोतवाल",
+    "relationType": "वडील",
+    "houseNo": "487"
+  },
+  {
+    "serialNo": 132,
+    "name": "शंकर बाबुराव कोतवाल",
+    "relativeName": "बाबुराव कोतवाल",
+    "relationType": "वडील",
+    "houseNo": "487"
+  },
+  {
+    "serialNo": 133,
+    "name": "सिंधूबाई शंकर कोतवाल",
+    "relativeName": "शंकर कोतवाल",
+    "relationType": "पती",
+    "houseNo": "487"
+  },
+  {
+    "serialNo": 134,
+    "name": "प्रताप बाबुराव कोतवाल",
+    "relativeName": "बाबुराव कोतवाल",
+    "relationType": "वडील",
+    "houseNo": "487"
+  },
+  {
+    "serialNo": 135,
+    "name": "उषा प्रताप कोतवाल",
+    "relativeName": "प्रताप कोतवाल",
+    "relationType": "पती",
+    "houseNo": "487"
+  },
+  {
+    "serialNo": 136,
+    "name": "नर्मदाबाई गंगाधर कोतवाल",
+    "relativeName": "गंगाधर कोतवाल",
+    "relationType": "पती",
+    "houseNo": "488"
+  },
+  {
+    "serialNo": 137,
+    "name": "संगिता दिनकर कोतवाल",
+    "relativeName": "दिनकर कोतवाल",
+    "relationType": "पती",
+    "houseNo": "488"
+  },
+  {
+    "serialNo": 138,
+    "name": "शिवाजी सिताराम कोतवाल",
+    "relativeName": "सिताराम कोतवाल",
+    "relationType": "वडील",
+    "houseNo": "नियरहोळकरहाईस्कूल"
+  },
+  {
+    "serialNo": 139,
+    "name": "चंद्रकला शिवाजी कोतवाल",
+    "relativeName": "शिवाजी कोतवाल",
+    "relationType": "पती",
+    "houseNo": "नियरहोळकरहाईस्कूल"
+  },
+  {
+    "serialNo": 140,
+    "name": "गयाबाई पोपाराव कोतवाल",
+    "relativeName": "पोपटराव कोतवाल",
+    "relationType": "पती",
+    "houseNo": "490"
+  },
+  {
+    "serialNo": 141,
+    "name": "मंदा दिलीप कोतवाल",
+    "relativeName": "दिलीप कोतवाल",
+    "relationType": "पती",
+    "houseNo": "490"
+  },
+  {
+    "serialNo": 142,
+    "name": "शरद पोपटराव कोतवाल",
+    "relativeName": "पोपटराव कोतवाल",
+    "relationType": "वडील",
+    "houseNo": "490"
+  },
+  {
+    "serialNo": 143,
+    "name": "भरत पोपटराव कोतवाल",
+    "relativeName": "पोपटराव कोतवाल",
+    "relationType": "वडील",
+    "houseNo": "490"
+  },
+  {
+    "serialNo": 144,
+    "name": "वैशाली शरद कोतवाल",
+    "relativeName": "शरद कोतवाल",
+    "relationType": "पती",
+    "houseNo": "490"
+  },
+  {
+    "serialNo": 145,
+    "name": "योगिता भरत कोतवाल",
+    "relativeName": "भरत कोतवाल",
+    "relationType": "पती",
+    "houseNo": "490"
+  },
+  {
+    "serialNo": 146,
+    "name": "सचिन दिलीप कोतवाल",
+    "relativeName": "दिलीप कोतवाल",
+    "relationType": "वडील",
+    "houseNo": "490"
+  },
+  {
+    "serialNo": 147,
+    "name": "ललीता दिलीप कोतवाल",
+    "relativeName": "दिलीप कोतवाल",
+    "relationType": "वडील",
+    "houseNo": "490"
+  },
+  {
+    "serialNo": 148,
+    "name": "संभाजी रमन ढगे",
+    "relativeName": "रमन ढगे",
+    "relationType": "वडील",
+    "houseNo": "491"
+  },
+  {
+    "serialNo": 149,
+    "name": "राजाराम जगन्नाथ कोतवाल",
+    "relativeName": "जगन्नाथ कोतवाल",
+    "relationType": "वडील",
+    "houseNo": "491"
+  },
+  {
+    "serialNo": 150,
+    "name": "मंगला राजाराम कोतवाल",
+    "relativeName": "राजाराम कोतवाल",
+    "relationType": "पती",
+    "houseNo": "491"
+  },
+  {
+    "serialNo": 151,
+    "name": "अनिल जगन्नाथ कोतवाल",
+    "relativeName": "जगन्नाथ कोतवाल",
+    "relationType": "वडील",
+    "houseNo": "491"
+  },
+  {
+    "serialNo": 152,
+    "name": "सुनिता सुनील कोतवाल",
+    "relativeName": "सुनील कोतवाल",
+    "relationType": "पती",
+    "houseNo": "491"
+  },
+  {
+    "serialNo": 153,
+    "name": "शैला अनिल कोतवाल",
+    "relativeName": "अनिल कोतवाल",
+    "relationType": "वडील",
+    "houseNo": "491"
+  },
+  {
+    "serialNo": 154,
+    "name": "चंद्रकला शिवाजी शेळके",
+    "relativeName": "शिवाजी शेळके",
+    "relationType": "पती",
+    "houseNo": "496"
+  },
+  {
+    "serialNo": 155,
+    "name": "जगदीश शिवाजी शेळके",
+    "relativeName": "शिवाजी शेळके",
+    "relationType": "वडील",
+    "houseNo": "496"
+  },
+  {
+    "serialNo": 156,
+    "name": "विजय जगताप सागर",
+    "relativeName": "जगताप सागर",
+    "relationType": "वडील",
+    "houseNo": "545"
+  },
+  {
+    "serialNo": 157,
+    "name": "पूजा राजेंद्र बागुल",
+    "relativeName": "राजेंद्र बागुल",
+    "relationType": "पती",
+    "houseNo": "५८४"
+  },
+  {
+    "serialNo": 158,
+    "name": "कोमल गजेंद्र शेलार",
+    "relativeName": "गजेंद्र शेलार",
+    "relationType": "वडील",
+    "houseNo": "594"
+  },
+  {
+    "serialNo": 159,
+    "name": "मोबिन सलीम पठाण",
+    "relativeName": "सलीम पठाण",
+    "relationType": "वडील",
+    "houseNo": "६०१"
+  },
+  {
+    "serialNo": 160,
+    "name": "वैशाली रविंद्र जगताप",
+    "relativeName": "रविंद्र जगताप",
+    "relationType": "पती",
+    "houseNo": "७०१"
+  },
+  {
+    "serialNo": 161,
+    "name": "नसरीन इमरान अत्तार",
+    "relativeName": "इमरान अत्तार",
+    "relationType": "पती",
+    "houseNo": "825"
+  },
+  {
+    "serialNo": 162,
+    "name": "माधवलाल मोतीलाल अहेर",
+    "relativeName": "मोतीलाल अहेर",
+    "relationType": "वडील",
+    "houseNo": "4361"
+  },
+  {
+    "serialNo": 163,
+    "name": "चंद्रकला पन्हालाल शर्मा",
+    "relativeName": "पन्हालाल शर्मा",
+    "relationType": "पती",
+    "houseNo": "4622"
+  },
+  {
+    "serialNo": 164,
+    "name": "विजय रंगनाथ जगताप",
+    "relativeName": "रंगनाथ जगताप",
+    "relationType": "वडील",
+    "houseNo": "4651"
+  },
+  {
+    "serialNo": 165,
+    "name": "लता विजय जगताप",
+    "relativeName": "विजय जगताप",
+    "relationType": "पती",
+    "houseNo": "4651"
+  },
+  {
+    "serialNo": 166,
+    "name": "वैभव प्रमोद जाधव",
+    "relativeName": "प्रमोद जाधव",
+    "relationType": "वडील",
+    "houseNo": "4682"
+  },
+  {
+    "serialNo": 167,
+    "name": "कचरदास धनराज टाटीया",
+    "relativeName": "धनराज टाटीया",
+    "relationType": "वडील",
+    "houseNo": "4712"
+  },
+  {
+    "serialNo": 168,
+    "name": "सुरेखा कचरदास टाटीया",
+    "relativeName": "कचरदास टाटीया",
+    "relationType": "पती",
+    "houseNo": "4712"
+  },
+  {
+    "serialNo": 169,
+    "name": "रिजवान कादरखान पठाण",
+    "relativeName": "कादरखान पठाण",
+    "relationType": "वडील",
+    "houseNo": "472/2"
+  },
+  {
+    "serialNo": 170,
+    "name": "तन्वीर इसाक अत्तार",
+    "relativeName": "इसाक इब्राहिम अत्तार",
+    "relationType": "वडील",
+    "houseNo": "4741"
+  },
+  {
+    "serialNo": 171,
+    "name": "सुल्तान निसार अत्तार",
+    "relativeName": "निसार अत्तार",
+    "relationType": "पती",
+    "houseNo": "4741"
+  },
+  {
+    "serialNo": 172,
+    "name": "निसार इसहाक अत्तार",
+    "relativeName": "इसहाक अत्तार",
+    "relationType": "वडील",
+    "houseNo": "4741"
+  },
+  {
+    "serialNo": 173,
+    "name": "जमीला तन्वीर अत्तार",
+    "relativeName": "तनवीर अत्तार",
+    "relationType": "पती",
+    "houseNo": "साखळी वाडा"
+  },
+  {
+    "serialNo": 174,
+    "name": "सलीम तनवीर अत्तार",
+    "relativeName": "तनवीर अत्तार",
+    "relationType": "वडील",
+    "houseNo": "४७४१"
+  },
+  {
+    "serialNo": 175,
+    "name": "शाहीन अ रज्जाक अत्तार",
+    "relativeName": "अ रज्जाक अत्तार",
+    "relationType": "पती",
+    "houseNo": "4742"
+  },
+  {
+    "serialNo": 176,
+    "name": "प्रविण शिवाजी कोतवाल",
+    "relativeName": "शिवाजी कोतवाल",
+    "relationType": "वडील",
+    "houseNo": "476/1"
+  },
+  {
+    "serialNo": 177,
+    "name": "हिराबाई शिवाजी कोतवाल",
+    "relativeName": "शिवाजी कोतवाल",
+    "relationType": "पती",
+    "houseNo": "4761"
+  },
+  {
+    "serialNo": 178,
+    "name": "परशुराम रतन सोहनी",
+    "relativeName": "रतन सोहनी",
+    "relationType": "वडील",
+    "houseNo": "4763"
+  },
+  {
+    "serialNo": 179,
+    "name": "प्रभाकर निळकंठ देशमुख",
+    "relativeName": "निळकंठ देशमुख",
+    "relationType": "वडील",
+    "houseNo": "4801"
+  },
+  {
+    "serialNo": 180,
+    "name": "जकिया असलम शेख",
+    "relativeName": "असलम शेख",
+    "relationType": "पती",
+    "houseNo": "0"
+  },
+  {
+    "serialNo": 181,
+    "name": "महेंद्रकुमार निळकंठ देशमुख",
+    "relativeName": "निळकंठ देशमुख",
+    "relationType": "वडील",
+    "houseNo": "4802"
+  },
+  {
+    "serialNo": 182,
+    "name": "अलका महेंद्रकुमार देशमुख",
+    "relativeName": "महेंद्रकुमार देशमुख",
+    "relationType": "पती",
+    "houseNo": "4802"
+  },
+  {
+    "serialNo": 183,
+    "name": "कुसूम माणिकराव कोतवाल",
+    "relativeName": "माणिकराव कोतवाल",
+    "relationType": "पती",
+    "houseNo": "4811"
+  },
+  {
+    "serialNo": 184,
+    "name": "प्रभाकर पंढरीनाथ कोतवाल",
+    "relativeName": "पंढरीनाथ कोतवाल",
+    "relationType": "वडील",
+    "houseNo": "4811"
+  },
+  {
+    "serialNo": 185,
+    "name": "सुनंदा प्रभाकर कोतवाल",
+    "relativeName": "प्रभाकर कोतवाल",
+    "relationType": "पती",
+    "houseNo": "4811"
+  },
+  {
+    "serialNo": 186,
+    "name": "पुष्पा सचिन कोतवाल",
+    "relativeName": "सचिन कोतवाल",
+    "relationType": "पती",
+    "houseNo": "4811"
+  },
+  {
+    "serialNo": 187,
+    "name": "विजय गणपत कोतवाल",
+    "relativeName": "गणपत कोतवाल",
+    "relationType": "वडील",
+    "houseNo": "4812"
+  },
+  {
+    "serialNo": 188,
+    "name": "विमल विजय कोतवाल",
+    "relativeName": "विजय कोतवाल",
+    "relationType": "पती",
+    "houseNo": "4812"
+  },
+  {
+    "serialNo": 189,
+    "name": "नलीनी रविंद्र कोतवाल",
+    "relativeName": "रविंद्र कोतवाल",
+    "relationType": "पती",
+    "houseNo": "4812"
+  },
+  {
+    "serialNo": 190,
+    "name": "संगिता गणपत कोतवाल",
+    "relativeName": "गणपत कोतवाल",
+    "relationType": "पती",
+    "houseNo": "4812"
+  },
+  {
+    "serialNo": 191,
+    "name": "वसंत श्रीराम कोतवाल",
+    "relativeName": "श्रीराम कोतवाल",
+    "relationType": "वडील",
+    "houseNo": "4813"
+  },
+  {
+    "serialNo": 192,
+    "name": "प्रमिला वसंत कोतवाल",
+    "relativeName": "वसंत कोतवाल",
+    "relationType": "पती",
+    "houseNo": "4813"
+  },
+  {
+    "serialNo": 193,
+    "name": "बाजीराव दौलत कोतवाल",
+    "relativeName": "दौलत कोतवाल",
+    "relationType": "वडील",
+    "houseNo": "4861"
+  },
+  {
+    "serialNo": 194,
+    "name": "कमलाबाई बाजीराव कोतवाल",
+    "relativeName": "बाजीराव कोतवाल",
+    "relationType": "पती",
+    "houseNo": "4861"
+  },
+  {
+    "serialNo": 195,
+    "name": "दत्तात्रय बाजीराव कोतवाल",
+    "relativeName": "बाजीराव कोतवाल",
+    "relationType": "वडील",
+    "houseNo": "4861"
+  },
+  {
+    "serialNo": 196,
+    "name": "विश्वास नामदेवराव पाटील",
+    "relativeName": "नामदेवराव पाटील",
+    "relationType": "वडील",
+    "houseNo": "4862"
+  },
+  {
+    "serialNo": 197,
+    "name": "सुनिता विश्वास पाटील",
+    "relativeName": "विश्वास पाटील",
+    "relationType": "पती",
+    "houseNo": "4862"
+  },
+  {
+    "serialNo": 198,
+    "name": "अशोक गुलाबराव शेळके",
+    "relativeName": "गुलाबराव शेळके",
+    "relationType": "वडील",
+    "houseNo": "4932"
+  },
+  {
+    "serialNo": 199,
+    "name": "शाम गुलाबराव शेळके",
+    "relativeName": "गुलाबराव शेळके",
+    "relationType": "वडील",
+    "houseNo": "4932"
+  },
+  {
+    "serialNo": 200,
+    "name": "कुसूम अशोक भूरे",
+    "relativeName": "अशोक भूरे",
+    "relationType": "पती",
+    "houseNo": "4951"
+  },
+  {
+    "serialNo": 201,
+    "name": "सुषमा विजय बागुल",
+    "relativeName": "विजय बागुल",
+    "relationType": "पती",
+    "houseNo": "5841"
+  },
+  {
+    "serialNo": 202,
+    "name": "गणेश जगन्न्ञाथ भुरे",
+    "relativeName": "जगन्नाथ भुरे",
+    "relationType": "वडील",
+    "houseNo": "584/2"
+  },
+  {
+    "serialNo": 203,
+    "name": "वर्षा संदिप जगताप",
+    "relativeName": "संदिप जगताप",
+    "relationType": "पती",
+    "houseNo": "701/2"
+  },
+  {
+    "serialNo": 204,
+    "name": "प्रविण महेंद्र देशमुख",
+    "relativeName": "महेंद्र देशमुख",
+    "relationType": "वडील",
+    "houseNo": "4801/1"
+  },
+  {
+    "serialNo": 205,
+    "name": "असलम हनीफ शेख",
+    "relativeName": "हनीफ शेख",
+    "relationType": "वडील",
+    "houseNo": "4801/1"
+  },
+  {
+    "serialNo": 206,
+    "name": "माहेनूर वासिफखान पठाण",
+    "relativeName": "वासिफखान एकबालखान पठाण",
+    "relationType": "वडील",
+    "houseNo": "973"
+  },
+  {
+    "serialNo": 207,
+    "name": "अरफात इशतियाक खान बडिलांचे नाव इश्‍तियाक इसाक खान",
+    "relativeName": "इश्तियाक इसाक खान",
+    "relationType": "वडील",
+    "houseNo": "0"
+  },
+  {
+    "serialNo": 208,
+    "name": "दिव्या भूषण कोतवाल",
+    "relativeName": "भूषण नरेंद्र कोतवाल",
+    "relationType": "पती",
+    "houseNo": "0"
+  },
+  {
+    "serialNo": 209,
+    "name": "रुकैया हनिफ शेख",
+    "relativeName": "हनिफ शेख",
+    "relationType": "पती",
+    "houseNo": "0"
+  },
+  {
+    "serialNo": 210,
+    "name": "संकेत दिनकर कोतवाल",
+    "relativeName": "दिनकर गंगाधर कोतवाल",
+    "relationType": "वडील",
+    "houseNo": "0"
+  },
+  {
+    "serialNo": 211,
+    "name": "शुभम दिनकर कोतवाल",
+    "relativeName": "दिनकर गंगाधर कोतवाल",
+    "relationType": "वडील",
+    "houseNo": "0"
+  },
+  {
+    "serialNo": 212,
+    "name": "आकाश प्रकाश मोरे",
+    "relativeName": "प्रकाश सुकदेव मोरे",
+    "relationType": "वडील",
+    "houseNo": "0"
+  },
+  {
+    "serialNo": 213,
+    "name": "प्रियंका आकाश मोरे",
+    "relativeName": "आकाश प्रकाश मोरे",
+    "relationType": "पती",
+    "houseNo": "0"
+  },
+  {
+    "serialNo": 214,
+    "name": "कविता शुभम कोतवाल",
+    "relativeName": "शुभम दिनकर कोतवाल",
+    "relationType": "पती",
+    "houseNo": "सी/ओ शुभम कोतवाल"
+  },
+  {
+    "serialNo": 215,
+    "name": "चिश्‍तिया मोबीन पठाण",
+    "relativeName": "मोबीन सलीम पठाण",
+    "relationType": "पती",
+    "houseNo": "सी/ओ मोबीन पठाण"
+  },
+  {
+    "serialNo": 216,
+    "name": "संगीता प्रशांत परदेशी",
+    "relativeName": "प्रशांत चंद्रकांत परदेशी",
+    "relationType": "पती",
+    "houseNo": "427"
+  },
+  {
+    "serialNo": 217,
+    "name": "सोहेल काझी",
+    "relativeName": "शहेवर काझी",
+    "relationType": "आई",
+    "houseNo": "काझिपूरा"
+  },
+  {
+    "serialNo": 218,
+    "name": "बिलकीस शफीक अत्तार",
+    "relativeName": "शफीक अत्तार",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 219,
+    "name": "इम्रान रहिम अत्तार",
+    "relativeName": "रहिम अत्तार",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 220,
+    "name": "माणिक कारभारी दळे",
+    "relativeName": "कारभारी दळे",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 221,
+    "name": "वसीम ख़लील शेख",
+    "relativeName": "खलील खलीफा",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 222,
+    "name": "निलोफर मकसुद खान",
+    "relativeName": "मकसुद खान",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 223,
+    "name": "अरशद अशफाक खान",
+    "relativeName": "अशफाक खान",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 224,
+    "name": "रोहिणी सुनील कोतवाल",
+    "relativeName": "सुनील कोतवाल",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 225,
+    "name": "मनिषा बारकु पगारे",
+    "relativeName": "बारकु पगारे",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 226,
+    "name": "अरूणा अजय पाटील",
+    "relativeName": "अजय पाटील",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 227,
+    "name": "कादीर मूसा शेख शेख",
+    "relativeName": "मूसा शेख",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 228,
+    "name": "मुमताज आसिफ शेख",
+    "relativeName": "आसिफ शेख",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 229,
+    "name": "निलोफर अल्तमश शेख",
+    "relativeName": "अल्तमश शेख",
+    "relationType": "पती",
+    "houseNo": "सी/ओ अल्तमश शेख"
+  },
+  {
+    "serialNo": 230,
+    "name": "तौसीफ इमतियाज शेख",
+    "relativeName": "इमतियाज शेख",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 231,
+    "name": "नरगीस सलीम शेख",
+    "relativeName": "सलीम शेख",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 232,
+    "name": "मुजम्मिल अख्लाख शेख",
+    "relativeName": "अख्लाख शेख",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 233,
+    "name": "एतेशाम मुस्ताक शेख",
+    "relativeName": "मुस्ताक शेख",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 234,
+    "name": "आरीफ सईद शेख शेख",
+    "relativeName": "सईद शेख",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 235,
+    "name": "जुबेर जाविद शेख",
+    "relativeName": "जावेद शेख",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 236,
+    "name": "रुबिना वसिम तांबोळी",
+    "relativeName": "वसिम तांबोळी",
+    "relationType": "पती",
+    "houseNo": "वसीम रज्जाक तांबोळी"
+  },
+  {
+    "serialNo": 237,
+    "name": "राहिल यूनुस शेख",
+    "relativeName": "यूनुस अ. रऊफ़ शेख",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 238,
+    "name": "शाह शाहरुख चांद",
+    "relativeName": "शाह चांद हुसैन",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 239,
+    "name": "तरचुम अरशद खान",
+    "relativeName": "अरशद खान",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 240,
+    "name": "अरबाज लियाकत खान",
+    "relativeName": "लियाकत खान",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 241,
+    "name": "सानिया शमशेर खान",
+    "relativeName": "शमशेर खान",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 242,
+    "name": "अरबाज इब्राहिम खान",
+    "relativeName": "इब्राहिम खान",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 243,
+    "name": "आलिशा शमशेर खान",
+    "relativeName": "शमशेर खान",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 244,
+    "name": "शाहीद खान",
+    "relativeName": "यूनुस खान",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 245,
+    "name": "ओसामा जावीद खान",
+    "relativeName": "जावीद खान",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 246,
+    "name": "फरैज़ान अकबर खान",
+    "relativeName": "अकबर खान",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 247,
+    "name": "आफ़ताब रशीद खान",
+    "relativeName": "रशीद खान",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 248,
+    "name": "आसिया जावीद कुरेशी",
+    "relativeName": "जावीद कुरेशी",
+    "relationType": "पती",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 249,
+    "name": "नसरीन नाईकवाडे",
+    "relativeName": "मुज़म्मिल नाईकवाडे",
+    "relationType": "पती",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 250,
+    "name": "मुज़म्मिल नाईकवाडे",
+    "relativeName": "रमज़ञान नाईकवाडे",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 251,
+    "name": "उजमा खलील न्हावी",
+    "relativeName": "ख़लील न्हावी",
+    "relationType": "पती",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 252,
+    "name": "अल्तमश अक्कील पटेल",
+    "relativeName": "अक्कील पटेल",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 253,
+    "name": "आरिफ मुस्तफा पठाण",
+    "relativeName": "मुस्तफा पठाण",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 254,
+    "name": "शिरीन आरिफ पठाण",
+    "relativeName": "आरिफ पठाण",
+    "relationType": "पती",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 255,
+    "name": "शबाना फैरोज़खान पठाण",
+    "relativeName": "फैरोज़खान पठाण",
+    "relationType": "पती",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 256,
+    "name": "हर्षल विश्वास पाटील",
+    "relativeName": "विश्वास पाटील",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 257,
+    "name": "खैरुनिस्सा आबिद शेख",
+    "relativeName": "आबिद शेख",
+    "relationType": "पती",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 258,
+    "name": "जूबिया तौफ्रीक़् शेख",
+    "relativeName": "शफ़क्क्रत कुरैशी",
+    "relationType": "वडील",
+    "houseNo": "हाऊस नं. 90 लोवर पेठ"
+  },
+  {
+    "serialNo": 259,
+    "name": "अरशिया इरशान शेख",
+    "relativeName": "इरशान युनुस शेख",
+    "relationType": "पती",
+    "houseNo": ":"
+  },
+  {
+    "serialNo": 260,
+    "name": "आजाद मजिद सैय्यद",
+    "relativeName": "मजिद आहद सैय्यद",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 261,
+    "name": "ताहेर खलील शेख",
+    "relativeName": "खलील शेख",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 262,
+    "name": "आसिफ़ दगडू शेख",
+    "relativeName": "दगडू शेख गा27013642",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 263,
+    "name": "शिरीन मो. ज़फर शेख",
+    "relativeName": "मो. ज़फर शेख गा27022213",
+    "relationType": "पती",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 264,
+    "name": "इमरान अन्वर शेख",
+    "relativeName": "अन्वर अब्दुल करीम शेख जन्य न एज डे च्च षि 9 * त छठ",
+    "relationType": "वडील",
+    "houseNo": "बागवानपुरा"
+  },
+  {
+    "serialNo": 265,
+    "name": "हमजा मुस्ताक्र शेख",
+    "relativeName": "मुस्ताक़् शेख",
+    "relationType": "वडील",
+    "houseNo": ":"
+  },
+  {
+    "serialNo": 266,
+    "name": "शिरीनबानो मुसेब शेख",
+    "relativeName": "मुसेब शेख",
+    "relationType": "पती",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 267,
+    "name": "शबाना इमरान शेख",
+    "relativeName": "इमरान अन्वर शेख",
+    "relationType": "पती",
+    "houseNo": "बागवानपुरा"
+  },
+  {
+    "serialNo": 268,
+    "name": "अक्रम अ. वाहिद शेख",
+    "relativeName": "अ. वाहिद शेख",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 269,
+    "name": "सना जावीद शेख",
+    "relativeName": "जावीद शेख",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 270,
+    "name": "खानसा नदीम शेख",
+    "relativeName": "नदीम शेख",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 271,
+    "name": "महेजबीन ज़िया शेख",
+    "relativeName": "ज़िया शेख",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 272,
+    "name": "अरशीया शकील शेख",
+    "relativeName": "शकील शेख",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 273,
+    "name": "शिबान मक्रसूद शेख",
+    "relativeName": "मक़्सूद शेख",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 274,
+    "name": "आफ़़ाक्र वाजीद शेख",
+    "relativeName": "वाजीद शेख",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 275,
+    "name": "फ्रैज़ान आबीद शेख",
+    "relativeName": "आबीद शेख",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 276,
+    "name": "सरफ़राज़ अन्वर तांबोळी",
+    "relativeName": "अन्वर तांबोळी",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 277,
+    "name": "सुलताना कुरैशी",
+    "relativeName": "मोहसिन कुरैशी",
+    "relationType": "पती",
+    "houseNo": "--"
+  },
+  {
+    "serialNo": 278,
+    "name": "तस्लीम अक्ील शेख",
+    "relativeName": "अक्कील मुख्तार शेख",
+    "relationType": "पती",
+    "houseNo": "नाईकवाडी पुरा"
+  },
+  {
+    "serialNo": 279,
+    "name": "अक्रील मुख्तार शेख",
+    "relativeName": "मुख्तार शेख",
+    "relationType": "वडील",
+    "houseNo": "नाईकवाडी पुरा"
+  },
+  {
+    "serialNo": 280,
+    "name": "अरशद मुख्तार शेख",
+    "relativeName": "मुख्तार शेख",
+    "relationType": "वडील",
+    "houseNo": "नाईकवाडी पुरा"
+  },
+  {
+    "serialNo": 281,
+    "name": "समिना अनवर पठाण",
+    "relativeName": "अनवर पठाण",
+    "relationType": "पती",
+    "houseNo": "1 58 1001 कलाच ?818068"
+  },
+  {
+    "serialNo": 282,
+    "name": "महेश नंदकिशोर पोलेकर",
+    "relativeName": "नंदकिशोर पोलेकर",
+    "relationType": "वडील",
+    "houseNo": "389"
+  },
+  {
+    "serialNo": 283,
+    "name": "कलीम मोहम्मद खान",
+    "relativeName": "मोहम्मद करीम खान",
+    "relationType": "वडील",
+    "houseNo": "हाऊस नं 475"
+  },
+  {
+    "serialNo": 284,
+    "name": "राजेंद्र भीवसेन पवार",
+    "relativeName": "भीवसेन पवार",
+    "relationType": "वडील",
+    "houseNo": "501"
+  },
+  {
+    "serialNo": 285,
+    "name": "सखुबाई चंद्रकांत बरदे",
+    "relativeName": "चंद्रकांत बरदे",
+    "relationType": "पती",
+    "houseNo": "502"
+  },
+  {
+    "serialNo": 286,
+    "name": "चंद्रकला प्रकाश बरदे",
+    "relativeName": "प्रकाश बरदे",
+    "relationType": "पती",
+    "houseNo": "502"
+  },
+  {
+    "serialNo": 287,
+    "name": "अन्वरीबेगम युसुफखान पठाण",
+    "relativeName": "युसुफखान पठाण",
+    "relationType": "पती",
+    "houseNo": "502"
+  },
+  {
+    "serialNo": 288,
+    "name": "जबीन सुलतान खान",
+    "relativeName": "सुलतानखान युसुफखान",
+    "relationType": "पती",
+    "houseNo": "502"
+  },
+  {
+    "serialNo": 289,
+    "name": "अरुण शामलाल परदेशी",
+    "relativeName": "शामलाल परदेशी",
+    "relationType": "वडील",
+    "houseNo": "503"
+  },
+  {
+    "serialNo": 290,
+    "name": "मंगला चंद्रकांत परदेशी",
+    "relativeName": "चंद्रकांत परदेशी",
+    "relationType": "पती",
+    "houseNo": "503"
+  },
+  {
+    "serialNo": 291,
+    "name": "कविता अरुण परदेशी",
+    "relativeName": "अरुण परदेश",
+    "relationType": "पती",
+    "houseNo": "503"
+  },
+  {
+    "serialNo": 292,
+    "name": "अब्दुलवाहीद अ रशिद शेख",
+    "relativeName": "अ रशिद शेख",
+    "relationType": "वडील",
+    "houseNo": "504"
+  },
+  {
+    "serialNo": 293,
+    "name": "अस्माबानो अ वहिद शेख",
+    "relativeName": "अ वहिद शेख",
+    "relationType": "पती",
+    "houseNo": "504"
+  },
+  {
+    "serialNo": 294,
+    "name": "अब्दुलरब अ रशिद शेख",
+    "relativeName": "अ रशिद शेख",
+    "relationType": "वडील",
+    "houseNo": "505"
+  },
+  {
+    "serialNo": 295,
+    "name": "शकीला अब्दुस सईद",
+    "relativeName": "अब्दुस सईद रशीद",
+    "relationType": "पती",
+    "houseNo": "506"
+  },
+  {
+    "serialNo": 296,
+    "name": "अरबाज अब्दुलरब शेख",
+    "relativeName": "अब्दुलरब रशीद शेख",
+    "relationType": "वडील",
+    "houseNo": "५०६"
+  },
+  {
+    "serialNo": 297,
+    "name": "अक्तरुत्नीसा बाशितखानो पठाण",
+    "relativeName": "बाशितखानो पठाण",
+    "relationType": "पती",
+    "houseNo": "507"
+  },
+  {
+    "serialNo": 298,
+    "name": "यासीन मजिद खान",
+    "relativeName": "मजिद खान",
+    "relationType": "वडील",
+    "houseNo": "520"
+  },
+  {
+    "serialNo": 299,
+    "name": "रईस अहमद खान",
+    "relativeName": "बाशितखानो पठाण",
+    "relationType": "वडील",
+    "houseNo": "507"
+  },
+  {
+    "serialNo": 300,
+    "name": "महेमुदखाँ बाशितखानो पठाण",
+    "relativeName": "बाशितखानो पठाण",
+    "relationType": "वडील",
+    "houseNo": "507"
+  },
+  {
+    "serialNo": 301,
+    "name": "निकतजह रईसखान पठाण '",
+    "relativeName": "रईसखान पठाण",
+    "relationType": "पती",
+    "houseNo": "507"
+  },
+  {
+    "serialNo": 302,
+    "name": "लियाकतखान बाशितखाना पठाण",
+    "relativeName": "बाशितखानो पठाण",
+    "relationType": "वडील",
+    "houseNo": "507"
+  },
+  {
+    "serialNo": 303,
+    "name": "फरहत खान महेमूद खान",
+    "relativeName": "महेमुदखाँ पठाण",
+    "relationType": "पती",
+    "houseNo": "नाईकवाडी पुरा"
+  },
+  {
+    "serialNo": 304,
+    "name": "नाशिरखान बशीरखान पठाण",
+    "relativeName": "बाशितखान पठाण",
+    "relationType": "वडील",
+    "houseNo": "507"
+  },
+  {
+    "serialNo": 305,
+    "name": "रुबीना लियाकत खान",
+    "relativeName": "लियाकतखां पठाण",
+    "relationType": "पती",
+    "houseNo": "नाईकवडी पुर"
+  },
+  {
+    "serialNo": 306,
+    "name": "कौरुर नसीखाफन नसिखाँन पठाण",
+    "relativeName": "नसिखाँन पठाण",
+    "relationType": "वडील",
+    "houseNo": "507"
+  },
+  {
+    "serialNo": 307,
+    "name": "सलीम हसन शेख",
+    "relativeName": "हसन शेख",
+    "relationType": "वडील",
+    "houseNo": "513"
+  },
+  {
+    "serialNo": 308,
+    "name": "मुन्वर सलीम शेख",
+    "relativeName": "सलीम शेख",
+    "relationType": "पती",
+    "houseNo": "513"
+  },
+  {
+    "serialNo": 309,
+    "name": "मुसेब मोहम्मद शेख",
+    "relativeName": "सलिम शेख",
+    "relationType": "वडील",
+    "houseNo": "513"
+  },
+  {
+    "serialNo": 310,
+    "name": "जहीर अहमद शफीमुल्ला शेख",
+    "relativeName": "अहमद शफीमुल्ला शेख",
+    "relationType": "वडील",
+    "houseNo": "514"
+  },
+  {
+    "serialNo": 311,
+    "name": "फरजाना जहीर अहमद शेख",
+    "relativeName": "जहीर अहमद शेख",
+    "relationType": "पती",
+    "houseNo": "514"
+  },
+  {
+    "serialNo": 312,
+    "name": "इरफाना अजगर सय्यद",
+    "relativeName": "अजगर सय्यद",
+    "relationType": "पती",
+    "houseNo": "517"
+  },
+  {
+    "serialNo": 313,
+    "name": "रुकसानाबी अहमद सय्यद",
+    "relativeName": "अहमद सय्यद",
+    "relationType": "पती",
+    "houseNo": "517"
+  },
+  {
+    "serialNo": 314,
+    "name": "सैय्यद असगर सैय्यद अहद",
+    "relativeName": "आहाद सय्यद",
+    "relationType": "वडील",
+    "houseNo": "517"
+  },
+  {
+    "serialNo": 315,
+    "name": "आसलम अहमद सय्यद",
+    "relativeName": "अहमद सय्यद",
+    "relationType": "वडील",
+    "houseNo": "517"
+  },
+  {
+    "serialNo": 316,
+    "name": "अक्रम अहमदअहद सैय्यद",
+    "relativeName": "अहमदअहद सैय्यद",
+    "relationType": "वडील",
+    "houseNo": "517"
+  },
+  {
+    "serialNo": 317,
+    "name": "जुबेदाबी मजिद सय्यद",
+    "relativeName": "मजिद सय्यद",
+    "relationType": "पती",
+    "houseNo": "518"
+  },
+  {
+    "serialNo": 318,
+    "name": "शौकत मो. इब्राहिम शेख",
+    "relativeName": "मो. इब्राहिम शेख",
+    "relationType": "वडील",
+    "houseNo": "519"
+  },
+  {
+    "serialNo": 319,
+    "name": "दिलशाद शौकत शेख",
+    "relativeName": "शौकत शेख",
+    "relationType": "पती",
+    "houseNo": "519"
+  },
+  {
+    "serialNo": 320,
+    "name": "मुनव्वर मुनीर शेख",
+    "relativeName": "मुनीर शेख",
+    "relationType": "पती",
+    "houseNo": "519"
+  },
+  {
+    "serialNo": 321,
+    "name": "इरफान शौकत शेख",
+    "relativeName": "शौकत इब्राहीम शेख",
+    "relationType": "वडील",
+    "houseNo": "519"
+  },
+  {
+    "serialNo": 322,
+    "name": "शादाब मुनीर शेख",
+    "relativeName": "मुनीर शेख",
+    "relationType": "वडील",
+    "houseNo": "५१९"
+  },
+  {
+    "serialNo": 323,
+    "name": "हमिदाबी यासीन खान",
+    "relativeName": "यासीन खान",
+    "relationType": "पती",
+    "houseNo": "520"
+  },
+  {
+    "serialNo": 324,
+    "name": "समीर यासीमखान खान",
+    "relativeName": "यासीमखान खान",
+    "relationType": "वडील",
+    "houseNo": "520"
+  },
+  {
+    "serialNo": 325,
+    "name": "उस्मान इस्माईल शेख",
+    "relativeName": "इस्माईल शेख",
+    "relationType": "वडील",
+    "houseNo": "521"
+  },
+  {
+    "serialNo": 326,
+    "name": "शहनाज बेगम नवाज शेख",
+    "relativeName": "बेगम नवाज शेख",
+    "relationType": "पती",
+    "houseNo": "530"
+  },
+  {
+    "serialNo": 327,
+    "name": "ताहेरा आवेश न्हावी",
+    "relativeName": "आवेश न्हावी",
+    "relationType": "पती",
+    "houseNo": "531"
+  },
+  {
+    "serialNo": 328,
+    "name": "अ वहीद अ हमीद शेख",
+    "relativeName": "हमीद शेख",
+    "relationType": "वडील",
+    "houseNo": "532"
+  },
+  {
+    "serialNo": 329,
+    "name": "सिमापरविन अ वहिद शेख",
+    "relativeName": "अ वहिद शेख",
+    "relationType": "पती",
+    "houseNo": "532"
+  },
+  {
+    "serialNo": 330,
+    "name": "जाहिद अ हमिद शेख",
+    "relativeName": "अ हमिद शेख",
+    "relationType": "वडील",
+    "houseNo": "532"
+  },
+  {
+    "serialNo": 331,
+    "name": "सद्दव जाहिद शेख",
+    "relativeName": "जाहिद शेख",
+    "relationType": "पती",
+    "houseNo": "532"
+  },
+  {
+    "serialNo": 332,
+    "name": "सलीम अ रौफ नाईक",
+    "relativeName": "अ रौफ नाईक",
+    "relationType": "वडील",
+    "houseNo": "535"
+  },
+  {
+    "serialNo": 333,
+    "name": "यास्मीन अ रौफ नाईक",
+    "relativeName": "अ रौफ नाईक",
+    "relationType": "पती",
+    "houseNo": "535"
+  },
+  {
+    "serialNo": 334,
+    "name": "मनुंतजर अजीज नाईक",
+    "relativeName": "अजीज नाईक",
+    "relationType": "पती",
+    "houseNo": "535"
+  },
+  {
+    "serialNo": 335,
+    "name": "यूनुस अ रौफ नाईक",
+    "relativeName": "अ रौफ नाईक",
+    "relationType": "वडील",
+    "houseNo": "535"
+  },
+  {
+    "serialNo": 336,
+    "name": "नसरीन एजाज नाईक",
+    "relativeName": "एजाज नाईक",
+    "relationType": "पती",
+    "houseNo": "535"
+  },
+  {
+    "serialNo": 337,
+    "name": "निकहत यूनुस नाईक",
+    "relativeName": "यूनुस नाईक",
+    "relationType": "पती",
+    "houseNo": "535"
+  },
+  {
+    "serialNo": 338,
+    "name": "नकी अ रौफ नाईक",
+    "relativeName": "अ रौफ नाईक",
+    "relationType": "पती",
+    "houseNo": "535"
+  },
+  {
+    "serialNo": 339,
+    "name": "जकी सलीम नाईक",
+    "relativeName": "सलीम नाईक",
+    "relationType": "वडील",
+    "houseNo": "535"
+  },
+  {
+    "serialNo": 340,
+    "name": "मंजूर अलीम नाईक",
+    "relativeName": "अलीम शेख",
+    "relationType": "वडील",
+    "houseNo": "535"
+  },
+  {
+    "serialNo": 341,
+    "name": "ज़मीर अलीमुद्दीन शेख",
+    "relativeName": "आलीम नाईक",
+    "relationType": "वडील",
+    "houseNo": "535"
+  },
+  {
+    "serialNo": 342,
+    "name": "साजिद सलिम नाईक",
+    "relativeName": "सलिम नाईक",
+    "relationType": "वडील",
+    "houseNo": "535"
+  },
+  {
+    "serialNo": 343,
+    "name": "शाहीन नकी शेख",
+    "relativeName": "नकी शेख",
+    "relationType": "पती",
+    "houseNo": "535"
+  },
+  {
+    "serialNo": 344,
+    "name": "मुद्दसर ऐजाज नाईक",
+    "relativeName": "ऐजाज नाईक",
+    "relationType": "वडील",
+    "houseNo": "535"
+  },
+  {
+    "serialNo": 345,
+    "name": "अफजिया मंजुर नाईक",
+    "relativeName": "मंजुर नाईक",
+    "relationType": "पती",
+    "houseNo": "535"
+  },
+  {
+    "serialNo": 346,
+    "name": "शेरीन शफी नाईक",
+    "relativeName": "शफी नाईक",
+    "relationType": "पती",
+    "houseNo": "535"
+  },
+  {
+    "serialNo": 347,
+    "name": "रूबीना जमीर नाईक",
+    "relativeName": "जमीर नाईक",
+    "relationType": "पती",
+    "houseNo": "535"
+  },
+  {
+    "serialNo": 348,
+    "name": "वसीम इज़ञाज़ शेख",
+    "relativeName": "इज़ाज़ शेख",
+    "relationType": "वडील",
+    "houseNo": "535"
+  },
+  {
+    "serialNo": 349,
+    "name": "नदीम इज़ाज़ शेख़",
+    "relativeName": "इज़ाज़ शेख",
+    "relationType": "वडील",
+    "houseNo": "535"
+  },
+  {
+    "serialNo": 350,
+    "name": "अबीदाबेगम अख्तर शेख",
+    "relativeName": "अख्तर शेख",
+    "relationType": "पती",
+    "houseNo": "538"
+  },
+  {
+    "serialNo": 351,
+    "name": "जाविद अख्तर शेख",
+    "relativeName": "अख्तर शेख",
+    "relationType": "वडील",
+    "houseNo": "538"
+  },
+  {
+    "serialNo": 352,
+    "name": "नूरजहा जावेद शेख",
+    "relativeName": "जावेद शेख गा21017243",
+    "relationType": "पती",
+    "houseNo": "538"
+  },
+  {
+    "serialNo": 353,
+    "name": "परवीन सईदखान पठाण",
+    "relativeName": "सईदखान पठाण गा121033422",
+    "relationType": "पती",
+    "houseNo": "539"
+  },
+  {
+    "serialNo": 354,
+    "name": "बिल्कीशबेगम खलील अ मोलवी",
+    "relativeName": "खलील अ मोलवी ऱ् र्ग श वि ळर ल ट 0 3",
+    "relationType": "पती",
+    "houseNo": "540"
+  },
+  {
+    "serialNo": 355,
+    "name": "रईसबानो शकिलखान पठाण",
+    "relativeName": "शकिलखान पठाण",
+    "relationType": "पती",
+    "houseNo": "541"
+  },
+  {
+    "serialNo": 356,
+    "name": "सलीम महेमुदखाँ पठाण",
+    "relativeName": "महेमुदखाँ पठाण",
+    "relationType": "वडील",
+    "houseNo": "541"
+  },
+  {
+    "serialNo": 357,
+    "name": "मंजूर हाजी रहिमान शेख",
+    "relativeName": "हाजी रहिमान शेख",
+    "relationType": "वडील",
+    "houseNo": "542"
+  },
+  {
+    "serialNo": 358,
+    "name": "रहेनुमा मंजूर शेख",
+    "relativeName": "मंजूर शेख",
+    "relationType": "पती",
+    "houseNo": "542"
+  },
+  {
+    "serialNo": 359,
+    "name": "सुमैय्या अहेतेशाम वकील",
+    "relativeName": "अहेतेशाम वकील",
+    "relationType": "पती",
+    "houseNo": "542"
+  },
+  {
+    "serialNo": 360,
+    "name": "तैफिक अब्दुल न्हावी",
+    "relativeName": "अ.गफ्फर न्हावी",
+    "relationType": "वडील",
+    "houseNo": "५४३"
+  },
+  {
+    "serialNo": 361,
+    "name": "अलताफ शाह",
+    "relativeName": "चांद शाह",
+    "relationType": "वडील",
+    "houseNo": "549"
+  },
+  {
+    "serialNo": 362,
+    "name": "शमा उस्मान शेख",
+    "relativeName": "उस्मान शेख",
+    "relationType": "पती",
+    "houseNo": "५५६"
+  },
+  {
+    "serialNo": 363,
+    "name": "साजीद उस्मान शेख",
+    "relativeName": "उस्मान शेख",
+    "relationType": "वडील",
+    "houseNo": "५५६"
+  },
+  {
+    "serialNo": 364,
+    "name": "हसीना बानो अब्दुल रज्ञाक़़ तांबोळी",
+    "relativeName": "अब्दुल रज़ाक़ अब्दुल अज़्ीज़",
+    "relationType": "पती",
+    "houseNo": "570"
+  },
+  {
+    "serialNo": 365,
+    "name": "शहेबाज महेबूब पठाण",
+    "relativeName": "महेबूब पठाण",
+    "relationType": "वडील",
+    "houseNo": "५९३"
+  },
+  {
+    "serialNo": 366,
+    "name": "समिर पापामियाँ पानसरे",
+    "relativeName": "पापामियाँ पानसरे",
+    "relationType": "वडील",
+    "houseNo": "602"
+  },
+  {
+    "serialNo": 367,
+    "name": "फरहाना एकलाख खान",
+    "relativeName": "एकलाख खान",
+    "relationType": "पती",
+    "houseNo": "607"
+  },
+  {
+    "serialNo": 368,
+    "name": "हुमैरखान एकलाख खान",
+    "relativeName": "एकलाख खान",
+    "relationType": "वडील",
+    "houseNo": "607"
+  },
+  {
+    "serialNo": 369,
+    "name": "नोमान सलीम खान",
+    "relativeName": "सलीम खान",
+    "relationType": "वडील",
+    "houseNo": "609"
+  },
+  {
+    "serialNo": 370,
+    "name": "पठाण सोहेबखान फ़ीरोज़खान",
+    "relativeName": "पठाण फ़ीरोज़खान हयातखान",
+    "relationType": "वडील",
+    "houseNo": "632"
+  },
+  {
+    "serialNo": 371,
+    "name": "दिनेश माधवलाल अहिर",
+    "relativeName": "माधवलाल अहिर",
+    "relationType": "वडील",
+    "houseNo": "643"
+  },
+  {
+    "serialNo": 372,
+    "name": "मुजिब मुनीर पटेल",
+    "relativeName": "मुनीर पटेल",
+    "relationType": "वडील",
+    "houseNo": "८४६"
+  },
+  {
+    "serialNo": 373,
+    "name": "प्रथमेश संजय देशमुख",
+    "relativeName": "संजय शिवाजी देशमुख",
+    "relationType": "वडील",
+    "houseNo": "1092"
+  },
+  {
+    "serialNo": 374,
+    "name": "सागर भिमाजी पवार",
+    "relativeName": "भिमाजी पवार",
+    "relationType": "वडील",
+    "houseNo": "327/2"
+  },
+  {
+    "serialNo": 375,
+    "name": "संतोष लक्ष्मण लुटे",
+    "relativeName": "लक्ष्मण लुटे",
+    "relationType": "वडील",
+    "houseNo": "388/2"
+  },
+  {
+    "serialNo": 376,
+    "name": "बेबी फिराजखान पठाण",
+    "relativeName": "फिराजखान पठाण",
+    "relationType": "पती",
+    "houseNo": "5001"
+  },
+  {
+    "serialNo": 377,
+    "name": "रशीदखान फिरोजखान पठाण",
+    "relativeName": "फिरोजखान पठाण",
+    "relationType": "वडील",
+    "houseNo": "5001"
+  },
+  {
+    "serialNo": 378,
+    "name": "चांदखान मुज़फ़फ़रखान पठाण",
+    "relativeName": "मुज़प़्रफ़रखान पठाण",
+    "relationType": "वडील",
+    "houseNo": "5002"
+  },
+  {
+    "serialNo": 379,
+    "name": "दिलावरखान मुजफ्फरखाँ पठाण",
+    "relativeName": "मुजफ्फरखाँ पठाण",
+    "relationType": "वडील",
+    "houseNo": "5002"
+  },
+  {
+    "serialNo": 380,
+    "name": "फरीदखान मुजफ्फरखान पठाण",
+    "relativeName": "मुजफ्फरखान पठाण",
+    "relationType": "वडील",
+    "houseNo": "5002"
+  },
+  {
+    "serialNo": 381,
+    "name": "नसरीनबानो चांदखान पठाण",
+    "relativeName": "दाऊदखान पठाण",
+    "relationType": "पती",
+    "houseNo": "5002"
+  },
+  {
+    "serialNo": 382,
+    "name": "नजमा दिलावरखान पठाण",
+    "relativeName": "दिलावरखान पठाण",
+    "relationType": "पती",
+    "houseNo": "5002"
+  },
+  {
+    "serialNo": 383,
+    "name": "सुलतान खान युसूफ खान",
+    "relativeName": "युसूफ खान अशरफ़ खान",
+    "relationType": "वडील",
+    "houseNo": "5003"
+  },
+  {
+    "serialNo": 384,
+    "name": "सुधाकर धोंडीराम बंबाळे",
+    "relativeName": "धोंडीराम बंबाळे",
+    "relationType": "वडील",
+    "houseNo": "5022"
+  },
+  {
+    "serialNo": 385,
+    "name": "शोभा सुधाकर बंबाळे",
+    "relativeName": "सुधाकर बंबाळे",
+    "relationType": "पती",
+    "houseNo": "5022"
+  },
+  {
+    "serialNo": 386,
+    "name": "इरफान अ खलील शेख",
+    "relativeName": "अ खलील शेख",
+    "relationType": "वडील",
+    "houseNo": "5101"
+  },
+  {
+    "serialNo": 387,
+    "name": "बिस्मीला इरफान शेख",
+    "relativeName": "इरफान शेख",
+    "relationType": "पती",
+    "houseNo": "5101"
+  },
+  {
+    "serialNo": 388,
+    "name": "अमीर बाबू पटेल",
+    "relativeName": "बाबू पटेल",
+    "relationType": "वडील",
+    "houseNo": "5102"
+  },
+  {
+    "serialNo": 389,
+    "name": "लैला अमीर पटेल",
+    "relativeName": "अमीर पटेल",
+    "relationType": "पती",
+    "houseNo": "5102"
+  },
+  {
+    "serialNo": 390,
+    "name": "शफीक शब्बीर देशमुख",
+    "relativeName": "शब्बीर देशमुख",
+    "relationType": "वडील",
+    "houseNo": "5221"
+  },
+  {
+    "serialNo": 391,
+    "name": "शगुफ्तापरवीन फैय्याज देशमुख",
+    "relativeName": "फैय्याज देशमुख",
+    "relationType": "पती",
+    "houseNo": "5221"
+  },
+  {
+    "serialNo": 392,
+    "name": "शाबियाबी चांद शाह",
+    "relativeName": "चांद शाह",
+    "relationType": "पती",
+    "houseNo": "5221"
+  },
+  {
+    "serialNo": 393,
+    "name": "बशीर अमो. नजीर शेख",
+    "relativeName": "अ मो. नजीर शेख",
+    "relationType": "वडील",
+    "houseNo": "522 3"
+  },
+  {
+    "serialNo": 394,
+    "name": "नजीर दोस्तमोहमंद शेख",
+    "relativeName": "दोस्तमोहमंद शेख",
+    "relationType": "वडील",
+    "houseNo": "522 3"
+  },
+  {
+    "serialNo": 395,
+    "name": "सुरैया नजीर शेख",
+    "relativeName": "नजीर शेख",
+    "relationType": "पती",
+    "houseNo": "522 3"
+  },
+  {
+    "serialNo": 396,
+    "name": "फरजाना बशीर शेख",
+    "relativeName": "बशीर शेख",
+    "relationType": "पती",
+    "houseNo": "522 3"
+  },
+  {
+    "serialNo": 397,
+    "name": "जुलेखाबेगम करीमखान पठाण '",
+    "relativeName": "करीमखान पठाण",
+    "relationType": "पती",
+    "houseNo": "5231"
+  },
+  {
+    "serialNo": 398,
+    "name": "आरीफखान करीमखान पठाण",
+    "relativeName": "करीमखान पठाण",
+    "relationType": "वडील",
+    "houseNo": "5231"
+  },
+  {
+    "serialNo": 399,
+    "name": "रुबीना महेबूब सैय्यद",
+    "relativeName": "महेबूब सैय्यद",
+    "relationType": "पती",
+    "houseNo": "5231"
+  },
+  {
+    "serialNo": 400,
+    "name": "गफ्फारखाँ मजिदखान पठाण",
+    "relativeName": "मजिदखान पठाण",
+    "relationType": "वडील",
+    "houseNo": "5232"
+  },
+  {
+    "serialNo": 401,
+    "name": "सत्तार मजिदखान पठाण",
+    "relativeName": "मजिदखान पठाण",
+    "relationType": "वडील",
+    "houseNo": "5232"
+  },
+  {
+    "serialNo": 402,
+    "name": "हारुन मजिदखान पठाण",
+    "relativeName": "मजिदखान पठाण",
+    "relationType": "वडील",
+    "houseNo": "5232"
+  },
+  {
+    "serialNo": 403,
+    "name": "खालेदा सत्तार पठाण",
+    "relativeName": "सत्तार पठाण",
+    "relationType": "पती",
+    "houseNo": "5232"
+  },
+  {
+    "serialNo": 404,
+    "name": "नजमा हारुन पठाण",
+    "relativeName": "हारुन पठाण",
+    "relationType": "पती",
+    "houseNo": "5232"
+  },
+  {
+    "serialNo": 405,
+    "name": "आशाबी अ रहिमान शाह",
+    "relativeName": "अ रहिमान शाह",
+    "relationType": "पती",
+    "houseNo": "5232"
+  },
+  {
+    "serialNo": 406,
+    "name": "ज़ाईदा शेख",
+    "relativeName": "खलील खलिफा",
+    "relationType": "पती",
+    "houseNo": "5241"
+  },
+  {
+    "serialNo": 407,
+    "name": "जेबा खलील नहावी",
+    "relativeName": "खलील नहावी",
+    "relationType": "पती",
+    "houseNo": "५२४१"
+  },
+  {
+    "serialNo": 408,
+    "name": "गप़फ़ार रहेमान शेख",
+    "relativeName": "अब्दुल रहेमान शेख",
+    "relationType": "वडील",
+    "houseNo": "5241"
+  },
+  {
+    "serialNo": 409,
+    "name": "इरफ़ाना अ. गफ़्फ़ार शेख",
+    "relativeName": "गप़फ़ार शेख",
+    "relationType": "पती",
+    "houseNo": "5241"
+  },
+  {
+    "serialNo": 410,
+    "name": "अज़ीम उस्मान शेख",
+    "relativeName": "उस्मान शेख",
+    "relationType": "वडील",
+    "houseNo": "5251"
+  },
+  {
+    "serialNo": 411,
+    "name": "नजमा अज़ीम शेख",
+    "relativeName": "अज़ीम उस्मान शेख",
+    "relationType": "पती",
+    "houseNo": "5251"
+  },
+  {
+    "serialNo": 412,
+    "name": "सईदा अन्सार शेख",
+    "relativeName": "अन्सार शेख",
+    "relationType": "पती",
+    "houseNo": "5342"
+  },
+  {
+    "serialNo": 413,
+    "name": "रीज़वान अन्सार शेख",
+    "relativeName": "अन्सार शेख",
+    "relationType": "वडील",
+    "houseNo": "शितला देवी मंदिरा समोर"
+  },
+  {
+    "serialNo": 414,
+    "name": "जावीद कदीर पटेल",
+    "relativeName": "कदीर पटेल",
+    "relationType": "वडील",
+    "houseNo": "5361"
+  },
+  {
+    "serialNo": 415,
+    "name": "सईदा शब्बीर पटेल",
+    "relativeName": "शब्बीर पटेल",
+    "relationType": "पती",
+    "houseNo": "5362"
+  },
+  {
+    "serialNo": 416,
+    "name": "फारुक जहीर पटेल",
+    "relativeName": "जहीर पटेल",
+    "relationType": "वडील",
+    "houseNo": "5362"
+  },
+  {
+    "serialNo": 417,
+    "name": "अक्नील जहिर पटेल",
+    "relativeName": "झहीर पटेल",
+    "relationType": "वडील",
+    "houseNo": "5362"
+  },
+  {
+    "serialNo": 418,
+    "name": "मुमताज मुनीर पटेल",
+    "relativeName": "मुनीर पटेल",
+    "relationType": "पती",
+    "houseNo": "5362"
+  },
+  {
+    "serialNo": 419,
+    "name": "तनवीर वजीर शेख",
+    "relativeName": "वजीर शेख",
+    "relationType": "वडील",
+    "houseNo": "5371"
+  },
+  {
+    "serialNo": 420,
+    "name": "गलिब वजीर शेख",
+    "relativeName": "वजीर शेख",
+    "relationType": "वडील",
+    "houseNo": "5371"
+  },
+  {
+    "serialNo": 421,
+    "name": "हमीद गफुर कुरैशी",
+    "relativeName": "गफुर कुरेशी",
+    "relationType": "वडील",
+    "houseNo": "5381"
+  },
+  {
+    "serialNo": 422,
+    "name": "शौकत हुसेन कुरेशी",
+    "relativeName": "हुसेन कुरेशी",
+    "relationType": "वडील",
+    "houseNo": "5381"
+  },
+  {
+    "serialNo": 423,
+    "name": "सबीना शौकत कुरेशी",
+    "relativeName": "शौकत कुरेशी",
+    "relationType": "पती",
+    "houseNo": "5381"
+  },
+  {
+    "serialNo": 424,
+    "name": "लियाकत मोहम्मद हुसेन कुरेशी",
+    "relativeName": "मोहंम्मद हुसेन ईस्माइल कुरेशी",
+    "relationType": "वडील",
+    "houseNo": "5381"
+  },
+  {
+    "serialNo": 425,
+    "name": "जावेद गफुर कुरेशी",
+    "relativeName": "गफफुर कुरेशी",
+    "relationType": "वडील",
+    "houseNo": "5381"
+  },
+  {
+    "serialNo": 426,
+    "name": "शकीला लियाक्रत कुरेशी कुरेशी",
+    "relativeName": "लियाकत कुरेशी",
+    "relationType": "पती",
+    "houseNo": "5381"
+  },
+  {
+    "serialNo": 427,
+    "name": "फातमाबी अशराफ कच्छी",
+    "relativeName": "अशराफ कच्छी",
+    "relationType": "पती",
+    "houseNo": "5421"
+  },
+  {
+    "serialNo": 428,
+    "name": "नौशाद अशराफ कच्छी",
+    "relativeName": "अशराफ कच्छी",
+    "relationType": "वडील",
+    "houseNo": "5421"
+  },
+  {
+    "serialNo": 429,
+    "name": "नुरुलहसन अ कादीर शेख",
+    "relativeName": "अ कादीर शेख",
+    "relationType": "वडील",
+    "houseNo": "5432"
+  },
+  {
+    "serialNo": 430,
+    "name": "अ हम्मीद अ कादीर शेख",
+    "relativeName": "हम्मीद अ कादीर शेख",
+    "relationType": "वडील",
+    "houseNo": "5432"
+  },
+  {
+    "serialNo": 431,
+    "name": "अ समध अ कादीर शेख",
+    "relativeName": "समध अ कादीर शेख",
+    "relationType": "वडील",
+    "houseNo": "5432"
+  },
+  {
+    "serialNo": 432,
+    "name": "मुजतुबा अ कादीर शेख",
+    "relativeName": "अ कादीर शेख",
+    "relationType": "वडील",
+    "houseNo": "5432"
+  },
+  {
+    "serialNo": 433,
+    "name": "परविनबानो नुरुलहसन शेख",
+    "relativeName": "नुरुलहसन शेख",
+    "relationType": "पती",
+    "houseNo": "5432"
+  },
+  {
+    "serialNo": 434,
+    "name": "असमा अब्दुल हमीद शेख",
+    "relativeName": "अब्दुल हमीद अब्दुल कादीर शेख",
+    "relationType": "पती",
+    "houseNo": "5432"
+  },
+  {
+    "serialNo": 435,
+    "name": "अ मतिन अ कादीर शेख",
+    "relativeName": "मतिन अ कादीर शेख",
+    "relationType": "वडील",
+    "houseNo": "5432"
+  },
+  {
+    "serialNo": 436,
+    "name": "शगुफ्ताबानो अ समध शेख",
+    "relativeName": "अ समध शेख",
+    "relationType": "पती",
+    "houseNo": "5432"
+  },
+  {
+    "serialNo": 437,
+    "name": "भुपेंद्र स्वरूपचंद बुरड",
+    "relativeName": "स्वरूपचंद बुरड",
+    "relationType": "वडील",
+    "houseNo": "544/1"
+  },
+  {
+    "serialNo": 438,
+    "name": "काशिफ़ खान क्ृदीर खान खान",
+    "relativeName": "क्रादीर खान खान",
+    "relationType": "वडील",
+    "houseNo": "544/1"
+  },
+  {
+    "serialNo": 439,
+    "name": "कल्पना संतोष लुटे",
+    "relativeName": "संतोष लुटे",
+    "relationType": "पती",
+    "houseNo": "544/1"
+  },
+  {
+    "serialNo": 440,
+    "name": "अझरूद्दीन बदरूद्दीन काझी",
+    "relativeName": "बदरूद्दीन काझी",
+    "relationType": "वडील",
+    "houseNo": "544/1"
+  },
+  {
+    "serialNo": 441,
+    "name": "मुद्दसर जाफरहुसेन काजी काजी",
+    "relativeName": "हुलेन काझी",
+    "relationType": "वडील",
+    "houseNo": "देवी रोड"
+  },
+  {
+    "serialNo": 442,
+    "name": "शेख मंजुर अहमद निसार अहमद",
+    "relativeName": "शेख निसार अहमद",
+    "relationType": "वडील",
+    "houseNo": "544/1"
+  },
+  {
+    "serialNo": 443,
+    "name": "शोएब अ.निसार अव्वास अली शेख",
+    "relativeName": "अव्वास अली शेख",
+    "relationType": "वडील",
+    "houseNo": "544/1"
+  },
+  {
+    "serialNo": 444,
+    "name": "निसार अबाबासली शेख",
+    "relativeName": "अबाबासली शेख",
+    "relationType": "वडील",
+    "houseNo": "5441"
+  },
+  {
+    "serialNo": 445,
+    "name": "अतिफा निसार शेख",
+    "relativeName": "निसार शेख गा2/7184013",
+    "relationType": "पती",
+    "houseNo": "5441"
+  },
+  {
+    "serialNo": 446,
+    "name": "तबसुम सलिम खान",
+    "relativeName": "सलिम खान गा23805975",
+    "relationType": "पती",
+    "houseNo": "586 6"
+  },
+  {
+    "serialNo": 447,
+    "name": "बारकु तुकाराम पगारे",
+    "relativeName": "तुकाराम पगारे न शि ळे भे भज तट टा",
+    "relationType": "वडील",
+    "houseNo": "5871/1"
+  },
+  {
+    "serialNo": 448,
+    "name": "अनिल तुकाराम पगारे",
+    "relativeName": "तुकाराम पगारे",
+    "relationType": "वडील",
+    "houseNo": "5871/1"
+  },
+  {
+    "serialNo": 449,
+    "name": "नजमा असलम शाह",
+    "relativeName": "असलम शाह",
+    "relationType": "पती",
+    "houseNo": "4440"
+  },
+  {
+    "serialNo": 450,
+    "name": "नाजीया शोयेब शेख",
+    "relativeName": "शोयेब अजीम शेख",
+    "relationType": "पती",
+    "houseNo": "0"
+  },
+  {
+    "serialNo": 451,
+    "name": "फरहा फ़ैज़ शेख",
+    "relativeName": "फैज़ अज़ीम शेख",
+    "relationType": "पती",
+    "houseNo": "0"
+  },
+  {
+    "serialNo": 452,
+    "name": "इरफ़ाना शाहबाज़ पठाण",
+    "relativeName": "शाहबाज़ महबूब पठाण",
+    "relationType": "पती",
+    "houseNo": "नायकवाडीपुर"
+  },
+  {
+    "serialNo": 453,
+    "name": "रमीज़ महबूबखान पठाण",
+    "relativeName": "मेहबुबूखान मन्सूरखान पठाण",
+    "relationType": "वडील",
+    "houseNo": "नायकवाडीपुर"
+  },
+  {
+    "serialNo": 454,
+    "name": "नाज़िया असद खान",
+    "relativeName": "असद अश्पाक खान",
+    "relationType": "पती",
+    "houseNo": "0"
+  },
+  {
+    "serialNo": 455,
+    "name": "बुशरा शाहरुख मनियार",
+    "relativeName": "शाहरुख वजीर मनियार",
+    "relationType": "पती",
+    "houseNo": "1074"
+  },
+  {
+    "serialNo": 456,
+    "name": "शबनम आरा वसीम शेख",
+    "relativeName": "वसीम ख़लील शेख",
+    "relationType": "पती",
+    "houseNo": "02"
+  },
+  {
+    "serialNo": 457,
+    "name": "इफत आरिफ शेख",
+    "relativeName": "आरिफ़ सईद शेख",
+    "relationType": "पती",
+    "houseNo": "0"
+  },
+  {
+    "serialNo": 458,
+    "name": "वैष्णवी अरुण परदेशी परदेशी",
+    "relativeName": "अरुण परदेशी",
+    "relationType": "वडील",
+    "houseNo": "क्म्क/डबलयू3/965"
+  },
+  {
+    "serialNo": 459,
+    "name": "आम्रीन चांद पठाण पठाण",
+    "relativeName": "चांद खान मुज़फ़फ़र खान पठाण पठाण",
+    "relationType": "वडील",
+    "houseNo": "नाईकवाडी पुर"
+  },
+  {
+    "serialNo": 460,
+    "name": "मुमताज़ अनवर शेख",
+    "relativeName": "अनवर शेख",
+    "relationType": "पती",
+    "houseNo": "0"
+  },
+  {
+    "serialNo": 461,
+    "name": "ज़ाफ़र अक्नील शाह",
+    "relativeName": "अक्नील कादर शाह",
+    "relationType": "वडील",
+    "houseNo": "0"
+  },
+  {
+    "serialNo": 462,
+    "name": "निकहत जहान मुजिब पटेल",
+    "relativeName": "मुजीब मुनीर पटेल",
+    "relationType": "पती",
+    "houseNo": "0"
+  },
+  {
+    "serialNo": 463,
+    "name": "अफ़साना ज़ाफ़र शाह",
+    "relativeName": "ज़ाफ़र अक्नील शाह",
+    "relationType": "पती",
+    "houseNo": "0"
+  },
+  {
+    "serialNo": 464,
+    "name": "सायमा आरबाज़ खान",
+    "relativeName": "आरबाज़ इब्राहिम खान",
+    "relationType": "पती",
+    "houseNo": "547"
+  },
+  {
+    "serialNo": 465,
+    "name": "सादिया सदफ अरबाज शेख",
+    "relativeName": "अरबाज अब्दुलरब शेख",
+    "relationType": "पती",
+    "houseNo": "0"
+  },
+  {
+    "serialNo": 466,
+    "name": "फऱजाना बानो आफाक शेख",
+    "relativeName": "आफ़राक़् वाजिद शेख",
+    "relationType": "पती",
+    "houseNo": "0"
+  },
+  {
+    "serialNo": 467,
+    "name": "सना नोमान खान",
+    "relativeName": "नोमन जावीद खान",
+    "relationType": "पती",
+    "houseNo": "नाईकवडीपुरा"
+  },
+  {
+    "serialNo": 468,
+    "name": "सदफ कदीर शेख",
+    "relativeName": "कदीर मूसा शेख",
+    "relationType": "पती",
+    "houseNo": "606"
+  },
+  {
+    "serialNo": 469,
+    "name": "भूषण किशोर बागुल",
+    "relativeName": "किशोर बागुल",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 470,
+    "name": "अनिता अनिल भोसले",
+    "relativeName": "अनिल भोसले",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 471,
+    "name": "वैभव राजेंद्र बोरसे",
+    "relativeName": "राजेंद्र बोरसे",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 472,
+    "name": "रंजना कैलास गोधडे",
+    "relativeName": "कैलास गोधडे",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 473,
+    "name": "विजय पांडुरंग गोसावी",
+    "relativeName": "पांडुरंग गोसावी",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 474,
+    "name": "सविता राकेश गोसावी",
+    "relativeName": "राकेश गोसावी",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 475,
+    "name": "मधुकर कचरु जाधव",
+    "relativeName": "कचरु जाधव",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 476,
+    "name": "ज्योती भिकन जाधव",
+    "relativeName": "भिकन जाधव",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 477,
+    "name": "सुनिता भाऊसाहेब जाधव",
+    "relativeName": "भाऊसाहेब जाधव",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 478,
+    "name": "भाऊराव कचरु जाधव",
+    "relativeName": "कचरु जाधव",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 479,
+    "name": "अर्चना अरुण कोकणे",
+    "relativeName": "अरुण कोकणे",
+    "relationType": "पती",
+    "houseNo": "डाम्बर विहीर,देवी रोड"
+  },
+  {
+    "serialNo": 480,
+    "name": "अर्चना मोहन कोकणे",
+    "relativeName": "मोहन कोकणे",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 481,
+    "name": "सुभाष शंकर कोकाटे",
+    "relativeName": "शंकर कोकाटे",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 482,
+    "name": "संगिता सुभाष कोकाटे",
+    "relativeName": "सुभाष कोकाटे",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 483,
+    "name": "चेतन हेमंत कोठावदे",
+    "relativeName": "हेमंत कोठावदे",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 484,
+    "name": "मुकेश दत्तात्रय कोतवाल",
+    "relativeName": "दत्तात्रय कोतवाल",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 485,
+    "name": "निलेश राजाराम कोतवाल",
+    "relativeName": "राजाराम कोतवाल",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 486,
+    "name": "सागर अनिल कोतवाल",
+    "relativeName": "अनिल कोतवाल",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 487,
+    "name": "वैशाली उत्तम माळी",
+    "relativeName": "उत्तम माळी",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 488,
+    "name": "सुरेश भास्कर माळी",
+    "relativeName": "भास्कर माळी",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 489,
+    "name": "भिमा संजय पवार",
+    "relativeName": "संजय पवार",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 490,
+    "name": "तुषार नंदू पवार",
+    "relativeName": "नंदू पवार",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 491,
+    "name": "सुफीयान सलीम तांबोळी",
+    "relativeName": "सलीम तांबोळी",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 492,
+    "name": "स्वाती महेंद्र बागुल",
+    "relativeName": "महेंद्र गुलाब बागुल",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 493,
+    "name": "कल्याणी संजय सोनावणे",
+    "relativeName": "संजय विठ्ठलराव सोनावणे",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 494,
+    "name": "धीरज कैलास भालेराव",
+    "relativeName": "कैलास दगू भालेराव",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 495,
+    "name": "ओमकार नामदेव झांबरे",
+    "relativeName": "नामदेव वसंत झांबरे",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 496,
+    "name": "क्रतुजा संदिप महाले",
+    "relativeName": "संदिप मनोहर महाले",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 497,
+    "name": "अभिषेक संतोष सोनवणे",
+    "relativeName": "संतोष गोपीनाथ सोनवणे",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 498,
+    "name": "सोनाली किशोर बागुल",
+    "relativeName": "किशोर बागुल",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 499,
+    "name": "वैभव किशोर बागुल",
+    "relativeName": "किशोर बागुल",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 500,
+    "name": "कुणाल अशोक बागुल",
+    "relativeName": "अशोक बागुल",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 501,
+    "name": "अमोल जयराम भुरे",
+    "relativeName": "जयराम भुरे",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 502,
+    "name": "महेश भगवान भुरे",
+    "relativeName": "भगवान भुरे",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 503,
+    "name": "दिनेश भगवान भुरे",
+    "relativeName": "भगवान भुरे",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 504,
+    "name": "हर्षला राजेंद्र बोरसे",
+    "relativeName": "राजेंद्र बोरसे",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 505,
+    "name": "सुनिता राजेश चव्हाण",
+    "relativeName": "राजेश चव्हाण",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 506,
+    "name": "वैष्णवी गारे",
+    "relativeName": "सुनिल गारे",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 507,
+    "name": "समर्थ गुजराथी",
+    "relativeName": "मनोज गुजराथी",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 508,
+    "name": "मुद्दसिर कच्छी",
+    "relativeName": "नौशाद कच्छी",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 509,
+    "name": "दर्शना निलेश पवार",
+    "relativeName": "निलेश पवार",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 510,
+    "name": "आकाश राजगुरु",
+    "relativeName": "भिकाजी राजगुरु",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 511,
+    "name": "शरमीन शादाब कुरेशी",
+    "relativeName": "शब्बीर शेख",
+    "relationType": "वडील",
+    "houseNo": "सी/ओ शादाब कुरैशी"
+  },
+  {
+    "serialNo": 512,
+    "name": "वसिम युसूफ तांबोळी",
+    "relativeName": "युसूफ तांबोळी",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 513,
+    "name": "हिना वासिम तांबोळी",
+    "relativeName": "वासिम तांबोळी",
+    "relationType": "पती",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 514,
+    "name": "योगिता अमोल कोतवाल",
+    "relativeName": "अमोल कोतवाल",
+    "relationType": "पती",
+    "houseNo": "--"
+  },
+  {
+    "serialNo": 515,
+    "name": "उमेश खुशाल पवार",
+    "relativeName": "खुशाल पवार",
+    "relationType": "वडील",
+    "houseNo": "--"
+  },
+  {
+    "serialNo": 516,
+    "name": "शमीमबानो जहीर पटेल",
+    "relativeName": "जहीर पटेल",
+    "relationType": "पती",
+    "houseNo": "0"
+  },
+  {
+    "serialNo": 517,
+    "name": "दि क्षा नामदेव झांबरे झांबरे",
+    "relativeName": "नामदेव वसंत झांबरे झांबरे",
+    "relationType": "वडील",
+    "houseNo": "बागुल गल्ली"
+  },
+  {
+    "serialNo": 518,
+    "name": "शुभम देशमुख",
+    "relativeName": "अरविंद देशमुख",
+    "relationType": "वडील",
+    "houseNo": "कोतवाल वाडा"
+  },
+  {
+    "serialNo": 519,
+    "name": "मोहम्मद मुस्तफा नईम अहमद घासी",
+    "relativeName": "नईम अहमद अब्दुल सत्तार घासी",
+    "relationType": "वडील",
+    "houseNo": "मुल्लावाडा"
+  },
+  {
+    "serialNo": 520,
+    "name": "हितेश रविंद्र गांगुर्डे गांगुर्डे",
+    "relativeName": "सुनिता गांगुर्डे",
+    "relationType": "आई",
+    "houseNo": "शिवकृपा"
+  },
+  {
+    "serialNo": 521,
+    "name": "यश अजयकुमार बागुल",
+    "relativeName": "अजकुमार भीकचंद बागुल",
+    "relationType": "वडील",
+    "houseNo": "1"
+  },
+  {
+    "serialNo": 522,
+    "name": "आदित्य अजयकुमार बागुल",
+    "relativeName": "अजयकुमार भीकचंद बागुल",
+    "relationType": "वडील",
+    "houseNo": "1"
+  },
+  {
+    "serialNo": 523,
+    "name": "आनुष खुशाल पवार",
+    "relativeName": "खुशाल रामचंद्र पवार",
+    "relationType": "वडील",
+    "houseNo": "2 रौहौस"
+  },
+  {
+    "serialNo": 524,
+    "name": "अमोल अशोक पवार",
+    "relativeName": "अशोक पवार",
+    "relationType": "वडील",
+    "houseNo": "156"
+  },
+  {
+    "serialNo": 525,
+    "name": "अक्षय किशोर चौबे",
+    "relativeName": "किशोर चौबे",
+    "relationType": "वडील",
+    "houseNo": "३१९"
+  },
+  {
+    "serialNo": 526,
+    "name": "वैभव दिलीप बाकळे",
+    "relativeName": "दिलीप चंद्रकांत बाकळे",
+    "relationType": "वडील",
+    "houseNo": "327"
+  },
+  {
+    "serialNo": 527,
+    "name": "दिगंबर शिलावट",
+    "relativeName": "भास्कर शिलावट",
+    "relationType": "वडील",
+    "houseNo": "327"
+  },
+  {
+    "serialNo": 528,
+    "name": "परवीन गालीब शेख",
+    "relativeName": "गालीब शेख",
+    "relationType": "वडील",
+    "houseNo": "37 1"
+  },
+  {
+    "serialNo": 529,
+    "name": "राज जगताप",
+    "relativeName": "हरीश जगताप",
+    "relationType": "वडील",
+    "houseNo": "444"
+  },
+  {
+    "serialNo": 530,
+    "name": "निलेश अरुण कोतवाल",
+    "relativeName": "अरुण कोतवाल",
+    "relationType": "वडील",
+    "houseNo": "480"
+  },
+  {
+    "serialNo": 531,
+    "name": "मनोज अरुण कोतवाल",
+    "relativeName": "अरुण कोतवाल",
+    "relationType": "वडील",
+    "houseNo": "480"
+  },
+  {
+    "serialNo": 532,
+    "name": "नुरजा रशिदखान पठाण",
+    "relativeName": "रशिदखान पठाण",
+    "relationType": "पती",
+    "houseNo": "500"
+  },
+  {
+    "serialNo": 533,
+    "name": "नज़़ीर चांद शहा",
+    "relativeName": "चांद शहा",
+    "relationType": "वडील",
+    "houseNo": "522"
+  },
+  {
+    "serialNo": 534,
+    "name": "जमीर चांद शाह",
+    "relativeName": "चांद शाह",
+    "relationType": "वडील",
+    "houseNo": "522"
+  },
+  {
+    "serialNo": 535,
+    "name": "हसीना नसीर शाह",
+    "relativeName": "नसीर बाबूलाल शाह",
+    "relationType": "पती",
+    "houseNo": "522"
+  },
+  {
+    "serialNo": 536,
+    "name": "पोर्णिमा राहूल बंबाळे",
+    "relativeName": "राहूल बंबाळे",
+    "relationType": "पती",
+    "houseNo": "श्रीराम रोड"
+  },
+  {
+    "serialNo": 537,
+    "name": "वंदना विशाल बंबाळे",
+    "relativeName": "विशाल बंबाळे",
+    "relationType": "पती",
+    "houseNo": "५२७/ब"
+  },
+  {
+    "serialNo": 538,
+    "name": "लक्ष्मि हेमंत बंबाळे",
+    "relativeName": "हेमंत बंबाळे",
+    "relationType": "पती",
+    "houseNo": "५२७/ब"
+  },
+  {
+    "serialNo": 539,
+    "name": "शाहीनआबाओ जावेद पटेल",
+    "relativeName": "जावेद पटेल",
+    "relationType": "पती",
+    "houseNo": "536अ"
+  },
+  {
+    "serialNo": 540,
+    "name": "जहीर अहमद नजीर पटेल",
+    "relativeName": "अहमद नजीर पटेल",
+    "relationType": "वडील",
+    "houseNo": "536ब"
+  },
+  {
+    "serialNo": 541,
+    "name": "अब्दुल हाफीज शेख",
+    "relativeName": "हाफीज शेख",
+    "relationType": "वडील",
+    "houseNo": "537"
+  },
+  {
+    "serialNo": 542,
+    "name": "शाहीनआबानो फारुक पटेल",
+    "relativeName": "फारुक पटेल",
+    "relationType": "पती",
+    "houseNo": "539ब"
+  },
+  {
+    "serialNo": 543,
+    "name": "नजमा वजीर शेख",
+    "relativeName": "वजीर शेख",
+    "relationType": "वडील",
+    "houseNo": "551"
+  },
+  {
+    "serialNo": 544,
+    "name": "उषा गणेश बागुल",
+    "relativeName": "गणेश बागुल गा21346279",
+    "relationType": "पती",
+    "houseNo": "584"
+  },
+  {
+    "serialNo": 545,
+    "name": "राजेंद्र मुरलीधर बागुल",
+    "relativeName": "मुरलीधर बागुल गा27184518",
+    "relationType": "वडील",
+    "houseNo": "584"
+  },
+  {
+    "serialNo": 546,
+    "name": "शोभा राजेंद्र बागुल",
+    "relativeName": "राजेंद्र बागुल न शं हळ ळे > ण » ल",
+    "relationType": "पती",
+    "houseNo": "584"
+  },
+  {
+    "serialNo": 547,
+    "name": "आरती राजेंद्र बागुल",
+    "relativeName": "राजेंद्र बागुल",
+    "relationType": "वडील",
+    "houseNo": "५८४"
+  },
+  {
+    "serialNo": 548,
+    "name": "वनिता संतोष भुरे",
+    "relativeName": "संतोष भुरे",
+    "relationType": "पती",
+    "houseNo": "584"
+  },
+  {
+    "serialNo": 549,
+    "name": "सचिन सुरेश ढेबे",
+    "relativeName": "सुरेश ढेबे",
+    "relationType": "वडील",
+    "houseNo": "584"
+  },
+  {
+    "serialNo": 550,
+    "name": "पूनम मनोज बांगरे",
+    "relativeName": "मनोज बांगरे",
+    "relationType": "पती",
+    "houseNo": "584अ"
+  },
+  {
+    "serialNo": 551,
+    "name": "सुनिता बाळु शेलार",
+    "relativeName": "बाळु शेलार",
+    "relationType": "वडील",
+    "houseNo": "585"
+  },
+  {
+    "serialNo": 552,
+    "name": "सारीका गजेन्द्र शेलार",
+    "relativeName": "गजेन्द्र शेलार",
+    "relationType": "पती",
+    "houseNo": "585"
+  },
+  {
+    "serialNo": 553,
+    "name": "माधुरी विजय बागुल",
+    "relativeName": "विजय बागुल",
+    "relationType": "पती",
+    "houseNo": "586"
+  },
+  {
+    "serialNo": 554,
+    "name": "गुलाम आयूब खान पठाण",
+    "relativeName": "अय्युबखान बाबू पठाण",
+    "relationType": "वडील",
+    "houseNo": "586"
+  },
+  {
+    "serialNo": 555,
+    "name": "शकिला गुलाम पठाण",
+    "relativeName": "गुलाम अय्यूब पठाण",
+    "relationType": "पती",
+    "houseNo": "586"
+  },
+  {
+    "serialNo": 556,
+    "name": "शबाना बिलाल पठाण",
+    "relativeName": "बिलाल खान",
+    "relationType": "पती",
+    "houseNo": "586"
+  },
+  {
+    "serialNo": 557,
+    "name": "फैरोज कयुमखान खान",
+    "relativeName": "",
+    "relationType": "वडील",
+    "houseNo": "586"
+  },
+  {
+    "serialNo": 558,
+    "name": "मंजुळाबाई देवराम भूरे",
+    "relativeName": "देवराम भूरे",
+    "relationType": "पती",
+    "houseNo": "587"
+  },
+  {
+    "serialNo": 559,
+    "name": "भगवान देवराम भूरे",
+    "relativeName": "देवराम भूरे",
+    "relationType": "वडील",
+    "houseNo": "587"
+  },
+  {
+    "serialNo": 560,
+    "name": "कुसुम भगवान भूरे",
+    "relativeName": "भगवान भूरे",
+    "relationType": "पती",
+    "houseNo": "587"
+  },
+  {
+    "serialNo": 561,
+    "name": "गजेंद्र बाळू शेलार",
+    "relativeName": "बाळू शेलार",
+    "relationType": "वडील",
+    "houseNo": "589"
+  },
+  {
+    "serialNo": 562,
+    "name": "तायरखान समशेरखान पठाण",
+    "relativeName": "समशेरखान पठाण",
+    "relationType": "वडील",
+    "houseNo": "592"
+  },
+  {
+    "serialNo": 563,
+    "name": "तबसुम तायरखान पठाण",
+    "relativeName": "तायरखान पठाण",
+    "relationType": "पती",
+    "houseNo": "592"
+  },
+  {
+    "serialNo": 564,
+    "name": "शमाबी मन्सुरखा पठाण",
+    "relativeName": "मन्सुरखा पठाण",
+    "relationType": "पती",
+    "houseNo": "593"
+  },
+  {
+    "serialNo": 565,
+    "name": "मेहबूबखान मन्सुरखा पठाण",
+    "relativeName": "मन्सुरखा पठाण",
+    "relationType": "वडील",
+    "houseNo": "593"
+  },
+  {
+    "serialNo": 566,
+    "name": "रईसबानो मेहबूबखान पठाण",
+    "relativeName": "मेहबूबखान पठाण",
+    "relationType": "पती",
+    "houseNo": "593"
+  },
+  {
+    "serialNo": 567,
+    "name": "फैरोज मन्सुरखान पठाण",
+    "relativeName": "मन्सुरखान पठाण",
+    "relationType": "वडील",
+    "houseNo": "593"
+  },
+  {
+    "serialNo": 568,
+    "name": "अमजदखान मन्सुरखा पठाण",
+    "relativeName": "मन्सुरखा पठाण",
+    "relationType": "वडील",
+    "houseNo": "593"
+  },
+  {
+    "serialNo": 569,
+    "name": "मुमताज़ आबिद पठाण",
+    "relativeName": "आबिद मंसूर पठाण",
+    "relationType": "पती",
+    "houseNo": "593"
+  },
+  {
+    "serialNo": 570,
+    "name": "बानोबी अफजलखान पठाण",
+    "relativeName": "अफजलखान पठाण",
+    "relationType": "पती",
+    "houseNo": "594"
+  },
+  {
+    "serialNo": 571,
+    "name": "मकसूद नूरमोहम्मद शेख शेख",
+    "relativeName": "नूर मोहम्मद शेख शेख",
+    "relationType": "वडील",
+    "houseNo": "595"
+  },
+  {
+    "serialNo": 572,
+    "name": "नसीम सईद शेख शेख",
+    "relativeName": "सईद शेख",
+    "relationType": "पती",
+    "houseNo": "595"
+  },
+  {
+    "serialNo": 573,
+    "name": "बाळकृष्णा जगन्नाथ जगताप",
+    "relativeName": "जगन्नाथ जगताप",
+    "relationType": "वडील",
+    "houseNo": "596"
+  },
+  {
+    "serialNo": 574,
+    "name": "मनिषा बाळकृष्ण जगताप",
+    "relativeName": "बाळकृष्ण जगताप",
+    "relationType": "पती",
+    "houseNo": "596"
+  },
+  {
+    "serialNo": 575,
+    "name": "संजय जगन्नाथ जगताप",
+    "relativeName": "जगन्नाथ जगताप",
+    "relationType": "वडील",
+    "houseNo": "596"
+  },
+  {
+    "serialNo": 576,
+    "name": "सुनिता संजय जगताप",
+    "relativeName": "संजय जगताप",
+    "relationType": "पती",
+    "houseNo": "596"
+  },
+  {
+    "serialNo": 577,
+    "name": "हरी जगन्नाथ जगताप",
+    "relativeName": "जगन्नाथ जगताप",
+    "relationType": "वडील",
+    "houseNo": "596"
+  },
+  {
+    "serialNo": 578,
+    "name": "संगिता हरीश जगताप",
+    "relativeName": "हरीश जगताप",
+    "relationType": "पती",
+    "houseNo": "596"
+  },
+  {
+    "serialNo": 579,
+    "name": "सचिन हरिष जगताप",
+    "relativeName": "हरिष जगताप",
+    "relationType": "वडील",
+    "houseNo": "५९६"
+  },
+  {
+    "serialNo": 580,
+    "name": "अश्पाक ईसाक खान",
+    "relativeName": "ईसाक खान",
+    "relationType": "वडील",
+    "houseNo": "599"
+  },
+  {
+    "serialNo": 581,
+    "name": "जुमेदा इसाक खान",
+    "relativeName": "इसाक खान",
+    "relationType": "पती",
+    "houseNo": "599"
+  },
+  {
+    "serialNo": 582,
+    "name": "तसलीम अश्पाक खान",
+    "relativeName": "अशपाक खान",
+    "relationType": "पती",
+    "houseNo": "599"
+  },
+  {
+    "serialNo": 583,
+    "name": "इस्तियाक इसाक खान",
+    "relativeName": "इसाक ईस्माइल खान",
+    "relationType": "वडील",
+    "houseNo": "599"
+  },
+  {
+    "serialNo": 584,
+    "name": "इरफान इशाक खान",
+    "relativeName": "इशाक खान",
+    "relationType": "वडील",
+    "houseNo": "599"
+  },
+  {
+    "serialNo": 585,
+    "name": "रिजवाना इम्तियास खान",
+    "relativeName": "इम्तियास खान",
+    "relationType": "पती",
+    "houseNo": "599"
+  },
+  {
+    "serialNo": 586,
+    "name": "रहीला ईरपान खान",
+    "relativeName": "ईरपान खान",
+    "relationType": "वडील",
+    "houseNo": "599"
+  },
+  {
+    "serialNo": 587,
+    "name": "जावेद अख्तर शेख",
+    "relativeName": "अख्तर शेख",
+    "relationType": "वडील",
+    "houseNo": "599"
+  },
+  {
+    "serialNo": 588,
+    "name": "अय्युबखान बाबू पठाण",
+    "relativeName": "बाबूखान पठाण",
+    "relationType": "वडील",
+    "houseNo": "600"
+  },
+  {
+    "serialNo": 589,
+    "name": "जायदाबी कयुमखान खान",
+    "relativeName": "कयुमखान खान",
+    "relationType": "पती",
+    "houseNo": "600"
+  },
+  {
+    "serialNo": 590,
+    "name": "इकबालखां बाबुखाँ खान",
+    "relativeName": "बाबुखाँ खान",
+    "relationType": "वडील",
+    "houseNo": "600"
+  },
+  {
+    "serialNo": 591,
+    "name": "खुर्शीद मुस्ताक़् पठाण",
+    "relativeName": "मुश्ताक खान",
+    "relationType": "पती",
+    "houseNo": "600"
+  },
+  {
+    "serialNo": 592,
+    "name": "शकील बाबुखाँ खान",
+    "relativeName": "बाबुखाँ खान",
+    "relationType": "वडील",
+    "houseNo": "600"
+  },
+  {
+    "serialNo": 593,
+    "name": "सलमा एकबालखान पठाण",
+    "relativeName": "ईकबाल खान",
+    "relationType": "पती",
+    "houseNo": "600"
+  },
+  {
+    "serialNo": 594,
+    "name": "हसीना शकील खान",
+    "relativeName": "शकील खान",
+    "relationType": "पती",
+    "houseNo": "600"
+  },
+  {
+    "serialNo": 595,
+    "name": "सलीम भुरेखान पठाण",
+    "relativeName": "भुरेखान पठाण",
+    "relationType": "वडील",
+    "houseNo": "601"
+  },
+  {
+    "serialNo": 596,
+    "name": "सुलताना सलीम पठाण",
+    "relativeName": "सलीम पठाण",
+    "relationType": "पती",
+    "houseNo": "601"
+  },
+  {
+    "serialNo": 597,
+    "name": "पापामिया मोहंमद पानसरे",
+    "relativeName": "मोहंमद पानसरे",
+    "relationType": "वडील",
+    "houseNo": "602"
+  },
+  {
+    "serialNo": 598,
+    "name": "सुलताना पापामियॉ पानसरे",
+    "relativeName": "पापामिया पानसरे",
+    "relationType": "पती",
+    "houseNo": "नाईकवाडी पुरा"
+  },
+  {
+    "serialNo": 599,
+    "name": "नजमाबी पापामिया पानसरे",
+    "relativeName": "पापामिया पानसरे",
+    "relationType": "पती",
+    "houseNo": "602"
+  },
+  {
+    "serialNo": 600,
+    "name": "खुर्शीदबी अन्सार शेख",
+    "relativeName": "अन्सार शेख",
+    "relationType": "पती",
+    "houseNo": "603"
+  },
+  {
+    "serialNo": 601,
+    "name": "शब्बीर अन्सार शेख",
+    "relativeName": "अन्सार शेख",
+    "relationType": "वडील",
+    "houseNo": "0"
+  },
+  {
+    "serialNo": 602,
+    "name": "जमील अन्सार शेख",
+    "relativeName": "अन्सार शेख",
+    "relationType": "वडील",
+    "houseNo": "603"
+  },
+  {
+    "serialNo": 603,
+    "name": "गुलझार अन्सार शेख",
+    "relativeName": "अन्सार शेख",
+    "relationType": "वडील",
+    "houseNo": "603"
+  },
+  {
+    "serialNo": 604,
+    "name": "अरबाज शब्बीर शेख",
+    "relativeName": "शब्बीर शेख",
+    "relationType": "वडील",
+    "houseNo": "६०३"
+  },
+  {
+    "serialNo": 605,
+    "name": "अशोक नारायण खैरे",
+    "relativeName": "नारायण खैरे",
+    "relationType": "वडील",
+    "houseNo": "604"
+  },
+  {
+    "serialNo": 606,
+    "name": "रंजना अशोक खैरे",
+    "relativeName": "अशोक खैरे",
+    "relationType": "पती",
+    "houseNo": "604"
+  },
+  {
+    "serialNo": 607,
+    "name": "मांगिलाल शंकर खैरे",
+    "relativeName": "शंकर खैरे",
+    "relationType": "वडील",
+    "houseNo": "605"
+  },
+  {
+    "serialNo": 608,
+    "name": "सुमनबाई मांगिलाल खैरे",
+    "relativeName": "मांगिलाल खैरे",
+    "relationType": "पती",
+    "houseNo": "605"
+  },
+  {
+    "serialNo": 609,
+    "name": "नजमुनिस्सा साबीर शेख",
+    "relativeName": "साबीर शेख",
+    "relationType": "पती",
+    "houseNo": "607"
+  },
+  {
+    "serialNo": 610,
+    "name": "सुनिता विलास होळकर",
+    "relativeName": "विलास होळकर",
+    "relationType": "पती",
+    "houseNo": "623"
+  },
+  {
+    "serialNo": 611,
+    "name": "कुणाल विलास होळकर",
+    "relativeName": "विलास होळकर",
+    "relationType": "वडील",
+    "houseNo": "623"
+  },
+  {
+    "serialNo": 612,
+    "name": "दामोदर देवराम खैरे",
+    "relativeName": "देवराम खैरे",
+    "relationType": "वडील",
+    "houseNo": "626"
+  },
+  {
+    "serialNo": 613,
+    "name": "सत्यभामा दामोधर खैरे",
+    "relativeName": "दामुदर खैरे",
+    "relationType": "पती",
+    "houseNo": "626"
+  },
+  {
+    "serialNo": 614,
+    "name": "चिंधु शंकर खैरे",
+    "relativeName": "शंकर खैरे",
+    "relationType": "वडील",
+    "houseNo": "628"
+  },
+  {
+    "serialNo": 615,
+    "name": "बकुबाई चिंधु खैरे",
+    "relativeName": "चिंधु खैरे",
+    "relationType": "पती",
+    "houseNo": "628"
+  },
+  {
+    "serialNo": 616,
+    "name": "अश़्तरबानो फिरोजखान पठाण",
+    "relativeName": "फिरोज खान हयात खान पठाण",
+    "relationType": "पती",
+    "houseNo": "632"
+  },
+  {
+    "serialNo": 617,
+    "name": "फ़िरोज़ खान हयात खान पठाण",
+    "relativeName": "हयात खान गुलशेर खान पठाण",
+    "relationType": "वडील",
+    "houseNo": "632"
+  },
+  {
+    "serialNo": 618,
+    "name": "अजीज गफ्फूर मनियार",
+    "relativeName": "गफ्फूर मनियार",
+    "relationType": "वडील",
+    "houseNo": "633"
+  },
+  {
+    "serialNo": 619,
+    "name": "खुर्शिद अजीज मनियार",
+    "relativeName": "अजीज मनियार",
+    "relationType": "पती",
+    "houseNo": "633"
+  },
+  {
+    "serialNo": 620,
+    "name": "प्रांजल राजन पलोड",
+    "relativeName": "राजन पलोड",
+    "relationType": "वडील",
+    "houseNo": "663"
+  },
+  {
+    "serialNo": 621,
+    "name": "सुवर्णा दिलीप वणवे.",
+    "relativeName": "दिलीप वणवे",
+    "relationType": "वडील",
+    "houseNo": "663"
+  },
+  {
+    "serialNo": 622,
+    "name": "रामेश्वर भिकचंद भावसार",
+    "relativeName": "भिकचंद भावसार",
+    "relationType": "वडील",
+    "houseNo": "688"
+  },
+  {
+    "serialNo": 623,
+    "name": "केशव नामदेव जाधव",
+    "relativeName": "नामदेव जाधव",
+    "relationType": "वडील",
+    "houseNo": "779"
+  },
+  {
+    "serialNo": 624,
+    "name": "वंदना लक्ष्मण भुरे",
+    "relativeName": "लक्ष्मण भुरे",
+    "relationType": "पती",
+    "houseNo": "783"
+  },
+  {
+    "serialNo": 625,
+    "name": "मयुरेश शंकर कोथमिरे",
+    "relativeName": "शंकर कोथमिरे",
+    "relationType": "वडील",
+    "houseNo": "855"
+  },
+  {
+    "serialNo": 626,
+    "name": "निखिलेश शंकर कोथमिरे",
+    "relativeName": "शंकर कोथमिरे",
+    "relationType": "वडील",
+    "houseNo": "855"
+  },
+  {
+    "serialNo": 627,
+    "name": "देवश्री विश्वास पाटील",
+    "relativeName": "विश्वास पाटील",
+    "relationType": "वडील",
+    "houseNo": "1204"
+  },
+  {
+    "serialNo": 628,
+    "name": "युनूस इस्साक अत्तार",
+    "relativeName": "इस्साक अत्तार",
+    "relationType": "वडील",
+    "houseNo": "0"
+  },
+  {
+    "serialNo": 629,
+    "name": "फ़रज़ाना युनुस अत्तार",
+    "relativeName": "इस्साक अत्तार",
+    "relationType": "पती",
+    "houseNo": "0"
+  },
+  {
+    "serialNo": 630,
+    "name": "जावेद जावेद अत्तार",
+    "relativeName": "जावेद अत्तार",
+    "relationType": "वडील",
+    "houseNo": "4741"
+  },
+  {
+    "serialNo": 631,
+    "name": "परवेज़ निसार अत्तार",
+    "relativeName": "निसार इसाक अत्तार",
+    "relationType": "वडील",
+    "houseNo": "साखळी वाडा जवळ"
+  },
+  {
+    "serialNo": 632,
+    "name": "राजेद्र चिंधु जाधव",
+    "relativeName": "चिंधु जाधव",
+    "relationType": "वडील",
+    "houseNo": "477 1"
+  },
+  {
+    "serialNo": 633,
+    "name": "योगिता राजेद्र जाधव",
+    "relativeName": "राजेद्र जाधव",
+    "relationType": "पती",
+    "houseNo": "477 1"
+  },
+  {
+    "serialNo": 634,
+    "name": "सुरेश आनंदाराव शेळके",
+    "relativeName": "आनंदाराव शेळके गा26177463",
+    "relationType": "वडील",
+    "houseNo": "477 2"
+  },
+  {
+    "serialNo": 635,
+    "name": "रंजना सुरेश शेळके",
+    "relativeName": "सुरेश शेळके गा26177471",
+    "relationType": "पती",
+    "houseNo": "477 2"
+  },
+  {
+    "serialNo": 636,
+    "name": "प्रमोद सुधाकर भालेराव",
+    "relativeName": "सुधाकर भालेराव जन्य न 1 दला टा ळ > यी ला",
+    "relationType": "वडील",
+    "houseNo": "480 1"
+  },
+  {
+    "serialNo": 637,
+    "name": "प्रतिभा सुधाकर भालेराव",
+    "relativeName": "सुधाकर भालेराव",
+    "relationType": "वडील",
+    "houseNo": "480 1"
+  },
+  {
+    "serialNo": 638,
+    "name": "जयश्री अशोक गायकवाड",
+    "relativeName": "अशोक गायकवाड",
+    "relationType": "वडील",
+    "houseNo": "480 1"
+  },
+  {
+    "serialNo": 639,
+    "name": "योगेश अशोक गायकवाड",
+    "relativeName": "अशोक गायकवाड",
+    "relationType": "वडील",
+    "houseNo": "480 1"
+  },
+  {
+    "serialNo": 640,
+    "name": "सरिता प्रभाकर देशमुख",
+    "relativeName": "प्रभाकर देशमुख",
+    "relationType": "वडील",
+    "houseNo": "480 1"
+  },
+  {
+    "serialNo": 641,
+    "name": "सुनिता अरुण देशमुख",
+    "relativeName": "अरुण देशमुख",
+    "relationType": "वडील",
+    "houseNo": "480 1"
+  },
+  {
+    "serialNo": 642,
+    "name": "जावेदखान महमूंदखा पठाण",
+    "relativeName": "महमूंदखा पठाण",
+    "relationType": "वडील",
+    "houseNo": "480 2"
+  },
+  {
+    "serialNo": 643,
+    "name": "फरजाना जावेदखान पठाण",
+    "relativeName": "जावेदखान पठाण",
+    "relationType": "वडील",
+    "houseNo": "480 2"
+  },
+  {
+    "serialNo": 644,
+    "name": "वैशाली सुर्यभान शिंदे",
+    "relativeName": "सुर्यभान शिंदे",
+    "relationType": "पती",
+    "houseNo": "480 3"
+  },
+  {
+    "serialNo": 645,
+    "name": "दर्शन देशमुख",
+    "relativeName": "प्रभाकर",
+    "relationType": "वडील",
+    "houseNo": "480बी3"
+  },
+  {
+    "serialNo": 646,
+    "name": "राजेश दत्तात्रेय चव्हाण",
+    "relativeName": "दत्तात्रेय चव्हाण",
+    "relationType": "वडील",
+    "houseNo": "480 4"
+  },
+  {
+    "serialNo": 647,
+    "name": "दत्तात्रेय गोविंद चव्हाण",
+    "relativeName": "गोविंद चव्हाण",
+    "relationType": "वडील",
+    "houseNo": "480 4"
+  },
+  {
+    "serialNo": 648,
+    "name": "जया सुधाकर कोतवाल",
+    "relativeName": "सुधाकर कोतवाल",
+    "relationType": "पती",
+    "houseNo": "480 5"
+  },
+  {
+    "serialNo": 649,
+    "name": "सुनिता रविंद्र गांगुर्डे",
+    "relativeName": "रविंद्र गांगुर्डे",
+    "relationType": "पती",
+    "houseNo": "480 7"
+  },
+  {
+    "serialNo": 650,
+    "name": "राजेद्र गणपत बोरसे",
+    "relativeName": "गणपत बोरसे",
+    "relationType": "वडील",
+    "houseNo": "480 8"
+  },
+  {
+    "serialNo": 651,
+    "name": "सुनिता राजेद्र बोरसे",
+    "relativeName": "राजेद्र बोरसे",
+    "relationType": "पती",
+    "houseNo": "480 8"
+  },
+  {
+    "serialNo": 652,
+    "name": "कैलास बाळासाहेब कोतवाल",
+    "relativeName": "बाळासाहेब कोतवाल",
+    "relationType": "वडील",
+    "houseNo": "480 9"
+  },
+  {
+    "serialNo": 653,
+    "name": "प्रविण बाळासाहेब कोतवाल",
+    "relativeName": "बाळासाहेब कोतवाल",
+    "relationType": "वडील",
+    "houseNo": "480 9"
+  },
+  {
+    "serialNo": 654,
+    "name": "अमोल माणिक कोतवाल",
+    "relativeName": "माणिक कोतवाल",
+    "relationType": "वडील",
+    "houseNo": "481 1"
+  },
+  {
+    "serialNo": 655,
+    "name": "जयश्री दत्तात्रेय कोतवाल '",
+    "relativeName": "दत्तात्रेय कोतवाल",
+    "relationType": "पती",
+    "houseNo": "481 1"
+  },
+  {
+    "serialNo": 656,
+    "name": "नितीन माणिक कोतवाल",
+    "relativeName": "माणिक कोतवाल",
+    "relationType": "वडील",
+    "houseNo": "481 1"
+  },
+  {
+    "serialNo": 657,
+    "name": "सचिन माणिक कोतवाल",
+    "relativeName": "माणिक कोतवाल",
+    "relationType": "वडील",
+    "houseNo": "481 1"
+  },
+  {
+    "serialNo": 658,
+    "name": "मंगला नितीन कोतवाल",
+    "relativeName": "नितीन कोतवाल",
+    "relationType": "वडील",
+    "houseNo": "481 1"
+  },
+  {
+    "serialNo": 659,
+    "name": "निता सतिश कोतवाल",
+    "relativeName": "सतिश कोतवाल",
+    "relationType": "पती",
+    "houseNo": "481 2"
+  },
+  {
+    "serialNo": 660,
+    "name": "राजाराम रमण ठाकरे",
+    "relativeName": "रमण ठाकरे",
+    "relationType": "वडील",
+    "houseNo": "481 3"
+  },
+  {
+    "serialNo": 661,
+    "name": "सुनंदा अशोक ठाकरे",
+    "relativeName": "अशोक ठाकरे",
+    "relationType": "पती",
+    "houseNo": "481 4"
+  },
+  {
+    "serialNo": 662,
+    "name": "किशोर बाळु ठाकरे",
+    "relativeName": "बाळु ठाकरे",
+    "relationType": "वडील",
+    "houseNo": "481 5"
+  },
+  {
+    "serialNo": 663,
+    "name": "विशाल सुधाकर बंबाळे",
+    "relativeName": "सुधाकर बंबाळे",
+    "relationType": "वडील",
+    "houseNo": "502 2"
+  },
+  {
+    "serialNo": 664,
+    "name": "राहुल सुधाकर बंबाळे",
+    "relativeName": "सुधाकर बंबाळे गा26177729",
+    "relationType": "वडील",
+    "houseNo": "502 2"
+  },
+  {
+    "serialNo": 665,
+    "name": "हेमंत सुधाकर बंबाळे",
+    "relativeName": "सुधाकर बंबाळे गपा26177737",
+    "relationType": "वडील",
+    "houseNo": "502 2"
+  },
+  {
+    "serialNo": 666,
+    "name": "शमीम फरीद खान पठाण",
+    "relativeName": "फरदीनखा पठाण जं ऱ्> ९ ढु 2",
+    "relationType": "पती",
+    "houseNo": "502 3"
+  },
+  {
+    "serialNo": 667,
+    "name": "निर्मला राजेद्र पवार",
+    "relativeName": "राजेद्र पवार",
+    "relationType": "पती",
+    "houseNo": "502 5"
+  },
+  {
+    "serialNo": 668,
+    "name": "सुनंदा धनराज वारडे",
+    "relativeName": "धनराज वारडे",
+    "relationType": "पती",
+    "houseNo": "502 5"
+  },
+  {
+    "serialNo": 669,
+    "name": "मौफीक अमीर पटेल",
+    "relativeName": "अमीर पटेल",
+    "relationType": "वडील",
+    "houseNo": "514 2"
+  },
+  {
+    "serialNo": 670,
+    "name": "अक्रील ईस्माइल पठाण",
+    "relativeName": "इस्माईल पठाण",
+    "relationType": "वडील",
+    "houseNo": "सी/ओ ईस्माइल पठाण"
+  },
+  {
+    "serialNo": 671,
+    "name": "सुलताना अक्कील पठाण",
+    "relativeName": "अक्कील ईस्माइल पठाण",
+    "relationType": "पती",
+    "houseNo": "सी/ओ अक्नील पठाण"
+  },
+  {
+    "serialNo": 672,
+    "name": "जावेदखान हमीदखा खान",
+    "relativeName": "हमीदखा खान",
+    "relationType": "वडील",
+    "houseNo": "522 1"
+  },
+  {
+    "serialNo": 673,
+    "name": "जहिराबी जावेद खान",
+    "relativeName": "जावेद खान",
+    "relationType": "पती",
+    "houseNo": "522 1"
+  },
+  {
+    "serialNo": 674,
+    "name": "हावीदखान हमीदखान खान",
+    "relativeName": "हमीदखान खान",
+    "relationType": "वडील",
+    "houseNo": "522 1"
+  },
+  {
+    "serialNo": 675,
+    "name": "यासमीन आबीद खान",
+    "relativeName": "आबीद खान",
+    "relationType": "पती",
+    "houseNo": "522/1"
+  },
+  {
+    "serialNo": 676,
+    "name": "उमेर नजीर शेख",
+    "relativeName": "नजीर शेख",
+    "relationType": "वडील",
+    "houseNo": "522 4"
+  },
+  {
+    "serialNo": 677,
+    "name": "मो. ज़फर मो. नज़ीर शेख",
+    "relativeName": "मो. नज़ीर शेख",
+    "relationType": "वडील",
+    "houseNo": "522 4"
+  },
+  {
+    "serialNo": 678,
+    "name": "मुदस्सीर नज़ीर शेख",
+    "relativeName": "नज़ीर शेख",
+    "relationType": "वडील",
+    "houseNo": "522 4"
+  },
+  {
+    "serialNo": 679,
+    "name": "आबिद जावीद शेख",
+    "relativeName": "जावीद शेख",
+    "relationType": "वडील",
+    "houseNo": "522 6"
+  },
+  {
+    "serialNo": 680,
+    "name": "शाकिर रहेमान शाह",
+    "relativeName": "रेहमान शहा",
+    "relationType": "वडील",
+    "houseNo": "523 2"
+  },
+  {
+    "serialNo": 681,
+    "name": "जाकीर रहेमान शहा",
+    "relativeName": "रहेमान शहा",
+    "relationType": "वडील",
+    "houseNo": "523 2"
+  },
+  {
+    "serialNo": 682,
+    "name": "शकीला जकीर शहा",
+    "relativeName": "जाकीर शहा",
+    "relationType": "पती",
+    "houseNo": "523 2"
+  },
+  {
+    "serialNo": 683,
+    "name": "खालिद उस्मान शेख",
+    "relativeName": "उस्मान शेख",
+    "relationType": "वडील",
+    "houseNo": "0"
+  },
+  {
+    "serialNo": 684,
+    "name": "सादीक उस्मान शेख",
+    "relativeName": "उस्मान शेख",
+    "relationType": "वडील",
+    "houseNo": "525 1"
+  },
+  {
+    "serialNo": 685,
+    "name": "आतिख अहमद खलील शेख",
+    "relativeName": "अहमद खलील शेख",
+    "relationType": "वडील",
+    "houseNo": "525/2"
+  },
+  {
+    "serialNo": 686,
+    "name": "इकबाल इब्राहिम शहा",
+    "relativeName": "इब्राहिम शहा",
+    "relationType": "वडील",
+    "houseNo": "525 3"
+  },
+  {
+    "serialNo": 687,
+    "name": "बानो इकबाल शहा",
+    "relativeName": "इकबाल शहा",
+    "relationType": "पती",
+    "houseNo": "525 3"
+  },
+  {
+    "serialNo": 688,
+    "name": "याकुब इकबाल शहा",
+    "relativeName": "इकबाल शहा",
+    "relationType": "वडील",
+    "houseNo": "525 3"
+  },
+  {
+    "serialNo": 689,
+    "name": "अश्पाक इकबाल शहा",
+    "relativeName": "इकबाल शहा",
+    "relationType": "वडील",
+    "houseNo": "525 3"
+  },
+  {
+    "serialNo": 690,
+    "name": "साजेदा याकुब शाह",
+    "relativeName": "याकुब शाह",
+    "relationType": "वडील",
+    "houseNo": "525 3"
+  },
+  {
+    "serialNo": 691,
+    "name": "अलमास अशपाक शहा",
+    "relativeName": "अशपाक शहा",
+    "relationType": "पती",
+    "houseNo": "525 3"
+  },
+  {
+    "serialNo": 692,
+    "name": "परवीन बशीर खान",
+    "relativeName": "बशीरखा खान",
+    "relationType": "वडील",
+    "houseNo": "525 5"
+  },
+  {
+    "serialNo": 693,
+    "name": "प्रविण पदमाकर वासुळकर",
+    "relativeName": "पदमाकर वासुळकर",
+    "relationType": "वडील",
+    "houseNo": "526 2"
+  },
+  {
+    "serialNo": 694,
+    "name": "भारती प्रविण वासुळकर",
+    "relativeName": "प्रविण वासुळकर",
+    "relationType": "पती",
+    "houseNo": "526 2"
+  },
+  {
+    "serialNo": 695,
+    "name": "जयबु कादर अत्तार",
+    "relativeName": "कादर अत्तार",
+    "relationType": "पती",
+    "houseNo": "0"
+  },
+  {
+    "serialNo": 696,
+    "name": "मोहसीन शब्बीर पटेल",
+    "relativeName": "शब्बीर पटेल",
+    "relationType": "वडील",
+    "houseNo": "536 2"
+  },
+  {
+    "serialNo": 697,
+    "name": "तबसुम असीम कच्छी",
+    "relativeName": "असीम कच्छी",
+    "relationType": "पती",
+    "houseNo": "542 1"
+  },
+  {
+    "serialNo": 698,
+    "name": "अमरीन नौशाद कच्छी",
+    "relativeName": "नौशाद कच्छी",
+    "relationType": "पती",
+    "houseNo": "542 1"
+  },
+  {
+    "serialNo": 699,
+    "name": "सुलताना शकील कच्छी",
+    "relativeName": "शकील कच्छी",
+    "relationType": "पती",
+    "houseNo": "542 1"
+  },
+  {
+    "serialNo": 700,
+    "name": "नजमाबी मकसूद खान",
+    "relativeName": "मकसूद अहमद खान",
+    "relationType": "पती",
+    "houseNo": "542 2"
+  },
+  {
+    "serialNo": 701,
+    "name": "इमरान खान युसूफ खान खान",
+    "relativeName": "युसुफखान पठान",
+    "relationType": "वडील",
+    "houseNo": "542/4"
+  },
+  {
+    "serialNo": 702,
+    "name": "गजाला अब्दुलमतीन शेख",
+    "relativeName": "अब्दुलमतीन शेख",
+    "relationType": "पती",
+    "houseNo": "543 2"
+  },
+  {
+    "serialNo": 703,
+    "name": "मुबशशे मी. मुजताबा शेख '",
+    "relativeName": "मुजताबा शेख",
+    "relationType": "पती",
+    "houseNo": "543 2"
+  },
+  {
+    "serialNo": 704,
+    "name": "शोयबनुरुलहसन नुरुल हसन शेख",
+    "relativeName": "नुरुल हसन शेख",
+    "relationType": "वडील",
+    "houseNo": "543 2"
+  },
+  {
+    "serialNo": 705,
+    "name": "साजिद अ. रशीद शेख",
+    "relativeName": "अ. रशीद शेख",
+    "relationType": "वडील",
+    "houseNo": "543 2"
+  },
+  {
+    "serialNo": 706,
+    "name": "गझाला परवेज खान",
+    "relativeName": "परवेज खान",
+    "relationType": "पती",
+    "houseNo": "556 1"
+  },
+  {
+    "serialNo": 707,
+    "name": "अस्लम जमशिद तांबोळी",
+    "relativeName": "जमशिद तांबोळी",
+    "relationType": "वडील",
+    "houseNo": "1115"
+  },
+  {
+    "serialNo": 708,
+    "name": "अफ़साना असलम तांबोळी",
+    "relativeName": "असलम तांबोळी",
+    "relationType": "पती",
+    "houseNo": "556 2"
+  },
+  {
+    "serialNo": 709,
+    "name": "हर्षद मुश्ताक शेख",
+    "relativeName": "मुश्ताक शेख",
+    "relationType": "वडील",
+    "houseNo": "561 1"
+  },
+  {
+    "serialNo": 710,
+    "name": "सोहेल मुश्ताक शेख",
+    "relativeName": "मुश्ताक शेख",
+    "relationType": "वडील",
+    "houseNo": "561 1"
+  },
+  {
+    "serialNo": 711,
+    "name": "समीर जमशीद शेख",
+    "relativeName": "जमशीद शेख",
+    "relationType": "वडील",
+    "houseNo": "300"
+  },
+  {
+    "serialNo": 712,
+    "name": "असीम रज्जाक शेख",
+    "relativeName": "रज्जाक शेख",
+    "relationType": "वडील",
+    "houseNo": "565 2"
+  },
+  {
+    "serialNo": 713,
+    "name": "नियाज़खान शरीफ़खान पठाण",
+    "relativeName": "शरीफखान पठाण",
+    "relationType": "वडील",
+    "houseNo": "569 1"
+  },
+  {
+    "serialNo": 714,
+    "name": "पारूबाई शिवलींग जगताप",
+    "relativeName": "शिवलींग जगताप",
+    "relationType": "पती",
+    "houseNo": "570/1"
+  },
+  {
+    "serialNo": 715,
+    "name": "इरफान अब्दुल तांबोळी",
+    "relativeName": "अब्दुल तांबोळी गा23015088",
+    "relationType": "वडील",
+    "houseNo": "570 3"
+  },
+  {
+    "serialNo": 716,
+    "name": "इस्माईल अब्दुल तांबोळी",
+    "relativeName": "अब्दुल तांबोळी गा21346295",
+    "relationType": "वडील",
+    "houseNo": "570 3"
+  },
+  {
+    "serialNo": 717,
+    "name": "नाईदा सादीक शेख",
+    "relativeName": "सादीक शेख गा26177869",
+    "relationType": "पती",
+    "houseNo": "570 3"
+  },
+  {
+    "serialNo": 718,
+    "name": "इमरान युसुफ अत्तार",
+    "relativeName": "युसुफ अत्तार",
+    "relationType": "वडील",
+    "houseNo": "571 2"
+  },
+  {
+    "serialNo": 719,
+    "name": "सुलताना जाफर शाह",
+    "relativeName": "जाफर शरफ़ोद्दीन शाह",
+    "relationType": "पती",
+    "houseNo": "0"
+  },
+  {
+    "serialNo": 720,
+    "name": "तगजीत जमील शेख",
+    "relativeName": "जमील शेख",
+    "relationType": "वडील",
+    "houseNo": "582 1"
+  },
+  {
+    "serialNo": 721,
+    "name": "जायदा जाहीरखान पठाण",
+    "relativeName": "जाहीरखान पठाण",
+    "relationType": "पती",
+    "houseNo": "582 2"
+  },
+  {
+    "serialNo": 722,
+    "name": "अशोक दामोदर बागुल",
+    "relativeName": "दामोदर बागुल",
+    "relationType": "वडील",
+    "houseNo": "5841"
+  },
+  {
+    "serialNo": 723,
+    "name": "निर्मला किशोर बागुल",
+    "relativeName": "किशोर बागुल",
+    "relationType": "पती",
+    "houseNo": "5841"
+  },
+  {
+    "serialNo": 724,
+    "name": "सतीश दामोदर बागुल",
+    "relativeName": "दामोदर बागुल",
+    "relationType": "वडील",
+    "houseNo": "5841"
+  },
+  {
+    "serialNo": 725,
+    "name": "भारती अशोक बागुल",
+    "relativeName": "अशोक बागुल",
+    "relationType": "पती",
+    "houseNo": "5841"
+  },
+  {
+    "serialNo": 726,
+    "name": "मेघा सुरेश ढेबे",
+    "relativeName": "सुरेश ढेबे",
+    "relationType": "पती",
+    "houseNo": "5841"
+  },
+  {
+    "serialNo": 727,
+    "name": "यास्मीन इब्राहिम खान",
+    "relativeName": "इब्राहिम खान",
+    "relationType": "पती",
+    "houseNo": "584 2"
+  },
+  {
+    "serialNo": 728,
+    "name": "मुदतसर शकील",
+    "relativeName": "शकील शेख",
+    "relationType": "वडील",
+    "houseNo": "584 4"
+  },
+  {
+    "serialNo": 729,
+    "name": "उषा किशोर बढे",
+    "relativeName": "किशोर बढे",
+    "relationType": "वडील",
+    "houseNo": "584 4"
+  },
+  {
+    "serialNo": 730,
+    "name": "संतोष जगन्नाथ भूरे",
+    "relativeName": "जगन्नाथ भूरे",
+    "relationType": "वडील",
+    "houseNo": "584 4"
+  },
+  {
+    "serialNo": 731,
+    "name": "अर्चना जगन्नाथ भूरे",
+    "relativeName": "जगन्नाथ भूरे",
+    "relationType": "वडील",
+    "houseNo": "584 4"
+  },
+  {
+    "serialNo": 732,
+    "name": "प्रकाश सुकदेव मोरे",
+    "relativeName": "सुकदेव मोरे",
+    "relationType": "वडील",
+    "houseNo": "584 5"
+  },
+  {
+    "serialNo": 733,
+    "name": "मंगला प्रकाश मोरे",
+    "relativeName": "प्रकाश मोरे",
+    "relationType": "वडील",
+    "houseNo": "584 5"
+  },
+  {
+    "serialNo": 734,
+    "name": "छबु मोतीराम भूरे",
+    "relativeName": "मोतीराम भूरे",
+    "relationType": "वडील",
+    "houseNo": "5871"
+  },
+  {
+    "serialNo": 735,
+    "name": "यमूना छबू भूरे",
+    "relativeName": "छबू भूरे",
+    "relationType": "पती",
+    "houseNo": "5871"
+  },
+  {
+    "serialNo": 736,
+    "name": "लक्ष्मण छबू भूरे",
+    "relativeName": "छबू भूरे",
+    "relationType": "वडील",
+    "houseNo": "5871"
+  },
+  {
+    "serialNo": 737,
+    "name": "कांताबाई सुदाम अव्हाड",
+    "relativeName": "सुदाम अव्हाड",
+    "relationType": "पती",
+    "houseNo": "5872"
+  },
+  {
+    "serialNo": 738,
+    "name": "देविदास सुदाम आव्हाड",
+    "relativeName": "सुदाम आव्हाड",
+    "relationType": "वडील",
+    "houseNo": "5872"
+  },
+  {
+    "serialNo": 739,
+    "name": "अर्चना देविदास आव्हाड",
+    "relativeName": "देविदास आव्हाड",
+    "relationType": "पती",
+    "houseNo": "5872"
+  },
+  {
+    "serialNo": 740,
+    "name": "वंदना दिलीप भूरे",
+    "relativeName": "दिलीप भूरे",
+    "relationType": "पती",
+    "houseNo": "5872"
+  },
+  {
+    "serialNo": 741,
+    "name": "जयराम बाबुराव भूरे",
+    "relativeName": "बाबुराव भूरे",
+    "relationType": "वडील",
+    "houseNo": "5873"
+  },
+  {
+    "serialNo": 742,
+    "name": "इंदुबाई जयराम भूरे",
+    "relativeName": "जयराम भूरे",
+    "relationType": "पती",
+    "houseNo": "5873"
+  },
+  {
+    "serialNo": 743,
+    "name": "दिलीप बाबुराव भूरे",
+    "relativeName": "बाबुराव भूरे",
+    "relationType": "वडील",
+    "houseNo": "5873"
+  },
+  {
+    "serialNo": 744,
+    "name": "तुळसाबाई जगन्नाथ भूरे",
+    "relativeName": "जगन्नाथ भूरे",
+    "relationType": "पती",
+    "houseNo": "5874"
+  },
+  {
+    "serialNo": 745,
+    "name": "मिरा देवराम शेलार",
+    "relativeName": "देवराम शेलार",
+    "relationType": "पती",
+    "houseNo": "5891"
+  },
+  {
+    "serialNo": 746,
+    "name": "निहाल सांडू शेख",
+    "relativeName": "सांडू शेख",
+    "relationType": "वडील",
+    "houseNo": "5971"
+  },
+  {
+    "serialNo": 747,
+    "name": "शकिलबानो निहाल शेख",
+    "relativeName": "निहाल शेख",
+    "relationType": "पती",
+    "houseNo": "5971"
+  },
+  {
+    "serialNo": 748,
+    "name": "रहीम करीम अत्तार",
+    "relativeName": "करीम अत्तार",
+    "relationType": "वडील",
+    "houseNo": "6023"
+  },
+  {
+    "serialNo": 749,
+    "name": "नजमा रहीम अत्तार",
+    "relativeName": "रहीम अत्तार",
+    "relationType": "पती",
+    "houseNo": "6023"
+  },
+  {
+    "serialNo": 750,
+    "name": "नुरा फजल मालीक",
+    "relativeName": "फजल मालीक",
+    "relationType": "पती",
+    "houseNo": "6032"
+  },
+  {
+    "serialNo": 751,
+    "name": "नंदु आनंदा पवार",
+    "relativeName": "आनंदा पवार",
+    "relationType": "वडील",
+    "houseNo": "6281"
+  },
+  {
+    "serialNo": 752,
+    "name": "केदाबाई नंदु पवार",
+    "relativeName": "नंदु पवार",
+    "relationType": "पती",
+    "houseNo": "6281"
+  },
+  {
+    "serialNo": 753,
+    "name": "राकेश अशोक शिरसाठ",
+    "relativeName": "अशोक शिरसाठ",
+    "relationType": "वडील",
+    "houseNo": "7611"
+  },
+  {
+    "serialNo": 754,
+    "name": "तेजश्री राहुल शिरसाठ",
+    "relativeName": "राहुल शिरसाठ",
+    "relationType": "वडील",
+    "houseNo": "7811"
+  },
+  {
+    "serialNo": 755,
+    "name": "अमोल राजेंद्र ठोंबरे",
+    "relativeName": "राजेंद्र ठोंबरे",
+    "relationType": "वडील",
+    "houseNo": "8045"
+  },
+  {
+    "serialNo": 756,
+    "name": "रावसाहेब रामचंद्र ठाकरे",
+    "relativeName": "रामचंद्र ठाकरे",
+    "relationType": "वडील",
+    "houseNo": "418 13"
+  },
+  {
+    "serialNo": 757,
+    "name": "लता तुकाराम लगड",
+    "relativeName": "तुकाराम लगड",
+    "relationType": "पती",
+    "houseNo": "481 11"
+  },
+  {
+    "serialNo": 758,
+    "name": "केवळबाई राजाराम लगड",
+    "relativeName": "राजाराम लगड",
+    "relationType": "वडील",
+    "houseNo": "481 11"
+  },
+  {
+    "serialNo": 759,
+    "name": "बाबाजी शंकर पिंपरकर",
+    "relativeName": "शंकर पिंपरकर",
+    "relationType": "वडील",
+    "houseNo": "481 12"
+  },
+  {
+    "serialNo": 760,
+    "name": "शंकुतला बाबाजी पिंपरकर",
+    "relativeName": "बाबाजी पिंपरकर",
+    "relationType": "पती",
+    "houseNo": "481 12"
+  },
+  {
+    "serialNo": 761,
+    "name": "जिजाबाई रामचंद्र ठाकरे",
+    "relativeName": "रामचंद्र ठाकरे",
+    "relationType": "पती",
+    "houseNo": "481 13"
+  },
+  {
+    "serialNo": 762,
+    "name": "मोहसिनाबानो अकील पटेल",
+    "relativeName": "अकील पटेल",
+    "relationType": "पती",
+    "houseNo": "536ब82"
+  },
+  {
+    "serialNo": 763,
+    "name": "सद्दाम सय्यद इतर अस्मा सय्यद",
+    "relativeName": "",
+    "relationType": "वडील",
+    "houseNo": "माळी गल्ली"
+  },
+  {
+    "serialNo": 764,
+    "name": "अस्मा सैय्यद",
+    "relativeName": "सद्दाम सैय्यद",
+    "relationType": "पती",
+    "houseNo": "माळी गल्ली"
+  },
+  {
+    "serialNo": 765,
+    "name": "मीजान शेख",
+    "relativeName": "गुलज़ार शेख",
+    "relationType": "वडील",
+    "houseNo": "नायक्‍्वादिपूरी.चंदवाद"
+  },
+  {
+    "serialNo": 766,
+    "name": "यशोदा उत्तम तळवाडे",
+    "relativeName": "उत्तम तळवाडे",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 767,
+    "name": "रुबिना अरफात खान",
+    "relativeName": "अरफात इश्‍तियाक खान",
+    "relationType": "पती",
+    "houseNo": "0"
+  },
+  {
+    "serialNo": 768,
+    "name": "सुनीता माधवलाल अहिर '",
+    "relativeName": "माधवलाल अहिर",
+    "relationType": "पती",
+    "houseNo": "माळी गल्ली,गाड्गेबाबा चौक,चां"
+  },
+  {
+    "serialNo": 769,
+    "name": "स्वाती महेश बागुल",
+    "relativeName": "महेश भाऊसाहेब बागुल",
+    "relationType": "पती",
+    "houseNo": "सी/ओ महेश बागुल"
+  },
+  {
+    "serialNo": 770,
+    "name": "अर्शिना बानो तौसिफ बागवान",
+    "relativeName": "तौसिफ बागवान",
+    "relationType": "पती",
+    "houseNo": "बागवानपुरा"
+  },
+  {
+    "serialNo": 771,
+    "name": "राधिका सुभाष शेलार",
+    "relativeName": "सुभाष माधव शेलार",
+    "relationType": "पती",
+    "houseNo": "माळी गल्ली"
+  },
+  {
+    "serialNo": 772,
+    "name": "यास्मीन जमीर शाह",
+    "relativeName": "जमीर चांद शाह",
+    "relationType": "पती",
+    "houseNo": "हाऊस नं 549"
+  },
+  {
+    "serialNo": 773,
+    "name": "जैद नियाज पठाण",
+    "relativeName": "नियाज शरीफ पठाण",
+    "relationType": "वडील",
+    "houseNo": "569 1"
+  },
+  {
+    "serialNo": 774,
+    "name": "नंदिनी विशाल बागुल",
+    "relativeName": "गणेश घोणे",
+    "relationType": "वडील",
+    "houseNo": "सी/ओ विशाल बागुल"
+  },
+  {
+    "serialNo": 775,
+    "name": "शबाना यासमीन सजाबुल हक्क शेख",
+    "relativeName": "सजाबुल हक समसुल हुदा शेख",
+    "relationType": "पती",
+    "houseNo": "गुजरात गल्ली"
+  },
+  {
+    "serialNo": 776,
+    "name": "जयश्री संजय बागुल",
+    "relativeName": "संजय भिकचंद बागुल",
+    "relationType": "पती",
+    "houseNo": "650"
+  },
+  {
+    "serialNo": 777,
+    "name": "अजीम गुलाम पठाण",
+    "relativeName": "गुलाम पठाण",
+    "relationType": "वडील",
+    "houseNo": "धांडगे बाबा चौक"
+  },
+  {
+    "serialNo": 778,
+    "name": "अरशान इरफान तांबोळी",
+    "relativeName": "इरफ़ान अब्दुल रज्जाक तांबोळी",
+    "relationType": "वडील",
+    "houseNo": "0"
+  }
+]

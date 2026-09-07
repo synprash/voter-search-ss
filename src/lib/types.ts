@@ -106,7 +106,7 @@ export interface Booth {
 
 export interface VoterFilters {
   query: string;
-  partNo: number | 'all';
+  partNos: number[]; // empty means all booths
   gender: string;
   ageBracket: string;
   familyId: string;
