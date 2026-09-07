@@ -7,11 +7,15 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "seed:supabase": "node scripts/seed-supabase.js"
+    "seed:supabase": "node scripts/seed-supabase.js",
+    "import:raw": "node scripts/auto_ingest_pipeline.js",
+    "watch:raw": "node scripts/auto_ingest_pipeline.js --watch",
+    "audit:log": "node scripts/auto_ingest_pipeline.js --show-log"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.114.0",
     "@types/pg": "^8.23.1",
+    "@vercel/analytics": "^2.0.1",
     "clsx": "^2.1.1",
     "lucide-react": "^1.40.0",
     "next": "16.3.4",

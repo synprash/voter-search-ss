@@ -16,6 +16,7 @@ build/
 out/
 .next/
 coverage/
+*.tsbuildinfo
 
 # Python artifacts
 __pycache__/

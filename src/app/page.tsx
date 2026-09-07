@@ -74,7 +74,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 flex flex-col sm:flex-row items-center justify-between gap-2">
           <div className="flex items-center gap-1.5 text-orange-950 font-semibold">
             <ShieldCheck className="w-4 h-4 text-orange-600" />
-            <span>शिवसेना शहर चांदवड जनसंपर्क कक्ष • Admin Session Active • Powered by Supabase PostgreSQL</span>
+            <span>शिवसेना शहर चांदवड जनसंपर्क कक्ष • Admin Session Active • Developed & Managed by <a target="_blank" className="font-bold text-orange-700" href='https://in.linkedin.com/in/prashantkabade'>Webiz-Wired</a></span>
           </div>
           <div className="flex items-center gap-1 text-slate-400">
             <Info className="w-3.5 h-3.5" />

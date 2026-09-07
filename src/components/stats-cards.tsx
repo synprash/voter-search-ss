@@ -6,12 +6,19 @@ import { getTranslation } from '@/lib/i18n/translations';
 import { Users, User, UserCheck, Home, MapPin } from 'lucide-react';
 
 export const StatsCards: React.FC = () => {
-  const { language, getStats, filters } = useVoterStore();
+  const { language, getStats, filters, booths } = useVoterStore();
   const t = getTranslation(language);
   const stats = getStats();
 
   const malePercent = stats.total > 0 ? Math.round((stats.male / stats.total) * 100) : 0;
   const femalePercent = stats.total > 0 ? Math.round((stats.female / stats.total) * 100) : 0;
+
+  const isAll = !filters.partNos || filters.partNos.length === 0;
+  const boothCountText = isAll
+    ? (language === 'mr' ? `${booths.length} मतदान केंद्र` : `${booths.length} Booths`)
+    : (filters.partNos.length === 1
+        ? `भाग #${filters.partNos[0]}`
+        : (language === 'mr' ? `${filters.partNos.length} भाग निवडले` : `${filters.partNos.length} Booths`));
 
   return (
     <section aria-label="Electoral Statistics" className="mb-6">
@@ -31,7 +38,7 @@ export const StatsCards: React.FC = () => {
               {stats.total.toLocaleString()}
             </span>
             <span className="text-xs text-orange-700 font-semibold bg-orange-50 px-2 py-0.5 rounded-md border border-orange-200">
-              {filters.partNo === 'all' ? (language === 'mr' ? '२ मतदान केंद्र' : '2 Booths') : `भाग #${filters.partNo}`}
+              {boothCountText}
             </span>
           </div>
         </div>
@@ -102,13 +109,13 @@ export const StatsCards: React.FC = () => {
         <div className="flex items-center gap-2">
           <MapPin className="w-4 h-4 text-orange-600 shrink-0" />
           <span>
-            {filters.partNo === 'all'
+            {isAll
               ? (language === 'mr'
-                  ? 'सध्या सर्व मतदान केंद्र (भाग क्र. १५७ आणि १५८) मधील मतदार दाखवले जात आहेत.'
-                  : 'Showing electors across all configured parts (Booth No. 157 & 158).')
+                  ? `सध्या सर्व ${booths.length} मतदान केंद्रामधील मतदार दाखवले जात आहेत.`
+                  : `Showing electors across all ${booths.length} configured polling stations.`)
               : (language === 'mr'
-                  ? `फिल्टर लागू: भाग क्रमांक ${filters.partNo} (चांदवड)`
-                  : `Filtered by: Booth / Part #${filters.partNo} (Chandwad)`)}
+                  ? `फिल्टर लागू: भाग क्रमांक ${filters.partNos.join(', ')} (चांदवड)`
+                  : `Filtered by: Booth / Part #${filters.partNos.join(', ')} (Chandwad)`)}
           </span>
         </div>
         <span className="font-bold text-orange-700 bg-white/80 px-2.5 py-1 rounded-lg border border-orange-200">

@@ -1,7 +1,7 @@
 import { create } from 'zustand';
-import { Voter, Booth, LanguageMode, VoterFilters, VoterStats } from '../types';
+import { Voter, PollingStation, LanguageMode, VoterFilters, VoterStats } from '../types';
 import seedVoters from '../data/seed-voters.json';
-import seedBooths from '../data/seed-booths.json';
+import seedPollingStations from '../data/seed-polling-stations.json';
 
 interface VoterStoreState {
   // Auth state
@@ -15,7 +15,7 @@ interface VoterStoreState {
   filters: VoterFilters;
   selectedVoter: Voter | null;
   allVoters: Voter[];
-  booths: Booth[];
+  booths: PollingStation[];
   isUsingSupabase: boolean;
   isLoadingData: boolean;
 
@@ -26,9 +26,12 @@ interface VoterStoreState {
   setLanguage: (lang: LanguageMode) => void;
   setViewMode: (mode: 'table' | 'family') => void;
   setFilter: <K extends keyof VoterFilters>(key: K, value: VoterFilters[K]) => void;
+  togglePartNo: (partNo: number) => void;
+  selectAllBooths: () => void;
   resetFilters: () => void;
   setSelectedVoter: (voter: Voter | null) => void;
   loadFromSupabase: () => Promise<void>;
+  loadBooths: () => Promise<void>;
   updateVoterMobile: (voterId: string, mobileNo: string) => Promise<boolean>;
   getFilteredVoters: () => Voter[];
   getStats: () => VoterStats;
@@ -36,7 +39,7 @@ interface VoterStoreState {
 
 const initialFilters: VoterFilters = {
   query: '',
-  partNo: 'all',
+  partNos: [],
   gender: '',
   ageBracket: '',
   familyId: '',
@@ -52,7 +55,7 @@ export const useVoterStore = create<VoterStoreState>((set, get) => ({
   filters: initialFilters,
   selectedVoter: null,
   allVoters: seedVoters as Voter[],
-  booths: seedBooths as Booth[],
+  booths: seedPollingStations as unknown as PollingStation[],
   isUsingSupabase: false,
   isLoadingData: false,
 
@@ -66,6 +69,7 @@ export const useVoterStore = create<VoterStoreState>((set, get) => ({
           adminUser: data.user?.username || 'admin',
           isCheckingAuth: false,
         });
+        get().loadBooths();
         get().loadFromSupabase();
       } else {
         set({
@@ -88,6 +92,7 @@ export const useVoterStore = create<VoterStoreState>((set, get) => ({
       isAuthenticated: true,
       adminUser: username,
     });
+    get().loadBooths();
     get().loadFromSupabase();
   },
 
@@ -108,12 +113,39 @@ export const useVoterStore = create<VoterStoreState>((set, get) => ({
     set((state) => ({
       filters: { ...state.filters, [key]: value },
     })),
+  togglePartNo: (partNo: number) =>
+    set((state) => {
+      const current = state.filters.partNos || [];
+      const exists = current.includes(partNo);
+      const updated = exists ? current.filter((p) => p !== partNo) : [...current, partNo];
+      return {
+        filters: { ...state.filters, partNos: updated },
+      };
+    }),
+  selectAllBooths: () =>
+    set((state) => ({
+      filters: { ...state.filters, partNos: [] },
+    })),
   resetFilters: () => set({ filters: initialFilters }),
   setSelectedVoter: (selectedVoter) => set({ selectedVoter }),
+
+  loadBooths: async () => {
+    try {
+      const res = await fetch('/api/booths');
+      const json = await res.json();
+      if (json.booths && json.booths.length > 0) {
+        set({ booths: json.booths as PollingStation[] });
+      }
+    } catch (err) {
+      console.warn('Failed to load booths from API, using fallback:', err);
+    }
+  },
 
   loadFromSupabase: async () => {
     set({ isLoadingData: true });
     try {
+      // Ensure booths are also refreshed from DB
+      get().loadBooths();
       const res = await fetch('/api/voters');
       const json = await res.json();
       if (json.voters && json.voters.length > 0) {
@@ -164,14 +196,14 @@ export const useVoterStore = create<VoterStoreState>((set, get) => ({
   getFilteredVoters: () => {
     const { allVoters, filters } = get();
     const q = filters.query.trim().toLowerCase();
-    const partNo = filters.partNo;
+    const partNos = filters.partNos || [];
     const gender = filters.gender;
     const ageBracket = filters.ageBracket;
     const familyId = filters.familyId.trim();
 
     return allVoters.filter((v) => {
-      // 1. Part / Booth filter
-      if (partNo !== 'all' && v.part_no !== partNo) {
+      // 1. Multi-select Part / Booth filter
+      if (partNos.length > 0 && !partNos.includes(v.part_no)) {
         return false;
       }
 

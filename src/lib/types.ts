@@ -1,9 +1,51 @@
 export type LanguageMode = 'en' | 'mr' | 'bilingual';
 
+export interface Assembly {
+  id: number;
+  assembly_no: number;
+  assembly_name_en: string;
+  assembly_name_mr: string;
+  parliamentary_no?: number;
+  parliamentary_name_en?: string;
+  parliamentary_name_mr?: string;
+  district_en?: string;
+  district_mr?: string;
+  state_en?: string;
+  state_mr?: string;
+  created_at?: string;
+}
+
+export interface PollingStation {
+  id: number;
+  assembly_id: number;
+  assembly_no: number;
+  part_no: number;
+  station_name_en: string;
+  station_name_mr: string;
+  station_address_en?: string;
+  station_address_mr?: string;
+  building_name_en?: string;
+  building_name_mr?: string;
+  town_village_en?: string;
+  town_village_mr?: string;
+  taluka_en?: string;
+  taluka_mr?: string;
+  district_en?: string;
+  district_mr?: string;
+  pincode?: string;
+  total_electors?: number;
+  male_electors?: number;
+  female_electors?: number;
+  third_gender_electors?: number;
+  created_at?: string;
+}
+
 export interface Voter {
   id: string;
   part_no: number;
   assembly_no: number;
+  assembly_id?: number;
+  polling_station_id?: number;
   assembly_name_en: string;
   assembly_name_mr: string;
   parliamentary_no?: number;
@@ -64,7 +106,7 @@ export interface Booth {
 
 export interface VoterFilters {
   query: string;
-  partNo: number | 'all';
+  partNos: number[]; // empty means all booths
   gender: string;
   ageBracket: string;
   familyId: string;
