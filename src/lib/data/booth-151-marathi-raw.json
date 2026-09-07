@@ -1,0 +1,6799 @@
+[
+  {
+    "serialNo": 1,
+    "name": "ललिता केदा अहिरे",
+    "relativeName": "केदू अहिरे",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 2,
+    "name": "किरण रामचंद्र अहिरे",
+    "relativeName": "रामचंद्र अहिरे",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 3,
+    "name": "अनिल छबु भालेराव",
+    "relativeName": "छबु भालेराव",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 4,
+    "name": "वैशाली अनिल भालेराव",
+    "relativeName": "अनिल भालेराव",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 5,
+    "name": "अर्जुन चिलू भवर",
+    "relativeName": "चिलू भवर",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 6,
+    "name": "लंकाबाई अर्जुन भवर",
+    "relativeName": "अर्जुन भवर",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 7,
+    "name": "लंकाबाई नामदेव गांगुर्डे",
+    "relativeName": "नामदेव गांगुर्डे",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 8,
+    "name": "प्रकाश सुकदेव गांगुर्डे",
+    "relativeName": "सुकदेव गांगुर्डे",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 9,
+    "name": "शरद लक्ष्मन गांगुर्डे",
+    "relativeName": "लक्ष्मन गांगुर्डे",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 10,
+    "name": "संगीता शरद गांगुर्डे",
+    "relativeName": "शरद गांगुर्डे",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 11,
+    "name": "अनिता प्रकाश गांगुर्डे",
+    "relativeName": "प्रकाश गांगुर्डे",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 12,
+    "name": "गुंताबाई रविंद्र गांगुर्डे",
+    "relativeName": "रविंद्र गांगुर्डे",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 13,
+    "name": "रविंद्र दिलिप गांगुर्डे",
+    "relativeName": "दिलिप गांगुर्डे",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 14,
+    "name": "माधव सुकदेव गांगुर्डे",
+    "relativeName": "सुकदेव गांगुर्डे",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 15,
+    "name": "पूनम प्रवीण गांगुर्डे",
+    "relativeName": "प्रवीण गांगुर्डे",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 16,
+    "name": "मच्छिंद्र सोमनाथ गांगुर्डे",
+    "relativeName": "सोमनाथ गांगुर्ड",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 17,
+    "name": "प्रविण सुकदेव गांगुर्डे",
+    "relativeName": "सुकदेव गांगुर्डे",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 18,
+    "name": "रुपाली दौलत गांगुर्डे",
+    "relativeName": "दौलत गांगुर्डे",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 19,
+    "name": "शिला माधव गांगुर्डे",
+    "relativeName": "माधव गांगुर्डे गा126693428",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 20,
+    "name": "दिपक सोमनाथ जाधव",
+    "relativeName": "सोमनाथ जाधव गा26348627",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 21,
+    "name": "संतोष शिवाजी माळी",
+    "relativeName": "शिवाजी माळी न शि छू नी > ळर छा म ०3६",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 22,
+    "name": "ताईबाई संतोष माळी",
+    "relativeName": "संतोष माळी",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 23,
+    "name": "चंद्रकला निलेश माळी",
+    "relativeName": "निलेश माळी",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 24,
+    "name": "बलीबाई लखन माळी",
+    "relativeName": "लखन माळी",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 25,
+    "name": "दिपक भाऊसाहेब माळी",
+    "relativeName": "भाऊसाहेब माळी",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 26,
+    "name": "मनोहर दत्तात्रय मोरे",
+    "relativeName": "दत्तात्रय मोरे",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 27,
+    "name": "आकाश किशोर परदेशी",
+    "relativeName": "किशोर परदेशी",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 28,
+    "name": "अनीता राजू पाथरे",
+    "relativeName": "राजू पाथरे",
+    "relationType": "पती",
+    "houseNo": "गजानन कॉलोनी"
+  },
+  {
+    "serialNo": 29,
+    "name": "रतन बापु पवार",
+    "relativeName": "बापु पवार",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 30,
+    "name": "लक्ष्मण बापू पवार",
+    "relativeName": "बापु पवार",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 31,
+    "name": "सागर चिंतामण राजगिरे",
+    "relativeName": "चिंतामण राजगिरे",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 32,
+    "name": "पुजा प्रविण राजगिरे",
+    "relativeName": "प्रविण राजगिरे",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 33,
+    "name": "रेखाबाई पोपट सोनवणे",
+    "relativeName": "पोपट सोनवणे",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 34,
+    "name": "मोसिन फारुक तांबोळी",
+    "relativeName": "फारुख तांबोळी",
+    "relationType": "वडील",
+    "houseNo": "0"
+  },
+  {
+    "serialNo": 35,
+    "name": "शेखर दामू वाघ",
+    "relativeName": "दामू वाघ",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 36,
+    "name": "कविता शेखर वाघ",
+    "relativeName": "शेखर वाघ",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 37,
+    "name": "अरुणा साहेबराव वाघ",
+    "relativeName": "साहेबराव वाघ",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 38,
+    "name": "विजय रामदास पवार",
+    "relativeName": "रामदास पवार",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 39,
+    "name": "अनिल अरुण पवार",
+    "relativeName": "अरुण हसरत पवार",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 40,
+    "name": "आशा शरद माळी",
+    "relativeName": "शरद माळी",
+    "relationType": "पती",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 41,
+    "name": "मिथुन राजू पवार",
+    "relativeName": "राजू वसंत पवार",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 42,
+    "name": "सुनिल गुलाब माळी",
+    "relativeName": "गुलाब कारभारी माळी",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 43,
+    "name": "प्रविण राजेंद्र पवार",
+    "relativeName": "राजेंद्र पवार",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 44,
+    "name": "ज्ञानेश्वर बाळू गोधडे",
+    "relativeName": "बाळू तानाजी गोधडे",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 45,
+    "name": "विजय फूलचंद गोधडे",
+    "relativeName": "फूलचंद गोधडे",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 46,
+    "name": "विकास बाबू गवळी",
+    "relativeName": "बाबू गवळी",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 47,
+    "name": "मनिषा विजय पवार",
+    "relativeName": "विजय रामदास पवार",
+    "relationType": "पती",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 48,
+    "name": "विजय अर्जुन भवर",
+    "relativeName": "अर्जुन चिलू भवर",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 49,
+    "name": "अब्दुल क्रादिर मुस्तफा अन्सारी",
+    "relativeName": "मोहम्मद मुस्तफा अन्सारी गा126877252",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 50,
+    "name": "सना अब्दुल क्रादिर अन्सारी",
+    "relativeName": "अब्दुल क्रादिर मुस्तफा अन्सारी गा26877013",
+    "relationType": "पती",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 51,
+    "name": "प्रथमेश राजेश बागुल",
+    "relativeName": "राजेश बागुल रज र! ्ञ श्व ऱ्द ज्म > ले ष्ठ",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 52,
+    "name": "मंगल बाळू बनकर",
+    "relativeName": "बाळू बनकर",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 53,
+    "name": "अजय कचरू बनसोडे",
+    "relativeName": "कचरू बनसोडे",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 54,
+    "name": "चित्रा देवनाथ बरदे",
+    "relativeName": "देवनाथ बरदे",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 55,
+    "name": "केदा सोमनाथ बरदे",
+    "relativeName": "सोमनाथ बरदे",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 56,
+    "name": "मनोज रमेश बरदे",
+    "relativeName": "रमेश बरदे",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 57,
+    "name": "निसारबाई जमाल बेग",
+    "relativeName": "जमाल बेग",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 58,
+    "name": "शमा अजीज बेग",
+    "relativeName": "अजीज बेग",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 59,
+    "name": "निहाल जमाल बेग",
+    "relativeName": "जमाल बेग",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 60,
+    "name": "मुजफ्फर जमाल बेग",
+    "relativeName": "जमाल बेग",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 61,
+    "name": "तबस्सूम मुझफ्फर बेग",
+    "relativeName": "मुझफ्फर बेग",
+    "relationType": "पती",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 62,
+    "name": "रुखसार मोहम्मद बेग",
+    "relativeName": "मोहम्मद बेग",
+    "relationType": "पती",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 63,
+    "name": "मीनाक्षी महेश बेलदार",
+    "relativeName": "महेश बेलदार",
+    "relationType": "पती",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 64,
+    "name": "देवनाथ पंढरीनाथ बोरदे",
+    "relativeName": "पंढरीनाथ बोरदे",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 65,
+    "name": "मतीन मोबीन देशमुख",
+    "relativeName": "मोबीन देशमुख",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 66,
+    "name": "बईस्ता मतीन देशमुख",
+    "relativeName": "मतीन देशमुख",
+    "relationType": "पती",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 67,
+    "name": "अरशद मतीन देशमुख",
+    "relativeName": "मतीन देशमुख",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 68,
+    "name": "रुकसार अरशद देशमुख",
+    "relativeName": "अरशद देशमुख",
+    "relationType": "पती",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 69,
+    "name": "पप्पू भगवान गांगुर्डे",
+    "relativeName": "भगवान गांगुर्डे",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 70,
+    "name": "मुक्ता रविकांत गांगुर्डे",
+    "relativeName": "रविकांत गांगुर्डे",
+    "relationType": "पती",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 71,
+    "name": "सागर पोपट घोडके",
+    "relativeName": "पोपट घोडके",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 72,
+    "name": "आरती सागर घोडके",
+    "relativeName": "सागर घोडके",
+    "relationType": "पती",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 73,
+    "name": "कमल रतन घोडके",
+    "relativeName": "रतन घोडके",
+    "relationType": "पती",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 74,
+    "name": "सिताबाई रामसिंग गोधडे",
+    "relativeName": "रामसिंग गोधडे",
+    "relationType": "पती",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 75,
+    "name": "छबू मुरलीधर गोधडे",
+    "relativeName": "मुरलीधर गोधडे",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 76,
+    "name": "आकाश कडवे",
+    "relativeName": "जिभाऊ कडवे",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 77,
+    "name": "फैजान रऊफ खान",
+    "relativeName": "रऊफ खान",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 78,
+    "name": "रामसिंग मुरलीधर मोरे",
+    "relativeName": "मुरलीधर मोरे",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 79,
+    "name": "दिपक विष्णू मोरे",
+    "relativeName": "विष्णू मोरे गा26877328",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 80,
+    "name": "मंगल दिपक मोरे",
+    "relativeName": "दिपक मोरे गा26877039",
+    "relationType": "पती",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 81,
+    "name": "सुनिल रतन मोरे",
+    "relativeName": "रतन मोरे ना ऱि ळू प्छ व जु खळ झळ",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 82,
+    "name": "गुलाब अय्युबखान पठाण",
+    "relativeName": "अय्युबखान पठाण",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 83,
+    "name": "फारूकखान कयूमखान पठाण",
+    "relativeName": "कयूमखान पठाण",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 84,
+    "name": "सलमा कय्यूबखान पठाण",
+    "relativeName": "कय्यूबखान पठाण",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 85,
+    "name": "छबू रामदास पवार",
+    "relativeName": "रामदास पवार",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 86,
+    "name": "कल्पना शाम पवार",
+    "relativeName": "शाम पवार",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 87,
+    "name": "ललिता छबू पवार",
+    "relativeName": "छबू पवार",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 88,
+    "name": "मिना अनिल पवार",
+    "relativeName": "अनिल पवार",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 89,
+    "name": "भारती सुनिल पवार",
+    "relativeName": "सुनिल पवार",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 90,
+    "name": "किरण सुकदेव पवार",
+    "relativeName": "सुकदेव पवार",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 91,
+    "name": "नजमा हारून शेख",
+    "relativeName": "हारून शेख",
+    "relationType": "पती",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 92,
+    "name": "फरीदा रफिक शेख",
+    "relativeName": "रफिक शेख",
+    "relationType": "पती",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 93,
+    "name": "रफिक अफजल शेख",
+    "relativeName": "अफजल शेख",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 94,
+    "name": "दिनेश बाळू सुपारे",
+    "relativeName": "बाळू सुपारे",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 95,
+    "name": "आशा किशोर वाघ",
+    "relativeName": "किशोर वाघ",
+    "relationType": "पती",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 96,
+    "name": "लीलाबाई विष्णू मोरे",
+    "relativeName": "विष्णू मोरे",
+    "relationType": "पती",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 97,
+    "name": "असलम शब्बीर शेख",
+    "relativeName": "शब्बीर शेख",
+    "relationType": "वडील",
+    "houseNo": "--"
+  },
+  {
+    "serialNo": 98,
+    "name": "सादिया शेख",
+    "relativeName": "तबरेज शेख",
+    "relationType": "पती",
+    "houseNo": "--"
+  },
+  {
+    "serialNo": 99,
+    "name": "विक्रम अशोक गांगुर्डे",
+    "relativeName": "अशोक गांगुर्डे",
+    "relationType": "वडील",
+    "houseNo": "चांदवड"
+  },
+  {
+    "serialNo": 100,
+    "name": "सरस्वती बेलदार",
+    "relativeName": "सागर बेलदा र",
+    "relationType": "पती",
+    "houseNo": "गाड्गेबाबा चौक"
+  },
+  {
+    "serialNo": 101,
+    "name": "नम्रता ज्ञानेश्वर बेलदार",
+    "relativeName": "ज्ञानेश्वर बेलदार",
+    "relationType": "पती",
+    "houseNo": "गाड्गेबाबा चौक"
+  },
+  {
+    "serialNo": 102,
+    "name": "राहुल पवार",
+    "relativeName": "बाळू पवार",
+    "relationType": "वडील",
+    "houseNo": "06"
+  },
+  {
+    "serialNo": 103,
+    "name": "स्वाती पवार",
+    "relativeName": "राहुल पवार",
+    "relationType": "पती",
+    "houseNo": "13"
+  },
+  {
+    "serialNo": 104,
+    "name": "गणेश शिंदे",
+    "relativeName": "राजेंद्र",
+    "relationType": "वडील",
+    "houseNo": "13"
+  },
+  {
+    "serialNo": 105,
+    "name": "अर्चना सोमनाथ गोविंद",
+    "relativeName": "सोमनाथ गोविंद",
+    "relationType": "पती",
+    "houseNo": "14अ"
+  },
+  {
+    "serialNo": 106,
+    "name": "रवींद्र जाधव",
+    "relativeName": "दीपक गांगुर्डे",
+    "relationType": "वडील",
+    "houseNo": "15"
+  },
+  {
+    "serialNo": 107,
+    "name": "परशराम पवार",
+    "relativeName": "मंगला पवार",
+    "relationType": "वडील",
+    "houseNo": "45"
+  },
+  {
+    "serialNo": 108,
+    "name": "गौरी जाधव इतर दशरथ जाधव",
+    "relativeName": "",
+    "relationType": "वडील",
+    "houseNo": "65"
+  },
+  {
+    "serialNo": 109,
+    "name": "गायत्री पवार",
+    "relativeName": "अंबादास पवार",
+    "relationType": "पती",
+    "houseNo": "76"
+  },
+  {
+    "serialNo": 110,
+    "name": "गुलाब नामदेव माळी",
+    "relativeName": "नामदेव माळी",
+    "relationType": "वडील",
+    "houseNo": "117"
+  },
+  {
+    "serialNo": 111,
+    "name": "नामदेव सुकदेव गांगुर्डे",
+    "relativeName": "सुकदेव गांगुर्डे",
+    "relationType": "वडील",
+    "houseNo": "120"
+  },
+  {
+    "serialNo": 112,
+    "name": "निलेश दौलतराव चौधरी",
+    "relativeName": "दौलतराव चौधरी",
+    "relationType": "वडील",
+    "houseNo": "123"
+  },
+  {
+    "serialNo": 113,
+    "name": "आशिष वंदना जंगम",
+    "relativeName": "वंदना जंगम",
+    "relationType": "वडील",
+    "houseNo": "130"
+  },
+  {
+    "serialNo": 114,
+    "name": "सुनिल छबू भालेराव",
+    "relativeName": "छबू भालेराव",
+    "relationType": "वडील",
+    "houseNo": "१५८"
+  },
+  {
+    "serialNo": 115,
+    "name": "केदा रामचंद्र आहिरे",
+    "relativeName": "रामचंद्र आहिरे",
+    "relationType": "वडील",
+    "houseNo": "190"
+  },
+  {
+    "serialNo": 116,
+    "name": "सागर अशोक गांगुर्डे",
+    "relativeName": "अशोक गांगुर्डे",
+    "relationType": "वडील",
+    "houseNo": "191"
+  },
+  {
+    "serialNo": 117,
+    "name": "राहुल विठ्ठल बेलदार",
+    "relativeName": "विठ्ठल बेलदार",
+    "relationType": "वडील",
+    "houseNo": "412"
+  },
+  {
+    "serialNo": 118,
+    "name": "रविकांत सुकदेव गांगुर्डे",
+    "relativeName": "सुकदेव गांगुर्डे",
+    "relationType": "वडील",
+    "houseNo": "511"
+  },
+  {
+    "serialNo": 119,
+    "name": "लीलावती विलास जाधव जाधव",
+    "relativeName": "विलास जाधव",
+    "relationType": "पती",
+    "houseNo": "770ए"
+  },
+  {
+    "serialNo": 120,
+    "name": "गुलाब कारभारी माळी",
+    "relativeName": "कारभारी माळी",
+    "relationType": "वडील",
+    "houseNo": "821"
+  },
+  {
+    "serialNo": 121,
+    "name": "रंजना गुलाब माळी",
+    "relativeName": "गुलाब माळी",
+    "relationType": "पती",
+    "houseNo": "821"
+  },
+  {
+    "serialNo": 122,
+    "name": "कल्याबाई अर्जुन गांगुर्डे",
+    "relativeName": "अर्जुन गांगुर्डे",
+    "relationType": "वडील",
+    "houseNo": "822"
+  },
+  {
+    "serialNo": 123,
+    "name": "शानुबाई नामदेव गांगुर्डे",
+    "relativeName": "नामदेव गांगुर्डे",
+    "relationType": "पती",
+    "houseNo": "823"
+  },
+  {
+    "serialNo": 124,
+    "name": "कैलास नामदेव गांगुर्डे",
+    "relativeName": "नामदेव गांगुर्डे",
+    "relationType": "वडील",
+    "houseNo": "823"
+  },
+  {
+    "serialNo": 125,
+    "name": "शितल कैलास गांगुर्डे",
+    "relativeName": "कैलास गांगुर्ड",
+    "relationType": "पती",
+    "houseNo": "823"
+  },
+  {
+    "serialNo": 126,
+    "name": "बबन नानाजी पवार",
+    "relativeName": "नानाजी पवार",
+    "relationType": "वडील",
+    "houseNo": "826"
+  },
+  {
+    "serialNo": 127,
+    "name": "रंजना बबन पवार",
+    "relativeName": "बबन पवार",
+    "relationType": "पती",
+    "houseNo": "826"
+  },
+  {
+    "serialNo": 128,
+    "name": "कुसूम सोमनाथ जाधव",
+    "relativeName": "सोमनाथ जाधव",
+    "relationType": "पती",
+    "houseNo": "826 अ"
+  },
+  {
+    "serialNo": 129,
+    "name": "उज्वला गौतम गांगुर्डे",
+    "relativeName": "गौतम गांगुर्डे",
+    "relationType": "पती",
+    "houseNo": "831"
+  },
+  {
+    "serialNo": 130,
+    "name": "गौतम अरुण गांगुर्डे",
+    "relativeName": "अरुण गांगुर्डे",
+    "relationType": "वडील",
+    "houseNo": "831"
+  },
+  {
+    "serialNo": 131,
+    "name": "शकील शब्बीर मदारी",
+    "relativeName": "शब्बीर मदारी",
+    "relationType": "वडील",
+    "houseNo": "839"
+  },
+  {
+    "serialNo": 132,
+    "name": "सचिन भास्कर गवळी",
+    "relativeName": "भास्कर गवळी",
+    "relationType": "वडील",
+    "houseNo": "843"
+  },
+  {
+    "serialNo": 133,
+    "name": "सखाराम सोमा नावरे",
+    "relativeName": "सोमा नावरे",
+    "relationType": "वडील",
+    "houseNo": "851"
+  },
+  {
+    "serialNo": 134,
+    "name": "फुल्याबाई सखाराम नावरे",
+    "relativeName": "सखाराम नावरे",
+    "relationType": "पती",
+    "houseNo": "851"
+  },
+  {
+    "serialNo": 135,
+    "name": "मंगलाताई किसन नवरे",
+    "relativeName": "किसन नवरे",
+    "relationType": "पती",
+    "houseNo": "851"
+  },
+  {
+    "serialNo": 136,
+    "name": "विठ्ठल पंडीत बेलदार",
+    "relativeName": "पंडीत बेलदार",
+    "relationType": "वडील",
+    "houseNo": "907"
+  },
+  {
+    "serialNo": 137,
+    "name": "भारती विठ्ठल बेलदार",
+    "relativeName": "विठ्ठल बेलदार",
+    "relationType": "पती",
+    "houseNo": "907"
+  },
+  {
+    "serialNo": 138,
+    "name": "हारुन मकबुल शेख",
+    "relativeName": "मकबुल शेख",
+    "relationType": "वडील",
+    "houseNo": "911"
+  },
+  {
+    "serialNo": 139,
+    "name": "अनिल प्रभाकर बोटवे",
+    "relativeName": "प्रभाकर बोटवे",
+    "relationType": "वडील",
+    "houseNo": "922"
+  },
+  {
+    "serialNo": 140,
+    "name": "रंजना अनिल बोटवे",
+    "relativeName": "अनिल बोटवे",
+    "relationType": "पती",
+    "houseNo": "922"
+  },
+  {
+    "serialNo": 141,
+    "name": "महेश बेलदार",
+    "relativeName": "सुधाकर बेलवार",
+    "relationType": "वडील",
+    "houseNo": "928"
+  },
+  {
+    "serialNo": 142,
+    "name": "युवराज बाबु गवळी",
+    "relativeName": "बाबु गवळी",
+    "relationType": "वडील",
+    "houseNo": "1104"
+  },
+  {
+    "serialNo": 143,
+    "name": "मंगला अशोक पवार",
+    "relativeName": "अशोक पवार",
+    "relationType": "पती",
+    "houseNo": "1211"
+  },
+  {
+    "serialNo": 144,
+    "name": "लक्ष्मी गायकवाड",
+    "relativeName": "अनिल गायकवाड",
+    "relationType": "वडील",
+    "houseNo": "1338"
+  },
+  {
+    "serialNo": 145,
+    "name": "संतोष दिलीप पवार",
+    "relativeName": "दिलीप पवार",
+    "relationType": "वडील",
+    "houseNo": "1471"
+  },
+  {
+    "serialNo": 146,
+    "name": "रत्नाकर रमेश धुमाळ",
+    "relativeName": "रमेश धुमाळ",
+    "relationType": "वडील",
+    "houseNo": "653 3"
+  },
+  {
+    "serialNo": 147,
+    "name": "शांताबाई विष्णू गांगुर्डे",
+    "relativeName": "विष्णू गांगुर्डे",
+    "relationType": "पती",
+    "houseNo": "8162"
+  },
+  {
+    "serialNo": 148,
+    "name": "सरला सुखदेव गांगुर्डे",
+    "relativeName": "सुखदेव गांगुर्डे",
+    "relationType": "पती",
+    "houseNo": "8162"
+  },
+  {
+    "serialNo": 149,
+    "name": "अशोक चिंधा गांगुर्डे",
+    "relativeName": "चिंधा गांगुर्डे",
+    "relationType": "वडील",
+    "houseNo": "8162"
+  },
+  {
+    "serialNo": 150,
+    "name": "अलका सुरेश गांगुर्डे",
+    "relativeName": "सुरेश गांगुर्डे",
+    "relationType": "पती",
+    "houseNo": "8162"
+  },
+  {
+    "serialNo": 151,
+    "name": "रुक्मिणीबाई अशोक गांगुर्डे",
+    "relativeName": "अशोक गांगुर्डे",
+    "relationType": "पती",
+    "houseNo": "8162"
+  },
+  {
+    "serialNo": 152,
+    "name": "संगिता युवराज गवळी",
+    "relativeName": "युवराज गवळी",
+    "relationType": "पती",
+    "houseNo": "8162"
+  },
+  {
+    "serialNo": 153,
+    "name": "अनिता भागिरथ माळी",
+    "relativeName": "भागिरथ माळी",
+    "relationType": "पती",
+    "houseNo": "819/1"
+  },
+  {
+    "serialNo": 154,
+    "name": "सरूबाई धर्मा शिंदे",
+    "relativeName": "धर्मा शिंदे",
+    "relationType": "पती",
+    "houseNo": "819/1"
+  },
+  {
+    "serialNo": 155,
+    "name": "मिलींद चंद्रकांत शिरसाठ",
+    "relativeName": "चंद्रकांत शिरसाठ",
+    "relationType": "वडील",
+    "houseNo": "819/1"
+  },
+  {
+    "serialNo": 156,
+    "name": "सुखदेव सुंदर माळी",
+    "relativeName": "सुंदर माळी",
+    "relationType": "वडील",
+    "houseNo": "8191"
+  },
+  {
+    "serialNo": 157,
+    "name": "रेष्मा शिवाजी माळी",
+    "relativeName": "शिवाजी माळी",
+    "relationType": "पती",
+    "houseNo": "8191"
+  },
+  {
+    "serialNo": 158,
+    "name": "शोभा सुखदेव माळी",
+    "relativeName": "सुखदेव माळी",
+    "relationType": "पती",
+    "houseNo": "8191"
+  },
+  {
+    "serialNo": 159,
+    "name": "केशरबाई शिवाजी माळी",
+    "relativeName": "शिवाजी माळी",
+    "relationType": "पती",
+    "houseNo": "8193"
+  },
+  {
+    "serialNo": 160,
+    "name": "भगिरथ शिवाजी माळी",
+    "relativeName": "शिवाजी माळी",
+    "relationType": "वडील",
+    "houseNo": "8193"
+  },
+  {
+    "serialNo": 161,
+    "name": "सुभाष नारायण माळी",
+    "relativeName": "नारायण माळी",
+    "relationType": "वडील",
+    "houseNo": "8201"
+  },
+  {
+    "serialNo": 162,
+    "name": "अंजनाबाई सुभाष माळी",
+    "relativeName": "सुभाष माळी",
+    "relationType": "पती",
+    "houseNo": "8201"
+  },
+  {
+    "serialNo": 163,
+    "name": "चंद्रकला नारायण जाधव",
+    "relativeName": "नारायण जाधव",
+    "relationType": "पती",
+    "houseNo": "8202"
+  },
+  {
+    "serialNo": 164,
+    "name": "वच्छलाबाई बाळू सोनवणे",
+    "relativeName": "बाळू सोनवणे",
+    "relationType": "पती",
+    "houseNo": "8203"
+  },
+  {
+    "serialNo": 165,
+    "name": "संजय बाळू सोनवणे",
+    "relativeName": "बाळू सोनवणे",
+    "relationType": "वडील",
+    "houseNo": "8203"
+  },
+  {
+    "serialNo": 166,
+    "name": "लता कांतीलाल गवळी",
+    "relativeName": "कांतीलाल गवळी",
+    "relationType": "पती",
+    "houseNo": "826/1"
+  },
+  {
+    "serialNo": 167,
+    "name": "भाऊ काशीनाथ जेडगुले",
+    "relativeName": "काशीनाथ जेडगुले",
+    "relationType": "वडील",
+    "houseNo": "826/1"
+  },
+  {
+    "serialNo": 168,
+    "name": "कमळाबाई बाबुराव अहीरे",
+    "relativeName": "बाबुराव अहीरे",
+    "relationType": "पती",
+    "houseNo": "8261"
+  },
+  {
+    "serialNo": 169,
+    "name": "ताराबाई रामदास पवार",
+    "relativeName": "रामदास पवार",
+    "relationType": "पती",
+    "houseNo": "826/2"
+  },
+  {
+    "serialNo": 170,
+    "name": "विमलबाई साहेबराव माळी",
+    "relativeName": "साहेबराव माळी",
+    "relationType": "पती",
+    "houseNo": "8262"
+  },
+  {
+    "serialNo": 171,
+    "name": "रोहिदास तान्हाजी गोधडे",
+    "relativeName": "तान्हाजी गोधडे",
+    "relationType": "वडील",
+    "houseNo": "826/5"
+  },
+  {
+    "serialNo": 172,
+    "name": "बाळू तान्हाजी गोधडे",
+    "relativeName": "तान्हाजी गोधडे",
+    "relationType": "वडील",
+    "houseNo": "8265"
+  },
+  {
+    "serialNo": 173,
+    "name": "कल्याबाई बाळू गोधडे",
+    "relativeName": "बाळू गोधडे",
+    "relationType": "पती",
+    "houseNo": "8265"
+  },
+  {
+    "serialNo": 174,
+    "name": "राहीबाई आबाजी ठाकरे",
+    "relativeName": "आबाजी ठाकरे",
+    "relationType": "पती",
+    "houseNo": "8266"
+  },
+  {
+    "serialNo": 175,
+    "name": "ललीता दिलीप पिंपळे",
+    "relativeName": "दिलीप पिंपळे",
+    "relationType": "पती",
+    "houseNo": "8292"
+  },
+  {
+    "serialNo": 176,
+    "name": "सविता भाऊराव बांगरे",
+    "relativeName": "भाऊराव बांगरे",
+    "relationType": "पती",
+    "houseNo": "8551"
+  },
+  {
+    "serialNo": 177,
+    "name": "संजय भावराव बांगरे",
+    "relativeName": "भावराव बांगरे",
+    "relationType": "वडील",
+    "houseNo": "8551"
+  },
+  {
+    "serialNo": 178,
+    "name": "मनोज भावराव बांगरे",
+    "relativeName": "भावराव बांगरे",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 179,
+    "name": "शोभा संजय बांगरे",
+    "relativeName": "संजय बांगरे",
+    "relationType": "पती",
+    "houseNo": "8551"
+  },
+  {
+    "serialNo": 180,
+    "name": "वसंत हसरत पवार",
+    "relativeName": "हसरत पवार",
+    "relationType": "वडील",
+    "houseNo": "82611"
+  },
+  {
+    "serialNo": 181,
+    "name": "लक्ष्मी वसंत पवार",
+    "relativeName": "वसंत पवार",
+    "relationType": "पती",
+    "houseNo": "82612"
+  },
+  {
+    "serialNo": 182,
+    "name": "वंदना राजू पवार",
+    "relativeName": "राजू पवार",
+    "relationType": "पती",
+    "houseNo": "82612"
+  },
+  {
+    "serialNo": 183,
+    "name": "दिलीप हसरत पवार",
+    "relativeName": "हसरत पवार",
+    "relationType": "वडील",
+    "houseNo": "82613"
+  },
+  {
+    "serialNo": 184,
+    "name": "अलका दिलीप पवार",
+    "relativeName": "दिलीप पवार",
+    "relationType": "पती",
+    "houseNo": "82613"
+  },
+  {
+    "serialNo": 185,
+    "name": "यमूना अरुण पवार",
+    "relativeName": "अरुण पवार",
+    "relationType": "पती",
+    "houseNo": "82613"
+  },
+  {
+    "serialNo": 186,
+    "name": "सुनिता विलास गांगुर्डे",
+    "relativeName": "विलास गांगुर्डे",
+    "relationType": "पती",
+    "houseNo": "82621"
+  },
+  {
+    "serialNo": 187,
+    "name": "वैष्णवी किसन नवरे",
+    "relativeName": "मंगलाताई किसन नवरे",
+    "relationType": "आई",
+    "houseNo": "851,हाईवे शेजारी"
+  },
+  {
+    "serialNo": 188,
+    "name": "भामाबाई सचिन गवळी",
+    "relativeName": "सचिन भास्कर गवळी",
+    "relationType": "पती",
+    "houseNo": "840/7"
+  },
+  {
+    "serialNo": 189,
+    "name": "सुरेश ज्ञानेश्वर बरडे",
+    "relativeName": "ज्ञानेश्वर बरडे",
+    "relationType": "वडील",
+    "houseNo": "850/8"
+  },
+  {
+    "serialNo": 190,
+    "name": "गोरख पिंटू गांगुर्डे",
+    "relativeName": "पिंटू गांगुर्डे",
+    "relationType": "वडील",
+    "houseNo": "640"
+  },
+  {
+    "serialNo": 191,
+    "name": "फ़रहीन मोसिन तांबोळी",
+    "relativeName": "मोसिन फारुख तांबोळी",
+    "relationType": "पती",
+    "houseNo": "0"
+  },
+  {
+    "serialNo": 192,
+    "name": "भारती अनिल भवर इतर लंका भवर",
+    "relativeName": "",
+    "relationType": "वडील",
+    "houseNo": "820"
+  },
+  {
+    "serialNo": 193,
+    "name": "अदिती अनिल बोटवे",
+    "relativeName": "अनिल बोटवै",
+    "relationType": "वडील",
+    "houseNo": "787"
+  },
+  {
+    "serialNo": 194,
+    "name": "कोमल किरण पवार पवार",
+    "relativeName": "किरण पवार पवार",
+    "relationType": "पती",
+    "houseNo": "0034"
+  },
+  {
+    "serialNo": 195,
+    "name": "रत्ना भालेराव",
+    "relativeName": "सुनील भालेराव",
+    "relationType": "पती",
+    "houseNo": "02"
+  },
+  {
+    "serialNo": 196,
+    "name": "अरकान जमील शेख",
+    "relativeName": "जमील शेख शेख स्त",
+    "relationType": "वडील",
+    "houseNo": "742/1"
+  },
+  {
+    "serialNo": 197,
+    "name": "आशाबाई ईश्वर तळवारे",
+    "relativeName": "ईश्वर तळवारे",
+    "relationType": "पती",
+    "houseNo": "0"
+  },
+  {
+    "serialNo": 198,
+    "name": "कांताबाई साठे",
+    "relativeName": "सोमनाथ साठे",
+    "relationType": "पती",
+    "houseNo": "राधा नगरी"
+  },
+  {
+    "serialNo": 199,
+    "name": "सागर साठे",
+    "relativeName": "सोमनाथ साठे",
+    "relationType": "वडील",
+    "houseNo": "राधा नगरी"
+  },
+  {
+    "serialNo": 200,
+    "name": "मालती साठे",
+    "relativeName": "रवींद्र साठे",
+    "relationType": "पती",
+    "houseNo": "राधा नगरी"
+  },
+  {
+    "serialNo": 201,
+    "name": "रवींद्र साठे",
+    "relativeName": "सोमनाथ साठे",
+    "relationType": "वडील",
+    "houseNo": "राधा नगरी"
+  },
+  {
+    "serialNo": 202,
+    "name": "सुखदेव साठे",
+    "relativeName": "सोमनाथ साठे",
+    "relationType": "वडील",
+    "houseNo": "राधा नगरी"
+  },
+  {
+    "serialNo": 203,
+    "name": "कविता भरत माळी",
+    "relativeName": "भरत माळी",
+    "relationType": "पती",
+    "houseNo": "लेंडी हट्टी"
+  },
+  {
+    "serialNo": 204,
+    "name": "दुर्गा हरी पवार",
+    "relativeName": "हरी रामचंद्र पवार",
+    "relationType": "वडील",
+    "houseNo": "लेंडी हट्टी"
+  },
+  {
+    "serialNo": 205,
+    "name": "गौरी विकी खैरे",
+    "relativeName": "विकी खैरे",
+    "relationType": "पती",
+    "houseNo": "01"
+  },
+  {
+    "serialNo": 206,
+    "name": "रंजना नारायण पवार",
+    "relativeName": "नारायण काशिनाथ पवार",
+    "relationType": "पती",
+    "houseNo": "अगरा रोड"
+  },
+  {
+    "serialNo": 207,
+    "name": "वनिता गणेश शिंदे शिंदे",
+    "relativeName": "गणेश राजेंद्र शिंदे शिंदे",
+    "relationType": "पती",
+    "houseNo": "कलीका देवी रोड चांदवड"
+  },
+  {
+    "serialNo": 208,
+    "name": "दिपाली समाधान ठाकरे",
+    "relativeName": "समाधान रूपचंद ठाकरे",
+    "relationType": "पती",
+    "houseNo": "सी/ओ समाधान ठाकरे"
+  },
+  {
+    "serialNo": 209,
+    "name": "गायत्री देवदत्त बच्छाव",
+    "relativeName": "देवदत्त बच्छाव",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 210,
+    "name": "इश्वर सुभाष बरडे",
+    "relativeName": "सुभाष बरडे",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 211,
+    "name": "दिपक सुभाष बरदे",
+    "relativeName": "सुभाष बरदे",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 212,
+    "name": "निखील दीपक फलके",
+    "relativeName": "दीपक फलके",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 213,
+    "name": "मोनाली मचींद्र गांगुर्डे",
+    "relativeName": "मचींद्र गांगुर्डे",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 214,
+    "name": "भारती रमेश हिरे",
+    "relativeName": "रमेश हिरे",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 215,
+    "name": "शितल सचिन जगताप '",
+    "relativeName": "सचिन जगताप",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 216,
+    "name": "विमल सागर जगताप",
+    "relativeName": "सागर जगताप",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 217,
+    "name": "सुभाष बाबुलाल शिरोडे",
+    "relativeName": "बाबुलाल शिरोडे",
+    "relationType": "वडील",
+    "houseNo": "सी/ओ बाबूलाल शिरोडे"
+  },
+  {
+    "serialNo": 218,
+    "name": "रिना निखिल फलके",
+    "relativeName": "निखिल दिपक फलके",
+    "relationType": "पती",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 219,
+    "name": "पल्लवी मयूर बिरारी",
+    "relativeName": "मयूर बिरारी",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 220,
+    "name": "पुजा अमोल बिरारी",
+    "relativeName": "अमोल बिरारी",
+    "relationType": "पती",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 221,
+    "name": "समाधान डावखर",
+    "relativeName": "शिवाजी डावखर",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 222,
+    "name": "रूपाली डावखर",
+    "relativeName": "समाधान डावखर",
+    "relationType": "पती",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 223,
+    "name": "चैतन्य अनिल जोशी",
+    "relativeName": "अनिल जोशी",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 224,
+    "name": "सविता गोवर्धन राऊत",
+    "relativeName": "गोवर्धन राऊत",
+    "relationType": "पती",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 225,
+    "name": "सिद्धेश कोठारी",
+    "relativeName": "प्रदीप कोठारी",
+    "relationType": "वडील",
+    "houseNo": "पाटनी गल्ली"
+  },
+  {
+    "serialNo": 226,
+    "name": "वैभव सुभाषचंद कसलिवाल",
+    "relativeName": "सुभाषचंद कसलिवाल",
+    "relationType": "वडील",
+    "houseNo": "209"
+  },
+  {
+    "serialNo": 227,
+    "name": "प्रतिभा प्रकाश कोकणे",
+    "relativeName": "प्रकाश कोकणे",
+    "relationType": "पती",
+    "houseNo": "692अ"
+  },
+  {
+    "serialNo": 228,
+    "name": "अंजली विवेक गुरव",
+    "relativeName": "विवेक गुरव",
+    "relationType": "पती",
+    "houseNo": "729 अ"
+  },
+  {
+    "serialNo": 229,
+    "name": "श्रीपाल फूलफगर",
+    "relativeName": "प्रविण फूलफगर",
+    "relationType": "वडील",
+    "houseNo": "885"
+  },
+  {
+    "serialNo": 230,
+    "name": "निलेश अशोक पवार",
+    "relativeName": "अशोक पवार",
+    "relationType": "वडील",
+    "houseNo": "894"
+  },
+  {
+    "serialNo": 231,
+    "name": "किशोर रविंद्र कोकणे",
+    "relativeName": "रविंद्र कोकणे",
+    "relationType": "वडील",
+    "houseNo": "919/अ"
+  },
+  {
+    "serialNo": 232,
+    "name": "पुंडलिक गणपत कोकणे",
+    "relativeName": "गणपत कोकणे",
+    "relationType": "वडील",
+    "houseNo": "919ब"
+  },
+  {
+    "serialNo": 233,
+    "name": "मिना पुंडलीक कोकणे '",
+    "relativeName": "पुंडलीक कोकणे",
+    "relationType": "पती",
+    "houseNo": "919ब"
+  },
+  {
+    "serialNo": 234,
+    "name": "मुकेश पुंडलिक कोकणे",
+    "relativeName": "पुंडलिक कोकणे",
+    "relationType": "वडील",
+    "houseNo": "919ब"
+  },
+  {
+    "serialNo": 235,
+    "name": "सुमन अनिल साळवे",
+    "relativeName": "अनिल साळवे",
+    "relationType": "वडील",
+    "houseNo": "921"
+  },
+  {
+    "serialNo": 236,
+    "name": "प्रदीप कोठारी",
+    "relativeName": "रतनचंद कोठारी",
+    "relationType": "वडील",
+    "houseNo": "1243"
+  },
+  {
+    "serialNo": 237,
+    "name": "महेश दिलीप शेळके",
+    "relativeName": "दिलीप शेळके",
+    "relationType": "वडील",
+    "houseNo": "458/1"
+  },
+  {
+    "serialNo": 238,
+    "name": "कल्पेश रामेशचंद्र ब्रम्हेचा",
+    "relativeName": "रामेशचंद्र ब्रम्हेचा",
+    "relationType": "वडील",
+    "houseNo": "8258"
+  },
+  {
+    "serialNo": 239,
+    "name": "निलेश बन्सीलालजी श्रीश्रीमाल",
+    "relativeName": "बन्सीलालजी श्रीश्रीमाल",
+    "relationType": "वडील",
+    "houseNo": "868/1"
+  },
+  {
+    "serialNo": 240,
+    "name": "महेबूब अय्युब शेख",
+    "relativeName": "अय्युब मूसा शेख",
+    "relationType": "वडील",
+    "houseNo": "गुजरात गल्ली"
+  },
+  {
+    "serialNo": 241,
+    "name": "किरण योगेश गुजराथी",
+    "relativeName": "योगेश गुजराथी",
+    "relationType": "पती",
+    "houseNo": "623"
+  },
+  {
+    "serialNo": 242,
+    "name": "शीतल ईश्वर शिवदे शिवदे इतर दीपक बरदे बरदे",
+    "relativeName": "",
+    "relationType": "वडील",
+    "houseNo": "789"
+  },
+  {
+    "serialNo": 243,
+    "name": "कल्याणी अमोल शिवदे शिवदे इतर दीपक बरदे बारडे",
+    "relativeName": "",
+    "relationType": "वडील",
+    "houseNo": "898"
+  },
+  {
+    "serialNo": 244,
+    "name": "सना अज़रुद्दीन कादरी",
+    "relativeName": "अज़रुद्दीन रज्जाक कादरी",
+    "relationType": "पती",
+    "houseNo": "0"
+  },
+  {
+    "serialNo": 245,
+    "name": "विधीका अमोल कपाडिया",
+    "relativeName": "अमोल रमणलाल कपाडिया",
+    "relationType": "वडील",
+    "houseNo": "गुजरात गल्ली चांदवड"
+  },
+  {
+    "serialNo": 246,
+    "name": "लक्षिता आचलिया आचलिया",
+    "relativeName": "मंगेश आचलिया आचलिया",
+    "relationType": "वडील",
+    "houseNo": "हाऊस"
+  },
+  {
+    "serialNo": 247,
+    "name": "विकास बिन्द",
+    "relativeName": "राजू पारसनाथ बिन्द",
+    "relationType": "वडील",
+    "houseNo": "0"
+  },
+  {
+    "serialNo": 248,
+    "name": "प्रसाद दत्तू आहेर",
+    "relativeName": "दत्तू दामू आहेर",
+    "relationType": "वडील",
+    "houseNo": "620/2"
+  },
+  {
+    "serialNo": 249,
+    "name": "नसरीन सादिक बागवान",
+    "relativeName": "सादिक शेखलाल बागवान",
+    "relationType": "पती",
+    "houseNo": "0"
+  },
+  {
+    "serialNo": 250,
+    "name": "आयुष किरण क्षीरसागर",
+    "relativeName": "किरण क्षीरसागर",
+    "relationType": "वडील",
+    "houseNo": "गुजरात गल्ली"
+  },
+  {
+    "serialNo": 251,
+    "name": "श्रेणिक भवरलाल संचेती",
+    "relativeName": "भवरलाल संचेती",
+    "relationType": "वडील",
+    "houseNo": "चांदवड"
+  },
+  {
+    "serialNo": 252,
+    "name": "सारिका श्रेणिकभाई संचेती इतर श्रेणिक भवरलाल संचेती",
+    "relativeName": "",
+    "relationType": "वडील",
+    "houseNo": "चांदवड"
+  },
+  {
+    "serialNo": 253,
+    "name": "पल्लवी मेहुल आचलिया",
+    "relativeName": "मेहुल आचलिया",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 254,
+    "name": "काशिनाथ चिंधुलाल अग्रवाल",
+    "relativeName": "चिंधुलाल अग्रवाल",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 255,
+    "name": "मनीषा मनोज अग्रवाल",
+    "relativeName": "मनोज अग्रवाल",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 256,
+    "name": "प्रिया रितेश अग्रवाल",
+    "relativeName": "रितेश अग्रवाल",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 257,
+    "name": "राहुल भिकन अग्रवाल",
+    "relativeName": "भिकन अग्रवाल",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 258,
+    "name": "रुही संदीप गुजराथी",
+    "relativeName": "संदीप गुजराथी",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 259,
+    "name": "तृप्ती सचिन गुजराथी",
+    "relativeName": "सचिन गुजराथी",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 260,
+    "name": "अलका योगेश गुजराथी",
+    "relativeName": "योगेश गुजराथी",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 261,
+    "name": "किशोर विकास जाधव",
+    "relativeName": "विकास जाधव",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 262,
+    "name": "वैशाली अतुल जाधव",
+    "relativeName": "अतुल जाधव",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 263,
+    "name": "शितल अमोल जाधव",
+    "relativeName": "अमोल जाधव",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 264,
+    "name": "निलेश गोविंद जाधव",
+    "relativeName": "गोविंद जाधव",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 265,
+    "name": "विशाल गोविंद जाधव",
+    "relativeName": "गोविंद जाधव",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 266,
+    "name": "दुर्वास गोविंद जाधव",
+    "relativeName": "गोविंद जाधव",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 267,
+    "name": "दर्शन अतुल जाधव",
+    "relativeName": "अतुल जाधव",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 268,
+    "name": "आकाश अशोक जंगम",
+    "relativeName": "अशोक जंगम",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 269,
+    "name": "समिर मिलन कोकणे",
+    "relativeName": "मीलन कोकणे",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 270,
+    "name": "विशाल फकीर लाडे",
+    "relativeName": "फकीर लाडे",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 271,
+    "name": "नंदा संदीप लाडे",
+    "relativeName": "संदीप लाडे",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 272,
+    "name": "भावना योगेश पंडित",
+    "relativeName": "योगेश पंडित",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 273,
+    "name": "फिरोज शौकत शहा",
+    "relativeName": "शौकत शहा",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 274,
+    "name": "रुख्सार असलम शहा",
+    "relativeName": "असलम शहा",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 275,
+    "name": "रोहिणी नंदू शेलार",
+    "relativeName": "नंदू शेलार",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 276,
+    "name": "पायल रमेश सोनवणे",
+    "relativeName": "रमेश सोनवणे",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 277,
+    "name": "तरचरुम मुक्तार तांबट",
+    "relativeName": "मुख्तार तांबट",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 278,
+    "name": "तुषार हरिहर सोनवणे",
+    "relativeName": "हरिहर सोनवणे",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 279,
+    "name": "ताराबाई शरदराव वासुळकर '",
+    "relativeName": "शरदराव वासुळकर",
+    "relationType": "पती",
+    "houseNo": "0"
+  },
+  {
+    "serialNo": 280,
+    "name": "हेमलता प्रशांत ठाकरे",
+    "relativeName": "प्रशांत ठाकरे",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 281,
+    "name": "मयूर उमाकांत ठाकरे",
+    "relativeName": "उमाकांत ठाकरे",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 282,
+    "name": "दिपाली गौरव ठाकरे",
+    "relativeName": "गौरव ठाकरे",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 283,
+    "name": "रत्नमाला योगेश विसपुते",
+    "relativeName": "योगेश विसपुते",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 284,
+    "name": "योगेश्री मोहन व्यवहारे",
+    "relativeName": "मोहन व्यवहारे",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 285,
+    "name": "मीनाक्षी कपिल अग्रवाल",
+    "relativeName": "कपिल अग्रवाल",
+    "relationType": "पती",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 286,
+    "name": "शुभांगी निलेश कासार",
+    "relativeName": "निलेश कासार",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 287,
+    "name": "स्विटी अग्रवाल",
+    "relativeName": "राहुल अग्रवाल",
+    "relationType": "पती",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 288,
+    "name": "प्रेषित ईश्वरलाल बाफना",
+    "relativeName": "ईश्वरलाल बाफना",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 289,
+    "name": "ईश्वरलाल मोहनलाल बाफना",
+    "relativeName": "मोहनलाल बाफना",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 290,
+    "name": "संगिता ईश्वरलाल बाफना",
+    "relativeName": "ईश्वरलाल बाफना",
+    "relationType": "पती",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 291,
+    "name": "प्रतिक ईश्वरलाल बाफना",
+    "relativeName": "ईश्वरलाल बाफना",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 292,
+    "name": "रैना प्रतिक बाफना",
+    "relativeName": "प्रतिक बाफना",
+    "relationType": "पती",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 293,
+    "name": "आदेश प्रदीप डुंगरवाल",
+    "relativeName": "प्रदीप डुंगरवाल",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 294,
+    "name": "प्रणिता आदेश डुंगरवाल",
+    "relativeName": "आदेश डुंगरवाल",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 295,
+    "name": "पंढरीनाथ लहानू जाधव",
+    "relativeName": "लहानू जाधव",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 296,
+    "name": "शुभांगी विशाल जाधव",
+    "relativeName": "विशाल जाधव",
+    "relationType": "पती",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 297,
+    "name": "काजल जंगम",
+    "relativeName": "ओमकार जंगम",
+    "relationType": "पती",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 298,
+    "name": "चेतन विलास पंडित",
+    "relativeName": "विलास पंडित",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 299,
+    "name": "सुवर्णा शांतीलाल ललवाणी",
+    "relativeName": "शांतीलाल बन्सीलाल ललवाणी",
+    "relationType": "पती",
+    "houseNo": "विशाल बुक डेपो जवळ"
+  },
+  {
+    "serialNo": 300,
+    "name": "दानिश तांबट",
+    "relativeName": "नूरुज्जमा तांबट",
+    "relationType": "वडील",
+    "houseNo": "सी 237"
+  },
+  {
+    "serialNo": 301,
+    "name": "संदिप फकीरा लाडे",
+    "relativeName": "फकीरा लाडे",
+    "relationType": "वडील",
+    "houseNo": "727"
+  },
+  {
+    "serialNo": 302,
+    "name": "सावित्री गोपाळ गुजराथी",
+    "relativeName": "गोपाळ गुजराथी",
+    "relationType": "पती",
+    "houseNo": "727ब"
+  },
+  {
+    "serialNo": 303,
+    "name": "सत्यभामा रघुनाथ झांबरे",
+    "relativeName": "रघुनाथ झांबरे",
+    "relationType": "पती",
+    "houseNo": "736"
+  },
+  {
+    "serialNo": 304,
+    "name": "रुचीता महेंद्र कासलीवाल",
+    "relativeName": "महेंद्र कासलीवाल",
+    "relationType": "पती",
+    "houseNo": "741ब"
+  },
+  {
+    "serialNo": 305,
+    "name": "अतुल सतिश क्षत्रिय",
+    "relativeName": "सतिश क्षत्रिय",
+    "relationType": "वडील",
+    "houseNo": "747अ"
+  },
+  {
+    "serialNo": 306,
+    "name": "कोमल पियुष कबाडे",
+    "relativeName": "पियुष कबाडे",
+    "relationType": "पती",
+    "houseNo": "799"
+  },
+  {
+    "serialNo": 307,
+    "name": "वंदना मुकेश कोकणे",
+    "relativeName": "मुकेश कोकणे",
+    "relationType": "पती",
+    "houseNo": "887/8"
+  },
+  {
+    "serialNo": 308,
+    "name": "सागर पुंडलीक कोकणे",
+    "relativeName": "पुंडलीक कोकणे",
+    "relationType": "वडील",
+    "houseNo": "887/अ"
+  },
+  {
+    "serialNo": 309,
+    "name": "सुभाष पुनमचंद सुराणा",
+    "relativeName": "पुनमचंद सुराणा",
+    "relationType": "वडील",
+    "houseNo": "887/अ"
+  },
+  {
+    "serialNo": 310,
+    "name": "कमलबाई सुभाष सुराणा",
+    "relativeName": "सुभाष सुराणा",
+    "relationType": "पती",
+    "houseNo": "887/अ"
+  },
+  {
+    "serialNo": 311,
+    "name": "निलेश सुरेश कासार",
+    "relativeName": "सुरेश कासार",
+    "relationType": "वडील",
+    "houseNo": "890"
+  },
+  {
+    "serialNo": 312,
+    "name": "तबस्सुम जहूर अहेमद मिसगर",
+    "relativeName": "जहूर अहेमद मिसगर",
+    "relationType": "पती",
+    "houseNo": "९०३/ब"
+  },
+  {
+    "serialNo": 313,
+    "name": "परेश जवरीलाल संकलेचा",
+    "relativeName": "जवरीलाल संकलेचा",
+    "relationType": "वडील",
+    "houseNo": "905"
+  },
+  {
+    "serialNo": 314,
+    "name": "कल्पेश सुवालाल संकलेचा",
+    "relativeName": "सुवालाल संकलेचा",
+    "relationType": "वडील",
+    "houseNo": "905"
+  },
+  {
+    "serialNo": 315,
+    "name": "जयश्री राजेंद्र संकलेचा",
+    "relativeName": "राजेंद्र संकलेचा",
+    "relationType": "वडील",
+    "houseNo": "905"
+  },
+  {
+    "serialNo": 316,
+    "name": "अतुल अनिल क्षिरसागर",
+    "relativeName": "अनिल क्षिरसागर",
+    "relationType": "वडील",
+    "houseNo": "906"
+  },
+  {
+    "serialNo": 317,
+    "name": "रुपाली नंदुकुमार व्यवहारे",
+    "relativeName": "नंदुकुमार व्यवहारे",
+    "relationType": "पती",
+    "houseNo": "906"
+  },
+  {
+    "serialNo": 318,
+    "name": "फैमिदा मो.जाकीर मिसगर",
+    "relativeName": "मो.जाकीर मिसगर",
+    "relationType": "पती",
+    "houseNo": "912"
+  },
+  {
+    "serialNo": 319,
+    "name": "उबैद मिसगर",
+    "relativeName": "मो.जाकीर मिसगर",
+    "relationType": "वडील",
+    "houseNo": "912"
+  },
+  {
+    "serialNo": 320,
+    "name": "सानिया मो.जाकीर मिसगर",
+    "relativeName": "मो.जाकीर मिसगर",
+    "relationType": "वडील",
+    "houseNo": "912"
+  },
+  {
+    "serialNo": 321,
+    "name": "खुशाल ललवानी",
+    "relativeName": "शांतीलाल ललवानी",
+    "relationType": "वडील",
+    "houseNo": "916 बी"
+  },
+  {
+    "serialNo": 322,
+    "name": "गौरव उमाकांत ठाकरे",
+    "relativeName": "उमाकांत ठाकरे",
+    "relationType": "वडील",
+    "houseNo": "917ब"
+  },
+  {
+    "serialNo": 323,
+    "name": "सौरभ सुनिल कोकणे",
+    "relativeName": "सुनिल कोकणे",
+    "relationType": "वडील",
+    "houseNo": "९१९/ब"
+  },
+  {
+    "serialNo": 324,
+    "name": "कविता संतोष झारोळे",
+    "relativeName": "संतोष झारोळे",
+    "relationType": "पती",
+    "houseNo": "९२०"
+  },
+  {
+    "serialNo": 325,
+    "name": "धिरज अनिल घोडके",
+    "relativeName": "अनिल घोडके",
+    "relationType": "वडील",
+    "houseNo": "924"
+  },
+  {
+    "serialNo": 326,
+    "name": "निलेश रत्नाकर खंदारे",
+    "relativeName": "रत्नाकर खंदारे",
+    "relationType": "वडील",
+    "houseNo": "932"
+  },
+  {
+    "serialNo": 327,
+    "name": "नेहा शेटे",
+    "relativeName": "मुकुंद शेटे",
+    "relationType": "वडील",
+    "houseNo": "933"
+  },
+  {
+    "serialNo": 328,
+    "name": "किशोर बाबुराव परदेशी",
+    "relativeName": "बाबुराव परदेशी",
+    "relationType": "वडील",
+    "houseNo": "943"
+  },
+  {
+    "serialNo": 329,
+    "name": "ललीता किशोर परदेशी",
+    "relativeName": "किशोर परदेशी",
+    "relationType": "पती",
+    "houseNo": "943"
+  },
+  {
+    "serialNo": 330,
+    "name": "प्रियंका गोकुळ व्यवहारे",
+    "relativeName": "गोकुळ व्यवहारे",
+    "relationType": "पती",
+    "houseNo": "९४७"
+  },
+  {
+    "serialNo": 331,
+    "name": "मोहन भास्कर व्यवहारे",
+    "relativeName": "भास्कर व्यवहारे गा23537891",
+    "relationType": "वडील",
+    "houseNo": "947"
+  },
+  {
+    "serialNo": 332,
+    "name": "अभिषेक उत्तम व्यवहारे",
+    "relativeName": "उत्तम व्यवहारे गा26556179",
+    "relationType": "वडील",
+    "houseNo": "९४७"
+  },
+  {
+    "serialNo": 333,
+    "name": "प्रांजल रुपेश फुलफगर",
+    "relativeName": "रुपेश फुलफगर न २ छि ०4 छळ ४ भ् ठर 881",
+    "relationType": "पती",
+    "houseNo": "९४८"
+  },
+  {
+    "serialNo": 334,
+    "name": "ज्योती निलेश अचलिया",
+    "relativeName": "निलेश अचलिया",
+    "relationType": "पती",
+    "houseNo": "957"
+  },
+  {
+    "serialNo": 335,
+    "name": "पूजा किरण डुंगरवाल",
+    "relativeName": "किरण डुंगरवाल",
+    "relationType": "पती",
+    "houseNo": "972"
+  },
+  {
+    "serialNo": 336,
+    "name": "राहुल सुनिल कबाडे",
+    "relativeName": "सुनिल कबाडे",
+    "relationType": "वडील",
+    "houseNo": "तिरुपति टॉवर"
+  },
+  {
+    "serialNo": 337,
+    "name": "प्रदिप अशोकराव सोनवणे",
+    "relativeName": "अशोकराव सोनवणे",
+    "relationType": "वडील",
+    "houseNo": "1380"
+  },
+  {
+    "serialNo": 338,
+    "name": "रिना किशोर डुंगरवाल",
+    "relativeName": "किशोर डुंगरवाल",
+    "relationType": "वडील",
+    "houseNo": "2470"
+  },
+  {
+    "serialNo": 339,
+    "name": "चारुलता कैलास सोनवने",
+    "relativeName": "कैलास सोनवने",
+    "relationType": "पती",
+    "houseNo": "643 3"
+  },
+  {
+    "serialNo": 340,
+    "name": "वैशाली विजया सोनवने",
+    "relativeName": "विजया सोनवने",
+    "relationType": "पती",
+    "houseNo": "714 2"
+  },
+  {
+    "serialNo": 341,
+    "name": "अर्चना सुनिल डुंगरवाल",
+    "relativeName": "सुनिल डुंगरवाल",
+    "relationType": "पती",
+    "houseNo": "742 1"
+  },
+  {
+    "serialNo": 342,
+    "name": "सुनिता जितेंद्र डुंगरवाल",
+    "relativeName": "जितेंद्र डुंगरवाल",
+    "relationType": "पती",
+    "houseNo": "742 1"
+  },
+  {
+    "serialNo": 343,
+    "name": "संदिप विकास गुजराथी",
+    "relativeName": "विकास गुजराथी 1123537883",
+    "relationType": "वडील",
+    "houseNo": "743 1"
+  },
+  {
+    "serialNo": 344,
+    "name": "जितेंद्र सुधाकर सोनवने",
+    "relativeName": "सुधाकर सोनवने 344 गा22089175",
+    "relationType": "वडील",
+    "houseNo": "743 3"
+  },
+  {
+    "serialNo": 345,
+    "name": "गौरी योगेश सोनवने",
+    "relativeName": "योगेश सोनवने ग1213469/72",
+    "relationType": "पती",
+    "houseNo": "743 3"
+  },
+  {
+    "serialNo": 346,
+    "name": "संतोष लक्ष्मण सोनवने",
+    "relativeName": "लक्ष्मण सोनवने",
+    "relationType": "वडील",
+    "houseNo": "743 3"
+  },
+  {
+    "serialNo": 347,
+    "name": "कैलास लक्ष्मण सोनवने",
+    "relativeName": "लक्ष्मण सोनवने",
+    "relationType": "वडील",
+    "houseNo": "743 3"
+  },
+  {
+    "serialNo": 348,
+    "name": "निखिल बन्सीलाल श्रीश्रीमाळ",
+    "relativeName": "बन्सीलाल श्रीश्रीमाळ",
+    "relationType": "वडील",
+    "houseNo": "8654"
+  },
+  {
+    "serialNo": 349,
+    "name": "कपिल गोपाळ अग्रवाल",
+    "relativeName": "गोपाळ अग्रवाल",
+    "relationType": "वडील",
+    "houseNo": "911/2"
+  },
+  {
+    "serialNo": 350,
+    "name": "अर्चना राजेश झारोळे",
+    "relativeName": "राजेश झारोळे",
+    "relationType": "पती",
+    "houseNo": "२६९२ ३"
+  },
+  {
+    "serialNo": 351,
+    "name": "गौरी दत्ता गांगुर्डे",
+    "relativeName": "दत्ता गांगुर्डे",
+    "relationType": "वडील",
+    "houseNo": "1240"
+  },
+  {
+    "serialNo": 352,
+    "name": "स्नेहा प्रीतेश डुंगरवाल डुंगरवाल",
+    "relativeName": "प्रीतेश डुंगरवाल डुंगरवाल",
+    "relationType": "वडील",
+    "houseNo": "786"
+  },
+  {
+    "serialNo": 353,
+    "name": "पोर्णिमा प्रेषित बाफना",
+    "relativeName": "प्रेषित बाफना",
+    "relationType": "पती",
+    "houseNo": "01"
+  },
+  {
+    "serialNo": 354,
+    "name": "काजल जाधव",
+    "relativeName": "पंढरीनाथ जाधव",
+    "relationType": "वडील",
+    "houseNo": "92"
+  },
+  {
+    "serialNo": 355,
+    "name": "ओमकार सोनवणे",
+    "relativeName": "कैलास सोनवणे",
+    "relationType": "वडील",
+    "houseNo": "सोम्वर पेठ चांदवड"
+  },
+  {
+    "serialNo": 356,
+    "name": "बापू हरी गांगुर्डे",
+    "relativeName": "हरी काभू गांगुर्डे",
+    "relationType": "वडील",
+    "houseNo": "0"
+  },
+  {
+    "serialNo": 357,
+    "name": "पुष्पा लिंगायत",
+    "relativeName": "प्रसाद लिंगायत",
+    "relationType": "पती",
+    "houseNo": "325"
+  },
+  {
+    "serialNo": 358,
+    "name": "पियुष लिंगायत",
+    "relativeName": "प्रसाद लिंगायत",
+    "relationType": "वडील",
+    "houseNo": "324"
+  },
+  {
+    "serialNo": 359,
+    "name": "प्रसाद लिंगायत",
+    "relativeName": "अरुण लिंगायत",
+    "relationType": "वडील",
+    "houseNo": "324"
+  },
+  {
+    "serialNo": 360,
+    "name": "आरती सोनावणे",
+    "relativeName": "प्रदीप सोनावणे",
+    "relationType": "पती",
+    "houseNo": "स्वामी प्रसाद"
+  },
+  {
+    "serialNo": 361,
+    "name": "तेजस गायकवाड",
+    "relativeName": "संगीता गायकवाड",
+    "relationType": "आई",
+    "houseNo": "देवरे संकुल"
+  },
+  {
+    "serialNo": 362,
+    "name": "ज्योती राहुल अचलिया",
+    "relativeName": "राहुल अचलिया",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 363,
+    "name": "मेहुल अशोकचंद आचलिया",
+    "relativeName": "अशोकचंद आचलिया",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 364,
+    "name": "पूजा बिल्लाडे",
+    "relativeName": "भालचंद्र बिल्लाडे",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 365,
+    "name": "जितेंद्र विष्णू कोतवाल",
+    "relativeName": "विष्णू कोतवाल",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 366,
+    "name": "अनिता गणेश बरदे",
+    "relativeName": "गणेश बरदे",
+    "relationType": "पती",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 367,
+    "name": "भावेश मनिष ललवानी",
+    "relativeName": "मनिष सोहनलाल ललवानी",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 368,
+    "name": "वैष्णवी बाळासाहेब जाधव",
+    "relativeName": "बाळासाहेब गोपाळ जाधव",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 369,
+    "name": "अबुजार नूरज्जमा तांबट",
+    "relativeName": "नूरज्जमा तांबट",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 370,
+    "name": "मोहित अग्रवाल",
+    "relativeName": "संतोष अग्रवाल",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 371,
+    "name": "सुरेखा निलेश जाधव",
+    "relativeName": "निलेश जाधव",
+    "relationType": "पती",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 372,
+    "name": "अंकिता बाळासाहेब जाधव",
+    "relativeName": "बाळासाहेब जाधव",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 373,
+    "name": "तन्मय संजय जाधव",
+    "relativeName": "संजय जाधव",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 374,
+    "name": "ओमकार जंगम",
+    "relativeName": "नागेश जंगम",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 375,
+    "name": "पियुष दिलीप कबाडे",
+    "relativeName": "दिलीप दिलीप",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 376,
+    "name": "अक्षय राजेंद्र कबाडे",
+    "relativeName": "राजेंद्र कबाडे",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 377,
+    "name": "प्रतिक प्रकाश कबाडे",
+    "relativeName": "प्रकाश कबाडे",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 378,
+    "name": "पुजा सोनवणे",
+    "relativeName": "मंगेश सोनवणे",
+    "relationType": "पती",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 379,
+    "name": "सिद्धेश संतोष वासुळकर",
+    "relativeName": "संतोष वासुळकर",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 380,
+    "name": "गणेश शेलार",
+    "relativeName": "नंदू शेलार",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 381,
+    "name": "अश्विनी शेलार",
+    "relativeName": "एकनाथ शेल्फ",
+    "relationType": "वडील",
+    "houseNo": "00"
+  },
+  {
+    "serialNo": 382,
+    "name": "संकेत अचलिया",
+    "relativeName": "संजय अचलिया",
+    "relationType": "वडील",
+    "houseNo": "अचलिया हाऊस"
+  },
+  {
+    "serialNo": 383,
+    "name": "हर्षदा बिल्लाडे",
+    "relativeName": "भालचंद्र बिल्लाडे",
+    "relationType": "वडील",
+    "houseNo": "बी.एन. क्षत्रिय कलेक्शन"
+  },
+  {
+    "serialNo": 384,
+    "name": "प्रशांत बाळकृष्ण कबाडे",
+    "relativeName": "बाळकृष्ण कबाडे",
+    "relationType": "वडील",
+    "houseNo": "100"
+  },
+  {
+    "serialNo": 385,
+    "name": "ललित गोपाल पारवे पारवे",
+    "relativeName": "गोपाल रामप्रसाद पारवे पारवे",
+    "relationType": "वडील",
+    "houseNo": "152"
+  },
+  {
+    "serialNo": 386,
+    "name": "पुजा बापू उगले",
+    "relativeName": "बापू भिका उगले",
+    "relationType": "वडील",
+    "houseNo": "630"
+  },
+  {
+    "serialNo": 387,
+    "name": "समेर रमणलाल अचालीया",
+    "relativeName": "रमणलाल अचलिया",
+    "relationType": "वडील",
+    "houseNo": "680"
+  },
+  {
+    "serialNo": 388,
+    "name": "भास्कर लक्ष्मण सोनवणे",
+    "relativeName": "लक्ष्मण सोनवणे",
+    "relationType": "वडील",
+    "houseNo": "829"
+  },
+  {
+    "serialNo": 389,
+    "name": "शांता सुभाष गोधडे",
+    "relativeName": "सुभाष गोधडे",
+    "relationType": "पती",
+    "houseNo": "830"
+  },
+  {
+    "serialNo": 390,
+    "name": "अरुण दगू नाईक",
+    "relativeName": "दगू नाईक",
+    "relationType": "वडील",
+    "houseNo": "831"
+  },
+  {
+    "serialNo": 391,
+    "name": "उषा अरुण नाईक",
+    "relativeName": "अरुण नाईक",
+    "relationType": "पती",
+    "houseNo": "831"
+  },
+  {
+    "serialNo": 392,
+    "name": "रितेश अशोक अग्रवाल",
+    "relativeName": "अशोक अग्रवाल",
+    "relationType": "वडील",
+    "houseNo": "876"
+  },
+  {
+    "serialNo": 393,
+    "name": "अफ्रीन अमजद कुरेशी",
+    "relativeName": "अमजद कुरेश",
+    "relationType": "पती",
+    "houseNo": "878"
+  },
+  {
+    "serialNo": 394,
+    "name": "शितल रमणलाल अचालीया",
+    "relativeName": "रमणलाल अचालीया",
+    "relationType": "वडील",
+    "houseNo": "881"
+  },
+  {
+    "serialNo": 395,
+    "name": "इश्वरलाल शामलाल क्षत्रीय",
+    "relativeName": "शामलाल क्षत्रीय",
+    "relationType": "वडील",
+    "houseNo": "883"
+  },
+  {
+    "serialNo": 396,
+    "name": "शकुंतला ईश्वरलाल क्षत्रिय",
+    "relativeName": "ईश्वरलाल रामलाल क्षत्रिय",
+    "relationType": "पती",
+    "houseNo": "883"
+  },
+  {
+    "serialNo": 397,
+    "name": "बद्रीनारायण लक्ष्मण जाधव",
+    "relativeName": "लक्ष्मण जाधव",
+    "relationType": "वडील",
+    "houseNo": "891"
+  },
+  {
+    "serialNo": 398,
+    "name": "भिकूबाई बद्रीनारायण जाधव",
+    "relativeName": "बद्रीनारायण जाधव",
+    "relationType": "पती",
+    "houseNo": "891"
+  },
+  {
+    "serialNo": 399,
+    "name": "चंद्रशेखर बद्रीनारायण जाधव",
+    "relativeName": "बद्रीनारायण जाधव",
+    "relationType": "वडील",
+    "houseNo": "891"
+  },
+  {
+    "serialNo": 400,
+    "name": "अतुल बद्रीनारायण जाधव",
+    "relativeName": "बद्रीनारायण जाधव",
+    "relationType": "वडील",
+    "houseNo": "891"
+  },
+  {
+    "serialNo": 401,
+    "name": "गायत्री चंद्रशेखर जाधव",
+    "relativeName": "चंद्रशेखर जाधव",
+    "relationType": "वडील",
+    "houseNo": "891"
+  },
+  {
+    "serialNo": 402,
+    "name": "श्रुती जाधव",
+    "relativeName": "चंद्रशेखर जाधव",
+    "relationType": "वडील",
+    "houseNo": "891"
+  },
+  {
+    "serialNo": 403,
+    "name": "जयश्री समिर कोकणे",
+    "relativeName": "समिर कोकणे",
+    "relationType": "पती",
+    "houseNo": "८९३"
+  },
+  {
+    "serialNo": 404,
+    "name": "मुस्ताक़् रमज़ान शेख",
+    "relativeName": "रमज़ान शेख",
+    "relationType": "वडील",
+    "houseNo": "893"
+  },
+  {
+    "serialNo": 405,
+    "name": "मनिषा राजेंद्र पगार",
+    "relativeName": "राजेंद्र पगार",
+    "relationType": "पती",
+    "houseNo": "८९६/अर"
+  },
+  {
+    "serialNo": 406,
+    "name": "सचिन दिगंबर कबाडे",
+    "relativeName": "दिगंबर कबाडे",
+    "relationType": "वडील",
+    "houseNo": "898"
+  },
+  {
+    "serialNo": 407,
+    "name": "अनिल रामभाऊ क्षीरसागर",
+    "relativeName": "रामभाऊ क्षीरसागर",
+    "relationType": "वडील",
+    "houseNo": "898"
+  },
+  {
+    "serialNo": 408,
+    "name": "वैजंती अनिल क्षीरसागर",
+    "relativeName": "अनिल क्षीरसागर",
+    "relationType": "पती",
+    "houseNo": "898"
+  },
+  {
+    "serialNo": 409,
+    "name": "आरती अनिल क्षिरसागर",
+    "relativeName": "अनिल वैजयंती",
+    "relationType": "वडील",
+    "houseNo": "४९८"
+  },
+  {
+    "serialNo": 410,
+    "name": "अंकिता अनिल क्षिरसागर",
+    "relativeName": "अनिल वैजयंती गा26432041",
+    "relationType": "वडील",
+    "houseNo": "८९८"
+  },
+  {
+    "serialNo": 411,
+    "name": "लीलाबाई दिगंबर लिंगायत",
+    "relativeName": "दिगंबर लिंगायत गा21347053",
+    "relationType": "पती",
+    "houseNo": "898"
+  },
+  {
+    "serialNo": 412,
+    "name": "महेश दिगंबर लिंगायत",
+    "relativeName": "दिगंबर लिंगायत जे र्ण एश ज्य छि > म् ल ऱ्> टा",
+    "relationType": "वडील",
+    "houseNo": "898"
+  },
+  {
+    "serialNo": 413,
+    "name": "मनिषा महेश लिंगायत",
+    "relativeName": "महेश लिंगायत",
+    "relationType": "पती",
+    "houseNo": "898"
+  },
+  {
+    "serialNo": 414,
+    "name": "संतोष दिगंबर कबाडे",
+    "relativeName": "दिगंबर कबाडे",
+    "relationType": "वडील",
+    "houseNo": "898"
+  },
+  {
+    "serialNo": 415,
+    "name": "रुपाली संतोष लिंगायत",
+    "relativeName": "संतोष लिंगायत",
+    "relationType": "पती",
+    "houseNo": "898"
+  },
+  {
+    "serialNo": 416,
+    "name": "रूक्मिनी मधुकर कबाडे",
+    "relativeName": "मधुकर कबाडे",
+    "relationType": "पती",
+    "houseNo": "899"
+  },
+  {
+    "serialNo": 417,
+    "name": "दिलीप मधुकर कबाडे",
+    "relativeName": "मधुकर कबाडे",
+    "relationType": "वडील",
+    "houseNo": "899"
+  },
+  {
+    "serialNo": 418,
+    "name": "निलेश मधुकर कबाडे",
+    "relativeName": "मधुकर कबाडे",
+    "relationType": "वडील",
+    "houseNo": "899"
+  },
+  {
+    "serialNo": 419,
+    "name": "सुनिता निलेश कबाडे",
+    "relativeName": "निलेश कबाडे",
+    "relationType": "पती",
+    "houseNo": "899"
+  },
+  {
+    "serialNo": 420,
+    "name": "राजेंद्र मधुकर लिंगायत",
+    "relativeName": "मधुकर लिंगायत",
+    "relationType": "वडील",
+    "houseNo": "899"
+  },
+  {
+    "serialNo": 421,
+    "name": "विद्या राजेंद्र लिंगायत",
+    "relativeName": "राजेंद्र लिंगायत",
+    "relationType": "पती",
+    "houseNo": "899"
+  },
+  {
+    "serialNo": 422,
+    "name": "मीना दिलीप कबाडे",
+    "relativeName": "दिलीप कबाडे",
+    "relationType": "पती",
+    "houseNo": "८९९/अ"
+  },
+  {
+    "serialNo": 423,
+    "name": "रोहित दिलीप कबाडे",
+    "relativeName": "दिलीप कबाडे",
+    "relationType": "वडील",
+    "houseNo": "899//0"
+  },
+  {
+    "serialNo": 424,
+    "name": "बाळासाहेब त्रंबक लिंगायत",
+    "relativeName": "त्रंबक लिंगायत",
+    "relationType": "वडील",
+    "houseNo": "900"
+  },
+  {
+    "serialNo": 425,
+    "name": "शोभा बाळासाहेब लिंगायत",
+    "relativeName": "बाळासाहेब लिंगायत",
+    "relationType": "पती",
+    "houseNo": "900"
+  },
+  {
+    "serialNo": 426,
+    "name": "सुनील त्रंबक लिंगायत",
+    "relativeName": "त्रंबक लिंगायत",
+    "relationType": "वडील",
+    "houseNo": "900"
+  },
+  {
+    "serialNo": 427,
+    "name": "निर्मला सुनील लिंगायत",
+    "relativeName": "सुनील लिंगायत",
+    "relationType": "पती",
+    "houseNo": "900"
+  },
+  {
+    "serialNo": 428,
+    "name": "प्रकाश त्रंबक कबाडे",
+    "relativeName": "त्रंबक लिंगायत",
+    "relationType": "वडील",
+    "houseNo": "900"
+  },
+  {
+    "serialNo": 429,
+    "name": "समीना बदिऊज्ज़मा तांबट",
+    "relativeName": "बदिऊज्ज़मा जब्बार तांबट",
+    "relationType": "पती",
+    "houseNo": "901"
+  },
+  {
+    "serialNo": 430,
+    "name": "जहुर अहमद अ. गफ्फार मिसगर",
+    "relativeName": "अ. गफ्फार मिसगर",
+    "relationType": "वडील",
+    "houseNo": "903"
+  },
+  {
+    "serialNo": 431,
+    "name": "जुबेरअहमद अ. गफ्फार तांबट",
+    "relativeName": "अ. गफ्फार तांबट",
+    "relationType": "वडील",
+    "houseNo": "903"
+  },
+  {
+    "serialNo": 432,
+    "name": "आसमा नूरुज्ज़मा तांबट",
+    "relativeName": "नूरुज्ज़मा जब्बार तांबट",
+    "relationType": "पती",
+    "houseNo": "903"
+  },
+  {
+    "serialNo": 433,
+    "name": "जोहराजबीन अ. गफ्फार तांबट",
+    "relativeName": "अ. गफ्फार तांबट",
+    "relationType": "वडील",
+    "houseNo": "903"
+  },
+  {
+    "serialNo": 434,
+    "name": "मोहसीन अलीमोहम्मद तांबट",
+    "relativeName": "अलीमोहम्मद तांबट",
+    "relationType": "वडील",
+    "houseNo": "904"
+  },
+  {
+    "serialNo": 435,
+    "name": "मुख्तारअहमद अलीमहमद तांबट",
+    "relativeName": "अलीमहमद तांबट",
+    "relationType": "वडील",
+    "houseNo": "904"
+  },
+  {
+    "serialNo": 436,
+    "name": "जुनैद अली मो. तांबट",
+    "relativeName": "अली मो. तांबट",
+    "relationType": "वडील",
+    "houseNo": "904"
+  },
+  {
+    "serialNo": 437,
+    "name": "मानकुवरबाई चंपालाल संकलेचा",
+    "relativeName": "चंपालाल संकलेचा",
+    "relationType": "पती",
+    "houseNo": "905"
+  },
+  {
+    "serialNo": 438,
+    "name": "जवेरिलाल चंपालाल संकलेचा",
+    "relativeName": "चंपालाल संकलेचा",
+    "relationType": "वडील",
+    "houseNo": "905"
+  },
+  {
+    "serialNo": 439,
+    "name": "सुवालाल चंपालाल संकलेचा",
+    "relativeName": "चंपालाल संकलेचा",
+    "relationType": "वडील",
+    "houseNo": "905"
+  },
+  {
+    "serialNo": 440,
+    "name": "राजकुमार चंपालाल संकलेचा",
+    "relativeName": "चंपालाल संकलेचा",
+    "relationType": "वडील",
+    "houseNo": "सोमवार पेठ"
+  },
+  {
+    "serialNo": 441,
+    "name": "पुष्पाबाई जवेरिलाल संकलेचा",
+    "relativeName": "जवेरिलाल संकलेचा",
+    "relationType": "पती",
+    "houseNo": "905"
+  },
+  {
+    "serialNo": 442,
+    "name": "आशाबाई सुवालाल संकलेचा",
+    "relativeName": "सुवालाल संकलेचा",
+    "relationType": "पती",
+    "houseNo": "905"
+  },
+  {
+    "serialNo": 443,
+    "name": "राणी राजकुमार संकलेचा",
+    "relativeName": "राजकुमार संकलेचा",
+    "relationType": "पती",
+    "houseNo": "सोमवार पेठ"
+  },
+  {
+    "serialNo": 444,
+    "name": "धीरज जवेरीलाल संकलेचा",
+    "relativeName": "जवेरीलाल संकलेचा",
+    "relationType": "वडील",
+    "houseNo": "905"
+  },
+  {
+    "serialNo": 445,
+    "name": "स्वाती धीरज संकलेचा",
+    "relativeName": "धीरज धीरज",
+    "relationType": "पती",
+    "houseNo": "९०५"
+  },
+  {
+    "serialNo": 446,
+    "name": "शितल परेश संकलेचा",
+    "relativeName": "परेश परेश",
+    "relationType": "पती",
+    "houseNo": "९०५"
+  },
+  {
+    "serialNo": 447,
+    "name": "दिपाली जवरीलाल संकलेचा",
+    "relativeName": "जवरीलाल जवरीलाल",
+    "relationType": "वडील",
+    "houseNo": "९०५"
+  },
+  {
+    "serialNo": 448,
+    "name": "केतन राजकुमार संकलेचा",
+    "relativeName": "राजकुमार संकलेचा",
+    "relationType": "वडील",
+    "houseNo": "905"
+  },
+  {
+    "serialNo": 449,
+    "name": "भीकन भगिरथ अग्रवाल",
+    "relativeName": "भगिरथ अग्रवाल",
+    "relationType": "वडील",
+    "houseNo": "907"
+  },
+  {
+    "serialNo": 450,
+    "name": "सुनिता भीकन अग्रवाल",
+    "relativeName": "भीकन अग्रवाल",
+    "relationType": "पती",
+    "houseNo": "907"
+  },
+  {
+    "serialNo": 451,
+    "name": "रुपा अग्रवाल",
+    "relativeName": "सचिन अग्रवाल",
+    "relationType": "पती",
+    "houseNo": "907"
+  },
+  {
+    "serialNo": 452,
+    "name": "माखनलाल हिरालाल अग्रवाल",
+    "relativeName": "हिरालाल अग्रवाल",
+    "relationType": "वडील",
+    "houseNo": "908"
+  },
+  {
+    "serialNo": 453,
+    "name": "शकुंतलाबाई माखनलाल अग्रवाल",
+    "relativeName": "माखनलाल अग्रवाल",
+    "relationType": "पती",
+    "houseNo": "908"
+  },
+  {
+    "serialNo": 454,
+    "name": "ताराबाई चिंधुलाल अग्रवाल",
+    "relativeName": "चिंधुलाल अग्रवाल",
+    "relationType": "पती",
+    "houseNo": "911"
+  },
+  {
+    "serialNo": 455,
+    "name": "उर्मिला अशोक अग्रवाल",
+    "relativeName": "अशोक अग्रवाल",
+    "relationType": "पती",
+    "houseNo": "911"
+  },
+  {
+    "serialNo": 456,
+    "name": "गोपाळ चिंधुलाल अग्रवाल",
+    "relativeName": "चिंधुलाल अग्रवाल",
+    "relationType": "वडील",
+    "houseNo": "911"
+  },
+  {
+    "serialNo": 457,
+    "name": "उषा काशिनाथ अग्रवाल",
+    "relativeName": "काशिनाथ अग्रवाल",
+    "relationType": "पती",
+    "houseNo": "911"
+  },
+  {
+    "serialNo": 458,
+    "name": "सुनिल रामुलाल अग्रवाल",
+    "relativeName": "रामुलाल अग्रवाल",
+    "relationType": "वडील",
+    "houseNo": "911"
+  },
+  {
+    "serialNo": 459,
+    "name": "निर्मला गोपाळ अग्रवाल",
+    "relativeName": "गोपाळ अग्रवाल",
+    "relationType": "पती",
+    "houseNo": "911"
+  },
+  {
+    "serialNo": 460,
+    "name": "रीता सुनील अग्रवाल",
+    "relativeName": "सुनील अग्रवाल",
+    "relationType": "पती",
+    "houseNo": "911"
+  },
+  {
+    "serialNo": 461,
+    "name": "जेहॉन जाहिद मो. मिसगर",
+    "relativeName": "जाहिद मो. मिसगर",
+    "relationType": "वडील",
+    "houseNo": "९१२"
+  },
+  {
+    "serialNo": 462,
+    "name": "संतोष रामुलाल अग्रवाल",
+    "relativeName": "रामुलाल अग्रवाल",
+    "relationType": "वडील",
+    "houseNo": "915"
+  },
+  {
+    "serialNo": 463,
+    "name": "अनिल रामुलाल अग्रवाल",
+    "relativeName": "रामुलाल अग्रवाल",
+    "relationType": "वडील",
+    "houseNo": "915"
+  },
+  {
+    "serialNo": 464,
+    "name": "मनोज रामुलाल अग्रवाल",
+    "relativeName": "रामुलाल अग्रवाल",
+    "relationType": "वडील",
+    "houseNo": "915"
+  },
+  {
+    "serialNo": 465,
+    "name": "मोहिनी सुनिल अग्रवाल",
+    "relativeName": "सुनिल अग्रवाल",
+    "relationType": "वडील",
+    "houseNo": "९१५"
+  },
+  {
+    "serialNo": 466,
+    "name": "सेजल सुनिल अग्रवाल",
+    "relativeName": "सुनिल अग्रवाल",
+    "relationType": "वडील",
+    "houseNo": "९१५"
+  },
+  {
+    "serialNo": 467,
+    "name": "विशाल शांतीलाल ललवाणी",
+    "relativeName": "शांतीलाल शांतीलाल",
+    "relationType": "वडील",
+    "houseNo": "९१६ब"
+  },
+  {
+    "serialNo": 468,
+    "name": "शांतीलाल बन्सीलाल लालवाणी",
+    "relativeName": "बन्सीलाल लालवाणी",
+    "relationType": "वडील",
+    "houseNo": "916 ब"
+  },
+  {
+    "serialNo": 469,
+    "name": "महावीर बन्सीलाल लालवाणी",
+    "relativeName": "बन्सीलाल लालवाणी",
+    "relationType": "वडील",
+    "houseNo": "916 ब"
+  },
+  {
+    "serialNo": 470,
+    "name": "उज्वला महावीर लालवाणी",
+    "relativeName": "महावीर लालवाणी",
+    "relationType": "पती",
+    "houseNo": "916 ब"
+  },
+  {
+    "serialNo": 471,
+    "name": "विलास केशव पंडीत",
+    "relativeName": "केशव पंडीत",
+    "relationType": "वडील",
+    "houseNo": "918"
+  },
+  {
+    "serialNo": 472,
+    "name": "संगीता विलास पंडीत",
+    "relativeName": "विलास पंडीत",
+    "relationType": "पती",
+    "houseNo": "918"
+  },
+  {
+    "serialNo": 473,
+    "name": "मुकुंद रमेश पंडीत",
+    "relativeName": "रमेश पंडीत",
+    "relationType": "वडील",
+    "houseNo": "918"
+  },
+  {
+    "serialNo": 474,
+    "name": "योगेश रमेश पंडीत",
+    "relativeName": "रमेश पंडीत",
+    "relationType": "वडील",
+    "houseNo": "918"
+  },
+  {
+    "serialNo": 475,
+    "name": "रामदास यशवंत पंडीत",
+    "relativeName": "यशवंत पंडीत",
+    "relationType": "वडील",
+    "houseNo": "918 क"
+  },
+  {
+    "serialNo": 476,
+    "name": "सिंधुबाई रामदास पंडीत",
+    "relativeName": "रामदास पंडीत",
+    "relationType": "पती",
+    "houseNo": "918 क"
+  },
+  {
+    "serialNo": 477,
+    "name": "संजय रामदास पंडीत",
+    "relativeName": "रामदास पंडीत",
+    "relationType": "वडील",
+    "houseNo": "918 क"
+  },
+  {
+    "serialNo": 478,
+    "name": "किरण रामदास पंडीत",
+    "relativeName": "रामदास पंडीत",
+    "relationType": "वडील",
+    "houseNo": "918 क"
+  },
+  {
+    "serialNo": 479,
+    "name": "मथुरा विष्णू झारोळे",
+    "relativeName": "विष्णू झारोळे",
+    "relationType": "पती",
+    "houseNo": "920"
+  },
+  {
+    "serialNo": 480,
+    "name": "गोविंद यशवंत झारोळे",
+    "relativeName": "यशवंत झारोळे",
+    "relationType": "वडील",
+    "houseNo": "920"
+  },
+  {
+    "serialNo": 481,
+    "name": "नलीनी गोविंद झारोळे",
+    "relativeName": "गोविंद झारोळे",
+    "relationType": "पती",
+    "houseNo": "920"
+  },
+  {
+    "serialNo": 482,
+    "name": "राजेश विष्णू झारोळे",
+    "relativeName": "विष्णू झारोळे",
+    "relationType": "वडील",
+    "houseNo": "920"
+  },
+  {
+    "serialNo": 483,
+    "name": "संतोष विष्णु झारोळे",
+    "relativeName": "विष्णु झारोळे",
+    "relationType": "वडील",
+    "houseNo": "920"
+  },
+  {
+    "serialNo": 484,
+    "name": "रमणलाल पोपटलाल डुंगरवाल",
+    "relativeName": "पोपटलाल डुंगरवाल",
+    "relationType": "वडील",
+    "houseNo": "925"
+  },
+  {
+    "serialNo": 485,
+    "name": "रंजना रमणलाल डुंगरवाल",
+    "relativeName": "रमणलाल डुंगरवाल",
+    "relationType": "पती",
+    "houseNo": "925"
+  },
+  {
+    "serialNo": 486,
+    "name": "प्रकाश पोपटलाल डुंगरवाल",
+    "relativeName": "पोपटलाल डुंगरवाल",
+    "relationType": "वडील",
+    "houseNo": "925"
+  },
+  {
+    "serialNo": 487,
+    "name": "सुनिता प्रकाश डुंगरवाल",
+    "relativeName": "प्रकाश डुंगरवाल",
+    "relationType": "पती",
+    "houseNo": "925"
+  },
+  {
+    "serialNo": 488,
+    "name": "निलेश रमणलाल डुंगरवाल",
+    "relativeName": "रमणलाल डुंगरवाल",
+    "relationType": "वडील",
+    "houseNo": "925"
+  },
+  {
+    "serialNo": 489,
+    "name": "रूपाली निलेश डुंगरवाल",
+    "relativeName": "निलेश डुंगरवाल",
+    "relationType": "पती",
+    "houseNo": "925"
+  },
+  {
+    "serialNo": 490,
+    "name": "ममता दिपक डुंगरवाल",
+    "relativeName": "दिपक डुंगरवाल",
+    "relationType": "पती",
+    "houseNo": "९२५"
+  },
+  {
+    "serialNo": 491,
+    "name": "संदीप शोभाचंद डुंगरवाल",
+    "relativeName": "शोभाचंद डुंगरवाल",
+    "relationType": "वडील",
+    "houseNo": "928"
+  },
+  {
+    "serialNo": 492,
+    "name": "ज्योती संदीप डुंगरवाल",
+    "relativeName": "संदीप डुंगरवाल",
+    "relationType": "पती",
+    "houseNo": "928"
+  },
+  {
+    "serialNo": 493,
+    "name": "पोपटलाल हिरालाल फुलपगर",
+    "relativeName": "हिरालाल फुलपगर",
+    "relationType": "वडील",
+    "houseNo": "930"
+  },
+  {
+    "serialNo": 494,
+    "name": "कांचनबाई पोपटलाल फुलपगर",
+    "relativeName": "पोपटलाल फुलपगर",
+    "relationType": "पती",
+    "houseNo": "930"
+  },
+  {
+    "serialNo": 495,
+    "name": "रत्नाकर विष्णू खंडारे",
+    "relativeName": "विष्णू खंडारे",
+    "relationType": "वडील",
+    "houseNo": "932"
+  },
+  {
+    "serialNo": 496,
+    "name": "छाया रत्नाकर खंडारे",
+    "relativeName": "रत्नाकर खंडारे",
+    "relationType": "पती",
+    "houseNo": "932"
+  },
+  {
+    "serialNo": 497,
+    "name": "अनिता रावसाहेब हाळीज",
+    "relativeName": "रावसाहेब हाळीज",
+    "relationType": "पती",
+    "houseNo": "933"
+  },
+  {
+    "serialNo": 498,
+    "name": "मुकुंद गंगाधर शेंटे",
+    "relativeName": "गंगाधर शेंटे",
+    "relationType": "वडील",
+    "houseNo": "933"
+  },
+  {
+    "serialNo": 499,
+    "name": "दर्शना मुकुंद शेटे",
+    "relativeName": "मुकुंद शेटे",
+    "relationType": "पती",
+    "houseNo": "933"
+  },
+  {
+    "serialNo": 500,
+    "name": "अमोल भास्कर कासार",
+    "relativeName": "भास्कर कासार",
+    "relationType": "वडील",
+    "houseNo": "934"
+  },
+  {
+    "serialNo": 501,
+    "name": "अनुज श्रीनिवास सोनावणे",
+    "relativeName": "रेवती श्रीनिवास सोनावणे",
+    "relationType": "आई",
+    "houseNo": "934 श्री ज्वेलर्ज"
+  },
+  {
+    "serialNo": 502,
+    "name": "श्याम तुलसीराम सोनवने",
+    "relativeName": "तुलसीराम सोनवने",
+    "relationType": "वडील",
+    "houseNo": "935"
+  },
+  {
+    "serialNo": 503,
+    "name": "राजेंद्र पोपटराव सोनवने",
+    "relativeName": "पोपटराव सोनवने",
+    "relationType": "वडील",
+    "houseNo": "937"
+  },
+  {
+    "serialNo": 504,
+    "name": "ज्योती पोपटराव सोनवने",
+    "relativeName": "पोपटराव सोनवने",
+    "relationType": "वडील",
+    "houseNo": "937"
+  },
+  {
+    "serialNo": 505,
+    "name": "शाहीनबानो अलीमोहम्मद तांबट",
+    "relativeName": "अलीमोहम्मद तांबट",
+    "relationType": "वडील",
+    "houseNo": "937"
+  },
+  {
+    "serialNo": 506,
+    "name": "मनिषा राजेंद्र सोनवणे",
+    "relativeName": "राजेंद्र राजेंद्र",
+    "relationType": "पती",
+    "houseNo": "९३७अ"
+  },
+  {
+    "serialNo": 507,
+    "name": "सुरेश बाबुराव क्षत्रीय",
+    "relativeName": "बाबुराव क्षत्रीय",
+    "relationType": "वडील",
+    "houseNo": "938"
+  },
+  {
+    "serialNo": 508,
+    "name": "भालचंद्र बाबुराव क्षत्रीय",
+    "relativeName": "बाबुराव क्षत्रीय",
+    "relationType": "वडील",
+    "houseNo": "938"
+  },
+  {
+    "serialNo": 509,
+    "name": "सुषमा सुरेश क्षत्रीय",
+    "relativeName": "सुरेश क्षत्रीय",
+    "relationType": "पती",
+    "houseNo": "938"
+  },
+  {
+    "serialNo": 510,
+    "name": "संगीता भालचंद्र क्षत्रीय",
+    "relativeName": "भालचंद्र क्षत्रीय",
+    "relationType": "पती",
+    "houseNo": "938"
+  },
+  {
+    "serialNo": 511,
+    "name": "आरती रेवण क्षत्रिय",
+    "relativeName": "रेवण क्षत्रिय",
+    "relationType": "पती",
+    "houseNo": "९३८"
+  },
+  {
+    "serialNo": 512,
+    "name": "आरेफ़ा मुस्ताक़् शेख",
+    "relativeName": "मुस्ताक़् शेख",
+    "relationType": "पती",
+    "houseNo": "939"
+  },
+  {
+    "serialNo": 513,
+    "name": "बबनराव गंगाधर हेवडराव",
+    "relativeName": "गंगाधर देऊराव",
+    "relationType": "वडील",
+    "houseNo": "940"
+  },
+  {
+    "serialNo": 514,
+    "name": "शांताबाई बबनराव हेवडराव",
+    "relativeName": "बबनराव हेवडराव",
+    "relationType": "पती",
+    "houseNo": "940"
+  },
+  {
+    "serialNo": 515,
+    "name": "खलीद अ गफ्फार तांबट",
+    "relativeName": "अ गफ्फार तांबट",
+    "relationType": "वडील",
+    "houseNo": "940"
+  },
+  {
+    "serialNo": 516,
+    "name": "सुधीर सुनिल कबाडे",
+    "relativeName": "सुनिल कबाडे",
+    "relationType": "वडील",
+    "houseNo": "941"
+  },
+  {
+    "serialNo": 517,
+    "name": "राजश्री प्रकाश कबाडे",
+    "relativeName": "प्रकाश लिंगायत",
+    "relationType": "पती",
+    "houseNo": "941"
+  },
+  {
+    "serialNo": 518,
+    "name": "अस्मिता सचिन कबाडे",
+    "relativeName": "सचिन कबाडे",
+    "relationType": "पती",
+    "houseNo": "942"
+  },
+  {
+    "serialNo": 519,
+    "name": "नंदु हिरामण खैरनार",
+    "relativeName": "हिरामण खैरनार",
+    "relationType": "वडील",
+    "houseNo": "942"
+  },
+  {
+    "serialNo": 520,
+    "name": "मिना भास्कर खैरनार",
+    "relativeName": "भास्कर खैरनार",
+    "relationType": "पती",
+    "houseNo": "942"
+  },
+  {
+    "serialNo": 521,
+    "name": "पुष्पा नंदु खैरनार",
+    "relativeName": "नंदु खैरनार",
+    "relationType": "पती",
+    "houseNo": "942"
+  },
+  {
+    "serialNo": 522,
+    "name": "कुसुमलता जवाहरलाल आचलिया",
+    "relativeName": "जवाहरलाल आचलिया",
+    "relationType": "पती",
+    "houseNo": "943"
+  },
+  {
+    "serialNo": 523,
+    "name": "किरण रमणलाल आचलिया",
+    "relativeName": "रमणलाल आचलिया",
+    "relationType": "पती",
+    "houseNo": "943"
+  },
+  {
+    "serialNo": 524,
+    "name": "संजय जवाहरलाल आचलिया",
+    "relativeName": "जवाहरलाल आचलिया",
+    "relationType": "वडील",
+    "houseNo": "943"
+  },
+  {
+    "serialNo": 525,
+    "name": "निशा संजय आचलिया",
+    "relativeName": "संजय आचलिया",
+    "relationType": "पती",
+    "houseNo": "943"
+  },
+  {
+    "serialNo": 526,
+    "name": "राजीव जवाहरलाल आचलिया",
+    "relativeName": "जवाहरलाल आचलिया",
+    "relationType": "वडील",
+    "houseNo": "943"
+  },
+  {
+    "serialNo": 527,
+    "name": "वंदना राजीव आचलिया",
+    "relativeName": "राजीव आचलिया",
+    "relationType": "पती",
+    "houseNo": "943"
+  },
+  {
+    "serialNo": 528,
+    "name": "मनिष जवाहरलाल आचलिया",
+    "relativeName": "जवाहर लाल अचलिया",
+    "relationType": "वडील",
+    "houseNo": "943"
+  },
+  {
+    "serialNo": 529,
+    "name": "रजनीश जवाहरलाल आचलिया",
+    "relativeName": "जवाहरलाल आचलिया",
+    "relationType": "वडील",
+    "houseNo": "943"
+  },
+  {
+    "serialNo": 530,
+    "name": "अनिता रजनीश आचलिया",
+    "relativeName": "रजनीश रजनीश",
+    "relationType": "पती",
+    "houseNo": "९४३"
+  },
+  {
+    "serialNo": 531,
+    "name": "हर्षद संजय आचलिया",
+    "relativeName": "संजय संजय",
+    "relationType": "वडील",
+    "houseNo": "९४३"
+  },
+  {
+    "serialNo": 532,
+    "name": "प्रतिक राजीव आचलिया",
+    "relativeName": "राजीव राजीव",
+    "relationType": "वडील",
+    "houseNo": "९४३"
+  },
+  {
+    "serialNo": 533,
+    "name": "श्वेता समीर आचलिया",
+    "relativeName": "समीर समीर",
+    "relationType": "पती",
+    "houseNo": "९४३अ"
+  },
+  {
+    "serialNo": 534,
+    "name": "रेखा किरण पंडीत",
+    "relativeName": "किरण पंडीत",
+    "relationType": "पती",
+    "houseNo": "944"
+  },
+  {
+    "serialNo": 535,
+    "name": "जयश्री प्रदीप तिलोडा",
+    "relativeName": "प्रदीप तिलोडा",
+    "relationType": "पती",
+    "houseNo": "945"
+  },
+  {
+    "serialNo": 536,
+    "name": "कल्पेश अजित जैन",
+    "relativeName": "अजित रतनलाल जैन",
+    "relationType": "वडील",
+    "houseNo": "946"
+  },
+  {
+    "serialNo": 537,
+    "name": "रोहन प्रदीप जैन",
+    "relativeName": "प्रदीप रतनलाल जैन",
+    "relationType": "वडील",
+    "houseNo": "946"
+  },
+  {
+    "serialNo": 538,
+    "name": "नेहा अजित जैन",
+    "relativeName": "अजित रतनलाल जैन",
+    "relationType": "वडील",
+    "houseNo": "946"
+  },
+  {
+    "serialNo": 539,
+    "name": "रेखा अजित तिलोडा",
+    "relativeName": "अजित तिलोडा",
+    "relationType": "पती",
+    "houseNo": "946"
+  },
+  {
+    "serialNo": 540,
+    "name": "प्रदीप रतनलाल तिलोडा",
+    "relativeName": "रतनलाल तिलोडा",
+    "relationType": "वडील",
+    "houseNo": "946"
+  },
+  {
+    "serialNo": 541,
+    "name": "भिकचंद दत्तात्रय व्यवहारे",
+    "relativeName": "दत्तात्रय व्यवहारे",
+    "relationType": "वडील",
+    "houseNo": "947"
+  },
+  {
+    "serialNo": 542,
+    "name": "उत्तम दत्तात्रय व्यवहारे",
+    "relativeName": "दत्तात्रय व्यवहारे",
+    "relationType": "वडील",
+    "houseNo": "947"
+  },
+  {
+    "serialNo": 543,
+    "name": "विमल भिकचंद व्यवहारे",
+    "relativeName": "भिकचंद व्यवहारे",
+    "relationType": "पती",
+    "houseNo": "947"
+  },
+  {
+    "serialNo": 544,
+    "name": "रेखा उत्तम व्यवहारे",
+    "relativeName": "उत्तम व्यवहारे",
+    "relationType": "पती",
+    "houseNo": "947"
+  },
+  {
+    "serialNo": 545,
+    "name": "दिपक दत्तात्रय व्यवहारे",
+    "relativeName": "दत्तात्रय व्यवहारे",
+    "relationType": "वडील",
+    "houseNo": "947"
+  },
+  {
+    "serialNo": 546,
+    "name": "जयश्री भास्कर व्यवहारे",
+    "relativeName": "भास्कर व्यवहारे",
+    "relationType": "पती",
+    "houseNo": "947"
+  },
+  {
+    "serialNo": 547,
+    "name": "नंदु भिकचंद व्यवहारे",
+    "relativeName": "भिकचंद व्यवहारे",
+    "relationType": "वडील",
+    "houseNo": "947"
+  },
+  {
+    "serialNo": 548,
+    "name": "गोकुळ भिकचंद व्यवहारे",
+    "relativeName": "भिकचंद व्यवहारे",
+    "relationType": "वडील",
+    "houseNo": "947"
+  },
+  {
+    "serialNo": 549,
+    "name": "क्रषिकेश दिपक व्यवहारे",
+    "relativeName": "दिपक व्यवहारे",
+    "relationType": "वडील",
+    "houseNo": "९४७"
+  },
+  {
+    "serialNo": 550,
+    "name": "मनिषा मनोज आचलीया",
+    "relativeName": "मनोज आचलीया",
+    "relationType": "पती",
+    "houseNo": "948"
+  },
+  {
+    "serialNo": 551,
+    "name": "पद्माबाई मोहनलाल फुलफगर",
+    "relativeName": "मोहनलाल फुलफगर",
+    "relationType": "पती",
+    "houseNo": "स्वामी समर्थ मंदिरामागे"
+  },
+  {
+    "serialNo": 552,
+    "name": "अशोक रावतमल फुलफगार",
+    "relativeName": "रावतमाळ फुलफगर",
+    "relationType": "वडील",
+    "houseNo": "948"
+  },
+  {
+    "serialNo": 553,
+    "name": "शांतीलाल मांगिलाल फुलफगर",
+    "relativeName": "मांगिलाल फुलफगर",
+    "relationType": "वडील",
+    "houseNo": "948"
+  },
+  {
+    "serialNo": 554,
+    "name": "किरण शांतीलाल फुलफगर",
+    "relativeName": "शांतीलाल फुलफगर",
+    "relationType": "वडील",
+    "houseNo": "948"
+  },
+  {
+    "serialNo": 555,
+    "name": "प्रविण मोहनलाल फुलफगर",
+    "relativeName": "मोहनलाल फुलफगर",
+    "relationType": "वडील",
+    "houseNo": "948"
+  },
+  {
+    "serialNo": 556,
+    "name": "मंगला प्रविण फुलफगर",
+    "relativeName": "प्रविण फुलफगर",
+    "relationType": "पती",
+    "houseNo": "948"
+  },
+  {
+    "serialNo": 557,
+    "name": "कांतिलाल मांगिलाल फुलफगर",
+    "relativeName": "मांगिलाल फुलफगर",
+    "relationType": "वडील",
+    "houseNo": "948"
+  },
+  {
+    "serialNo": 558,
+    "name": "रुपेश शांतीलाल फुलफगर",
+    "relativeName": "शांतीलाल शांतीलाल",
+    "relationType": "वडील",
+    "houseNo": "९४८"
+  },
+  {
+    "serialNo": 559,
+    "name": "श्रद्धा प्रविण फुलफगर",
+    "relativeName": "प्रविण प्रविण",
+    "relationType": "वडील",
+    "houseNo": "९४८"
+  },
+  {
+    "serialNo": 560,
+    "name": "सजनबाई रमेशलाल फुलपगारे",
+    "relativeName": "रमेशलाल फुलपगारे",
+    "relationType": "पती",
+    "houseNo": "948"
+  },
+  {
+    "serialNo": 561,
+    "name": "कांचन अशोक फुलपगारे",
+    "relativeName": "अशोक फुलपगारे",
+    "relationType": "पती",
+    "houseNo": "948"
+  },
+  {
+    "serialNo": 562,
+    "name": "प्रमोद माधवराव जाधव",
+    "relativeName": "माधवराव जाधव",
+    "relationType": "वडील",
+    "houseNo": "949"
+  },
+  {
+    "serialNo": 563,
+    "name": "विजया प्रमोद जाधव",
+    "relativeName": "प्रमोद जाधव",
+    "relationType": "पती",
+    "houseNo": "949"
+  },
+  {
+    "serialNo": 564,
+    "name": "मंदाकिनी नंदु शेलार",
+    "relativeName": "नंदु शेलार",
+    "relationType": "पती",
+    "houseNo": "951"
+  },
+  {
+    "serialNo": 565,
+    "name": "एकनाथ पुंडलीक शेलार",
+    "relativeName": "पुंडलीक शेलार",
+    "relationType": "वडील",
+    "houseNo": "951"
+  },
+  {
+    "serialNo": 566,
+    "name": "सुनंदा रामदास शेलार",
+    "relativeName": "रामदास शेलार",
+    "relationType": "पती",
+    "houseNo": "951"
+  },
+  {
+    "serialNo": 567,
+    "name": "संतोष लक्ष्मण जंगम",
+    "relativeName": "लक्ष्मण जंगम",
+    "relationType": "वडील",
+    "houseNo": "952"
+  },
+  {
+    "serialNo": 568,
+    "name": "सुरेखा संतोष जंगम",
+    "relativeName": "संतोष जंगम",
+    "relationType": "पती",
+    "houseNo": "952"
+  },
+  {
+    "serialNo": 569,
+    "name": "रविंद्र लक्ष्मण जंगम",
+    "relativeName": "लक्ष्मण जंगम",
+    "relationType": "वडील",
+    "houseNo": "952"
+  },
+  {
+    "serialNo": 570,
+    "name": "अनिता गजानन जंगम",
+    "relativeName": "गजानन जंगम",
+    "relationType": "पती",
+    "houseNo": "952"
+  },
+  {
+    "serialNo": 571,
+    "name": "सुमण गंगाधर जंगम",
+    "relativeName": "गंगाधर जंगम",
+    "relationType": "पती",
+    "houseNo": "953"
+  },
+  {
+    "serialNo": 572,
+    "name": "बेबी विश्वनाथ जंगम",
+    "relativeName": "विश्वनाथ जंगम",
+    "relationType": "पती",
+    "houseNo": "953"
+  },
+  {
+    "serialNo": 573,
+    "name": "महालींग विश्वनाथ जंगम",
+    "relativeName": "विश्वनाथ जंगम",
+    "relationType": "वडील",
+    "houseNo": "953"
+  },
+  {
+    "serialNo": 574,
+    "name": "नागेश गंगाधर जंगम",
+    "relativeName": "गंगाधर जंगम",
+    "relationType": "वडील",
+    "houseNo": "953"
+  },
+  {
+    "serialNo": 575,
+    "name": "सपना भिमाशंकर जंगम",
+    "relativeName": "भिमाशंकर विश्वनाथ जंगम",
+    "relationType": "पती",
+    "houseNo": "953"
+  },
+  {
+    "serialNo": 576,
+    "name": "भिमाशंकर विश्वनाथ जंगम",
+    "relativeName": "विश्वनाथ जंगम",
+    "relationType": "वडील",
+    "houseNo": "सोमवार पेठ"
+  },
+  {
+    "serialNo": 577,
+    "name": "नीता नागेश जंगम",
+    "relativeName": "नागेश जंगम",
+    "relationType": "पती",
+    "houseNo": "953"
+  },
+  {
+    "serialNo": 578,
+    "name": "रोहिणी महालींग जंगम",
+    "relativeName": "महलींग जंगम",
+    "relationType": "पती",
+    "houseNo": "953"
+  },
+  {
+    "serialNo": 579,
+    "name": "अशोक नारायण जंगम",
+    "relativeName": "नारायण जंगम",
+    "relationType": "वडील",
+    "houseNo": "954"
+  },
+  {
+    "serialNo": 580,
+    "name": "वंदना अशोक जंगम",
+    "relativeName": "अशोक जंगम",
+    "relationType": "पती",
+    "houseNo": "954"
+  },
+  {
+    "serialNo": 581,
+    "name": "ललिता मदनलाल आचलिया",
+    "relativeName": "मदनलाल आचलिया",
+    "relationType": "पती",
+    "houseNo": "957"
+  },
+  {
+    "serialNo": 582,
+    "name": "निलेश मदनलाल आचलिया",
+    "relativeName": "मदनलाल आचलिया",
+    "relationType": "वडील",
+    "houseNo": "957"
+  },
+  {
+    "serialNo": 583,
+    "name": "मंगला राजेंद्र आचलिया",
+    "relativeName": "राजेंद्र आचलिया",
+    "relationType": "पती",
+    "houseNo": "957 ब"
+  },
+  {
+    "serialNo": 584,
+    "name": "मनोज कांतिलाल आचलिया",
+    "relativeName": "कांतिलाल आचलिया",
+    "relationType": "वडील",
+    "houseNo": "957 ब"
+  },
+  {
+    "serialNo": 585,
+    "name": "सविता मंगेश आचलीया",
+    "relativeName": "मंगेश आचलीया",
+    "relationType": "पती",
+    "houseNo": "957 ब"
+  },
+  {
+    "serialNo": 586,
+    "name": "मंगेश कांतिलाल आचलिया",
+    "relativeName": "कांतिलाल आचलिया",
+    "relationType": "वडील",
+    "houseNo": "957 ब"
+  },
+  {
+    "serialNo": 587,
+    "name": "अशोकलाल लालचंद आचलिया",
+    "relativeName": "लालचंद आचलिया",
+    "relationType": "वडील",
+    "houseNo": "957 क"
+  },
+  {
+    "serialNo": 588,
+    "name": "राहुल अशोकलाल आचलिया",
+    "relativeName": "अशोकलाल आचलिया",
+    "relationType": "वडील",
+    "houseNo": "957 क"
+  },
+  {
+    "serialNo": 589,
+    "name": "राजेंद्र ताराचंद आचलिया",
+    "relativeName": "ताराचंद आचलिया",
+    "relationType": "वडील",
+    "houseNo": "957 ब"
+  },
+  {
+    "serialNo": 590,
+    "name": "अमोल बद्रिनारायण जाधव",
+    "relativeName": "बद्रिनारायण जाधव",
+    "relationType": "वडील",
+    "houseNo": "958"
+  },
+  {
+    "serialNo": 591,
+    "name": "दिपक प्रकाश डुंगरवाल",
+    "relativeName": "प्रकाश डुंगरवाल",
+    "relationType": "वडील",
+    "houseNo": "959"
+  },
+  {
+    "serialNo": 592,
+    "name": "समीर रफीय्योदीन शेख",
+    "relativeName": "रफीय्योदीन शेख",
+    "relationType": "वडील",
+    "houseNo": "960"
+  },
+  {
+    "serialNo": 593,
+    "name": "साधना प्रदीप डुंगरवाल",
+    "relativeName": "प्रदीप डुंगरवाल",
+    "relationType": "पती",
+    "houseNo": "972"
+  },
+  {
+    "serialNo": 594,
+    "name": "किरण किशोर डुंगरवाल",
+    "relativeName": "किशोर डुंगरवाल",
+    "relationType": "वडील",
+    "houseNo": "972"
+  },
+  {
+    "serialNo": 595,
+    "name": "किशोर चाँदमल डुंगरलाल",
+    "relativeName": "चाँदमल डुंगरलाल",
+    "relationType": "वडील",
+    "houseNo": "972"
+  },
+  {
+    "serialNo": 596,
+    "name": "आशा किरण डुंगरलाल '",
+    "relativeName": "किरण डुंगरलाल",
+    "relationType": "पती",
+    "houseNo": "972"
+  },
+  {
+    "serialNo": 597,
+    "name": "प्रदीप चंद्रमल डुंगरलाल",
+    "relativeName": "चंद्रमल डुंगरलाल",
+    "relationType": "वडील",
+    "houseNo": "972"
+  },
+  {
+    "serialNo": 598,
+    "name": "आदर्श रविंद्र जंगम",
+    "relativeName": "रविंद्र जंगम",
+    "relationType": "वडील",
+    "houseNo": "976"
+  },
+  {
+    "serialNo": 599,
+    "name": "मिनल कल्पेश ब्रम्हेचा",
+    "relativeName": "कल्पेश कल्पेश",
+    "relationType": "पती",
+    "houseNo": "८२५४"
+  },
+  {
+    "serialNo": 600,
+    "name": "मुरलीधर रानु नवरे",
+    "relativeName": "रानु नवरे",
+    "relationType": "वडील",
+    "houseNo": "829 2"
+  },
+  {
+    "serialNo": 601,
+    "name": "सुनिता मुरलीधर नवरे",
+    "relativeName": "मुरलीधर नवरे",
+    "relationType": "पती",
+    "houseNo": "829 2"
+  },
+  {
+    "serialNo": 602,
+    "name": "राजु लक्ष्मण गांगुर्डे",
+    "relativeName": "लक्ष्मण गांगुर्डे",
+    "relationType": "वडील",
+    "houseNo": "829 3"
+  },
+  {
+    "serialNo": 603,
+    "name": "बशीर अब्दुल रहेमान शेख",
+    "relativeName": "अ. रहिमान शेख",
+    "relationType": "वडील",
+    "houseNo": "830 1"
+  },
+  {
+    "serialNo": 604,
+    "name": "आपसाना बशीर शेख",
+    "relativeName": "शेख बशीर शेख",
+    "relationType": "पती",
+    "houseNo": "830 1"
+  },
+  {
+    "serialNo": 605,
+    "name": "सुनिता सोमनाथ बरदे",
+    "relativeName": "सोमनाथ बरदे",
+    "relationType": "पती",
+    "houseNo": "832 3"
+  },
+  {
+    "serialNo": 606,
+    "name": "रतन सखाराम बारदे",
+    "relativeName": "सखाराम बारदे",
+    "relationType": "वडील",
+    "houseNo": "8323"
+  },
+  {
+    "serialNo": 607,
+    "name": "अलका रमेश बारदे",
+    "relativeName": "रमेश बारदे",
+    "relationType": "पती",
+    "houseNo": "8323"
+  },
+  {
+    "serialNo": 608,
+    "name": "सोमनाथ सखाराम बारदे",
+    "relativeName": "सखाराम बारदे",
+    "relationType": "वडील",
+    "houseNo": "8323"
+  },
+  {
+    "serialNo": 609,
+    "name": "मंगला बाळू मोरे",
+    "relativeName": "बाळू मोरे",
+    "relationType": "पती",
+    "houseNo": "832 4"
+  },
+  {
+    "serialNo": 610,
+    "name": "मीनाबाई जयराम मोरे",
+    "relativeName": "जयराम मोरे",
+    "relationType": "पती",
+    "houseNo": "8324"
+  },
+  {
+    "serialNo": 611,
+    "name": "सुखदेव चेंढा पवार",
+    "relativeName": "चेंढा पवार",
+    "relationType": "वडील",
+    "houseNo": "832 6"
+  },
+  {
+    "serialNo": 612,
+    "name": "रजीया शेख याकुब शेख",
+    "relativeName": "याकुब शेख",
+    "relationType": "पती",
+    "houseNo": "8327"
+  },
+  {
+    "serialNo": 613,
+    "name": "चेतना निलेश श्रीश्रीमाळ",
+    "relativeName": "निलेश श्रीश्रीमाळ",
+    "relationType": "पती",
+    "houseNo": "868/1"
+  },
+  {
+    "serialNo": 614,
+    "name": "शितल मनेश लालवाणी",
+    "relativeName": "मनेश लालवाणी",
+    "relationType": "पती",
+    "houseNo": "890 4"
+  },
+  {
+    "serialNo": 615,
+    "name": "सोहनलाल कचरदास लालवाणी",
+    "relativeName": "कचरदास लालवाणी",
+    "relationType": "वडील",
+    "houseNo": "8904"
+  },
+  {
+    "serialNo": 616,
+    "name": "मनेष सोहनलाल लालवाणी",
+    "relativeName": "सोहनलाल लालवाणी",
+    "relationType": "वडील",
+    "houseNo": "8904"
+  },
+  {
+    "serialNo": 617,
+    "name": "महेंद्र सोहनलाल लालवाणी",
+    "relativeName": "सोहनलाल लालवाणी",
+    "relationType": "वडील",
+    "houseNo": "8904"
+  },
+  {
+    "serialNo": 618,
+    "name": "सुनंदा महेंद्र लालवाणी",
+    "relativeName": "महेंद्र लालवाणी",
+    "relationType": "पती",
+    "houseNo": "8904"
+  },
+  {
+    "serialNo": 619,
+    "name": "साधना संदिप जाधव",
+    "relativeName": "संदिप जाधव",
+    "relationType": "पती",
+    "houseNo": "891 1"
+  },
+  {
+    "serialNo": 620,
+    "name": "निलेश बालकृष्ण कबाडे",
+    "relativeName": "बालकृष्ण कबाडे",
+    "relationType": "वडील",
+    "houseNo": "900 2"
+  },
+  {
+    "serialNo": 621,
+    "name": "नूरुज्ज़मा जब्बार तांबट",
+    "relativeName": "अ. जब्बार तांबट",
+    "relationType": "वडील",
+    "houseNo": "903 1"
+  },
+  {
+    "serialNo": 622,
+    "name": "शिल्पा अनिल अग्रवाल",
+    "relativeName": "अनिल अग्रवाल",
+    "relationType": "पती",
+    "houseNo": "911 1"
+  },
+  {
+    "serialNo": 623,
+    "name": "गायत्री मुकुंद पंडीत",
+    "relativeName": "मुकुंद पंडीत",
+    "relationType": "पती",
+    "houseNo": "918 1"
+  },
+  {
+    "serialNo": 624,
+    "name": "अशोक रामचंद्र सोनवने",
+    "relativeName": "रामचंद्र सोनवने",
+    "relationType": "वडील",
+    "houseNo": "9391"
+  },
+  {
+    "serialNo": 625,
+    "name": "राधाबाई अशोक सोनवने",
+    "relativeName": "अशोक सोनवने",
+    "relationType": "पती",
+    "houseNo": "9391"
+  },
+  {
+    "serialNo": 626,
+    "name": "हरिहर जयवंत सोनवने",
+    "relativeName": "जयवंत सोनवने",
+    "relationType": "वडील",
+    "houseNo": "9391"
+  },
+  {
+    "serialNo": 627,
+    "name": "वैशाली हरिहर सोनवने",
+    "relativeName": "हरिहर सोनवने",
+    "relationType": "पती",
+    "houseNo": "9391"
+  },
+  {
+    "serialNo": 628,
+    "name": "बाळकृष्णा दत्तात्रय सोनवने",
+    "relativeName": "दत्तात्रय सोनवने",
+    "relationType": "वडील",
+    "houseNo": "9392"
+  },
+  {
+    "serialNo": 629,
+    "name": "नंदकुमार यशवंत सोनवने",
+    "relativeName": "यशवंत सोनवने",
+    "relationType": "वडील",
+    "houseNo": "9394"
+  },
+  {
+    "serialNo": 630,
+    "name": "माया नंदकुमार सोनवने",
+    "relativeName": "नंदकुमार सोनवने",
+    "relationType": "पती",
+    "houseNo": "9394"
+  },
+  {
+    "serialNo": 631,
+    "name": "भिकाजी लक्ष्मण शिरुडे",
+    "relativeName": "लक्ष्मण शिरुडे",
+    "relationType": "वडील",
+    "houseNo": "9401"
+  },
+  {
+    "serialNo": 632,
+    "name": "उषा भुषण शिरुडे",
+    "relativeName": "भुषण शिरुडे",
+    "relationType": "पती",
+    "houseNo": "9401"
+  },
+  {
+    "serialNo": 633,
+    "name": "बंडुसा दत्तुसा क्षत्रीय",
+    "relativeName": "दत्तुसा क्षत्रीय",
+    "relationType": "वडील",
+    "houseNo": "9422"
+  },
+  {
+    "serialNo": 634,
+    "name": "इंदिरा बंडुसा क्षत्रीय",
+    "relativeName": "बंडुसा क्षत्रीय",
+    "relationType": "पती",
+    "houseNo": "9422"
+  },
+  {
+    "serialNo": 635,
+    "name": "सुवर्णा सतीश क्षत्रीय",
+    "relativeName": "सतीश क्षत्रीय",
+    "relationType": "पती",
+    "houseNo": "9422"
+  },
+  {
+    "serialNo": 636,
+    "name": "आमुल बंडुसा क्षत्रीय",
+    "relativeName": "बंडुसा क्षत्रीय",
+    "relationType": "वडील",
+    "houseNo": "942 2"
+  },
+  {
+    "serialNo": 637,
+    "name": "ममता शितल आचलिया",
+    "relativeName": "शितल शितल",
+    "relationType": "पती",
+    "houseNo": "९४३/१"
+  },
+  {
+    "serialNo": 638,
+    "name": "रमेशलाल रावतमल फुलपगारे",
+    "relativeName": "रावतमल फुलपगारे",
+    "relationType": "वडील",
+    "houseNo": "948 1"
+  },
+  {
+    "serialNo": 639,
+    "name": "संजय गोपाळ जाधव",
+    "relativeName": "गोपाळ जाधव",
+    "relationType": "वडील",
+    "houseNo": "9501"
+  },
+  {
+    "serialNo": 640,
+    "name": "बाळासाहेब गोपाळ जाधव",
+    "relativeName": "गोपाळ जाधव",
+    "relationType": "वडील",
+    "houseNo": "9501"
+  },
+  {
+    "serialNo": 641,
+    "name": "स्वाती संजय जाधव",
+    "relativeName": "संजय जाधव",
+    "relationType": "पती",
+    "houseNo": "9501"
+  },
+  {
+    "serialNo": 642,
+    "name": "मंगला बाळू जाधव",
+    "relativeName": "बाळू जाधव",
+    "relationType": "पती",
+    "houseNo": "9501"
+  },
+  {
+    "serialNo": 643,
+    "name": "गंगाबाई गोविंद जाधव",
+    "relativeName": "गोविंद जाधव",
+    "relationType": "पती",
+    "houseNo": "9502"
+  },
+  {
+    "serialNo": 644,
+    "name": "चंद्रकांत नारायण जंगम",
+    "relativeName": "नारायण जंगम",
+    "relationType": "वडील",
+    "houseNo": "954 1"
+  },
+  {
+    "serialNo": 645,
+    "name": "स्वाती चंद्रकांत जंगम",
+    "relativeName": "चंद्रकांत जंगम",
+    "relationType": "वडील",
+    "houseNo": "954 1"
+  },
+  {
+    "serialNo": 646,
+    "name": "जनाबाई सुखदेव पवार",
+    "relativeName": "सुखदेव पवार",
+    "relationType": "पती",
+    "houseNo": "8832 6"
+  },
+  {
+    "serialNo": 647,
+    "name": "रमेश लक्ष्मण जाधव",
+    "relativeName": "लक्ष्मण जाधव",
+    "relationType": "वडील",
+    "houseNo": "891 2 3"
+  },
+  {
+    "serialNo": 648,
+    "name": "सिमा रमेश जाधव",
+    "relativeName": "रमेश जाधव",
+    "relationType": "पती",
+    "houseNo": "891 2 4"
+  },
+  {
+    "serialNo": 649,
+    "name": "संदिप लक्ष्मण जाधव",
+    "relativeName": "लक्ष्मण जाधव",
+    "relationType": "वडील",
+    "houseNo": "891 2 5"
+  },
+  {
+    "serialNo": 650,
+    "name": "बदिऊज़्ज़मा अ जब्बार तांबट",
+    "relativeName": "अ. जब्बार तांबट गा2/243843",
+    "relationType": "वडील",
+    "houseNo": "903 10"
+  },
+  {
+    "serialNo": 651,
+    "name": "मुदस्सर शहानवाज शेख",
+    "relativeName": "शहानवाज शेख गा238069००",
+    "relationType": "वडील",
+    "houseNo": "9616/2"
+  },
+  {
+    "serialNo": 652,
+    "name": "मुस्ताक लतीफभाई शेख",
+    "relativeName": "लतीफभाई शेख न ज्य ४ 37 >> ऱ्ठ ९ २",
+    "relationType": "वडील",
+    "houseNo": "96162"
+  },
+  {
+    "serialNo": 653,
+    "name": "नाजमा मुस्ताक शेख",
+    "relativeName": "मुस्ताक शेख",
+    "relationType": "पती",
+    "houseNo": "96162"
+  },
+  {
+    "serialNo": 654,
+    "name": "अनिस फातेमा अ. अझिझ मिसगर",
+    "relativeName": "फातेमा अ. अझिझ मिसगर",
+    "relationType": "पती",
+    "houseNo": "912 913"
+  },
+  {
+    "serialNo": 655,
+    "name": "मो. जाहिद इस्माईल मिसगर",
+    "relativeName": "जाहिद इस्माईल मिसगर",
+    "relationType": "वडील",
+    "houseNo": "912 913"
+  },
+  {
+    "serialNo": 656,
+    "name": "फरहत रेहाना मो. इस्माईल मिसगर",
+    "relativeName": "मो. इस्माईल मिसगर",
+    "relationType": "पती",
+    "houseNo": "912 913"
+  },
+  {
+    "serialNo": 657,
+    "name": "रौनक जाहिद मिसगर",
+    "relativeName": "जाहिद मिसगर",
+    "relationType": "पती",
+    "houseNo": "912 913"
+  },
+  {
+    "serialNo": 658,
+    "name": "प्रणीता निखिल श्रीश्रीमाला",
+    "relativeName": "निखिल श्रीश्रीमाला श्रीश्रीमल",
+    "relationType": "पती",
+    "houseNo": "680"
+  },
+  {
+    "serialNo": 659,
+    "name": "समृद्धी अभिषेक व्यवहारे",
+    "relativeName": "गोपाल भीकचंद व्यवहारे व्यवहारे",
+    "relationType": "पती",
+    "houseNo": "066"
+  },
+  {
+    "serialNo": 660,
+    "name": "रोनक जैन",
+    "relativeName": "प्रदीप जैन",
+    "relationType": "वडील",
+    "houseNo": "सोम्वर पेठ"
+  },
+  {
+    "serialNo": 661,
+    "name": "आदित्य नंदू बोरसे",
+    "relativeName": "नंदू बोरसे",
+    "relationType": "वडील",
+    "houseNo": "740"
+  },
+  {
+    "serialNo": 662,
+    "name": "गुंजाळ ओमकार महेश गुंजाळ",
+    "relativeName": "गुंजाळ महेश शहाजी गुंजाळ",
+    "relationType": "वडील",
+    "houseNo": "गुंजाळ मेडिकल सोम्वर पेठ चांद"
+  },
+  {
+    "serialNo": 663,
+    "name": "अलमास अर्शद पटेल",
+    "relativeName": "मुस्ताक़् रमज़ान शेख",
+    "relationType": "वडील",
+    "houseNo": "0"
+  },
+  {
+    "serialNo": 664,
+    "name": "शिवम जंगम",
+    "relativeName": "भीमाशंकर जंगम",
+    "relationType": "वडील",
+    "houseNo": "सोम्वार्पेठ चांदवड"
+  },
+  {
+    "serialNo": 665,
+    "name": "सुलोचना कुणाल मोरे",
+    "relativeName": "कुणाल अरुण मोरे",
+    "relationType": "पती",
+    "houseNo": "खंडेराव रोड,जुनी कचेरी"
+  },
+  {
+    "serialNo": 666,
+    "name": "गजानन रोहिदास पवार",
+    "relativeName": "रोहिदास यमाजी पवार",
+    "relationType": "वडील",
+    "houseNo": "अठव्डे बाजारपट्टी"
+  },
+  {
+    "serialNo": 667,
+    "name": "पार्थ निलेश कबाडे",
+    "relativeName": "निलेश मधुकर कबाडे",
+    "relationType": "वडील",
+    "houseNo": "चंद्रेश्वर बंगलो"
+  },
+  {
+    "serialNo": 668,
+    "name": "स्वरूपा नागेश जंगम",
+    "relativeName": "नागेश गंगाधर जंगम",
+    "relationType": "वडील",
+    "houseNo": "0"
+  },
+  {
+    "serialNo": 669,
+    "name": "रूपाली संदीप बँ",
+    "relativeName": "संदीप बड",
+    "relationType": "पती",
+    "houseNo": "सोमवार हट्टी"
+  },
+  {
+    "serialNo": 670,
+    "name": "सविता विक्रम कापसे",
+    "relativeName": "विक्रम केशव कापसे",
+    "relationType": "वडील",
+    "houseNo": "वडारवाडा"
+  },
+  {
+    "serialNo": 671,
+    "name": "साक्षी रोहित कबाडे",
+    "relativeName": "रोहित दिलीप कबाडे",
+    "relationType": "पती",
+    "houseNo": "899ए"
+  },
+  {
+    "serialNo": 672,
+    "name": "प्रथा सचिन पवार",
+    "relativeName": "सचिन पवार",
+    "relationType": "पती",
+    "houseNo": "एस/ओ सचिन पवार"
+  },
+  {
+    "serialNo": 673,
+    "name": "कार्तिकी आप्पा पवार",
+    "relativeName": "आप्पा पवार",
+    "relationType": "पती",
+    "houseNo": "एस/ओ आप्पा पवार"
+  },
+  {
+    "serialNo": 674,
+    "name": "अब्दुलवाहिक मुस्ताक्र शेख",
+    "relativeName": "मुस्ताक़् शेख",
+    "relationType": "वडील",
+    "houseNo": "सोम्वर पेठ"
+  },
+  {
+    "serialNo": 675,
+    "name": "पूजा क्र्षिकेश व्यवहारे",
+    "relativeName": "क्रषिकेश दिपक व्यवहारे",
+    "relationType": "पती",
+    "houseNo": "सोमवार"
+  },
+  {
+    "serialNo": 676,
+    "name": "गणेश सांडू बरदे",
+    "relativeName": "सांडू बरदे",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 677,
+    "name": "रवींद्र रमेश बरदे",
+    "relativeName": "रमेश बरदे",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 678,
+    "name": "जयश्री संजू ढोले",
+    "relativeName": "संजू ढोले",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 679,
+    "name": "सोनू संजय ढोले",
+    "relativeName": "संजय ढोले",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 680,
+    "name": "राजेश मीराबाई गोविंद",
+    "relativeName": "मीराबाई गोविंद",
+    "relationType": "आई",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 681,
+    "name": "अमित प्रदीप गुजराथी",
+    "relativeName": "प्रदीप गुजराथी",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 682,
+    "name": "निशा योगेश कासलीवाल",
+    "relativeName": "योगेश कासलीवाल",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 683,
+    "name": "फरजाना जावेद खलिफा",
+    "relativeName": "जावेद खलिफा",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 684,
+    "name": "प्रविण महादेव नागरे",
+    "relativeName": "महादेव नागरे",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 685,
+    "name": "राजू सोनु पाथरे",
+    "relativeName": "सोनू पाथरे",
+    "relationType": "वडील",
+    "houseNo": "गजानन कॉलोनी"
+  },
+  {
+    "serialNo": 686,
+    "name": "केदा अरुण पवार",
+    "relativeName": "अरुण पवार",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 687,
+    "name": "यशोदा केदा पवार",
+    "relativeName": "केदा पवार",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 688,
+    "name": "राणी संतोष 'पवार",
+    "relativeName": "संतोष पवार",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 689,
+    "name": "सागर दिलीप पवार",
+    "relativeName": "दिलीप पवार",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 690,
+    "name": "दत्तात्रय अरुण राजगुरू",
+    "relativeName": "अरुण शकुंतला",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 691,
+    "name": "राणी युवराज राजगुरू",
+    "relativeName": "युवराज राजगुरू",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 692,
+    "name": "निलीमा दत्तात्रय राजगुरु",
+    "relativeName": "दत्तात्रय अरुण राजगुरु",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 693,
+    "name": "रोशनी फ़िरोज़ मणियार",
+    "relativeName": "फ़िरोज़ मणियार",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 694,
+    "name": "आदित्य विजय पंडित",
+    "relativeName": "विजय पंडित",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 695,
+    "name": "तेजस मनोज नलावडे",
+    "relativeName": "मनोज नलावडे",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 696,
+    "name": "पंकज प्रदीप खैरे",
+    "relativeName": "प्रदीप खैरे",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 697,
+    "name": "सारिका संतोष मोरे",
+    "relativeName": "संतोष मोरे",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 698,
+    "name": "अल्ताफ़ शब्बीर मदारी",
+    "relativeName": "शब्बीर मदारी",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 699,
+    "name": "गौरी बापू अहिरराव",
+    "relativeName": "बापू अहिरराव",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 700,
+    "name": "सुरेखा ज्ञानेश्वर बरदे",
+    "relativeName": "ज्ञानेश्वर बरदे",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 701,
+    "name": "योगेश बरदे",
+    "relativeName": "प्रकाश बरदे",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 702,
+    "name": "निलेश बरदे",
+    "relativeName": "प्रकाश बरदे",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 703,
+    "name": "अश्विनी बरदे",
+    "relativeName": "निलेश बरदे",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 704,
+    "name": "प्रमिला लक्ष्मण बेलदार",
+    "relativeName": "लक्ष्मण बेलदार",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 705,
+    "name": "ज्ञानेश्वर एकनाथ बेलदार",
+    "relativeName": "एकनाथ बेलदार",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 706,
+    "name": "सागर एकनाथ बेलदार",
+    "relativeName": "एकनाथ बेलदार",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 707,
+    "name": "अनिल अर्जुन भवर",
+    "relativeName": "अर्जुन भवर",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 708,
+    "name": "ईरम रईस खलिफा",
+    "relativeName": "रईस खलिफा",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 709,
+    "name": "नोमान मुख्तार मलिक",
+    "relativeName": "मुख्तार मलिक",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 710,
+    "name": "लक्ष्मी राजेंद्र मोरे",
+    "relativeName": "राजेंद्र मोरे",
+    "relationType": "पती",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 711,
+    "name": "संतोष जयराम मोरे",
+    "relativeName": "जयराम मोरे",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 712,
+    "name": "प्रेरणा आकाश परदेशी",
+    "relativeName": "आकाश परदेशी",
+    "relationType": "पती",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 713,
+    "name": "शरीफा भिकन पिंजारी",
+    "relativeName": "भिकन पिंजारी",
+    "relationType": "पती",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 714,
+    "name": "असलम भिकन पिंजारी",
+    "relativeName": "भिकन पिंजारी",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 715,
+    "name": "प्रतिक नंदकुमार शिरसाठ",
+    "relativeName": "नंदकुमार शिरसाठ",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 716,
+    "name": "सुलोचना अरूण परदेशी",
+    "relativeName": "अरून परदेश",
+    "relationType": "पती",
+    "houseNo": "गाड्गेबाबा"
+  },
+  {
+    "serialNo": 717,
+    "name": "विश्वास सदाशिव माळी माळी",
+    "relativeName": "सदाशिव सुखदेव माळी माळी",
+    "relationType": "वडील",
+    "houseNo": "पाचिवाड वस्ती"
+  },
+  {
+    "serialNo": 718,
+    "name": "कविता योगेश बरदे",
+    "relativeName": "योगेश बरदे",
+    "relationType": "पती",
+    "houseNo": "वंजार गल्ली"
+  },
+  {
+    "serialNo": 719,
+    "name": "कुणाल राजेंद्र ठोंबरे",
+    "relativeName": "राजेंद्र ठोंबरे",
+    "relationType": "वडील",
+    "houseNo": "6"
+  },
+  {
+    "serialNo": 720,
+    "name": "वैष्णवी शिंदे",
+    "relativeName": "संतोष शिंदे",
+    "relationType": "वडील",
+    "houseNo": "7"
+  },
+  {
+    "serialNo": 721,
+    "name": "रोहिणी खैरे",
+    "relativeName": "भूषण खैरे",
+    "relationType": "पती",
+    "houseNo": "12"
+  },
+  {
+    "serialNo": 722,
+    "name": "मोहिनी बेलदार इतर बेबी परदेशी",
+    "relativeName": "",
+    "relationType": "वडील",
+    "houseNo": "15"
+  },
+  {
+    "serialNo": 723,
+    "name": "ज्ञानेश्वर बेलदार",
+    "relativeName": "भागीरथ बेलदार",
+    "relationType": "वडील",
+    "houseNo": "903"
+  },
+  {
+    "serialNo": 724,
+    "name": "अमान शेख",
+    "relativeName": "आसिफ़ शेख",
+    "relationType": "वडील",
+    "houseNo": "20"
+  },
+  {
+    "serialNo": 725,
+    "name": "फैज सैय्यद",
+    "relativeName": "नासिर सैय्यद",
+    "relationType": "वडील",
+    "houseNo": "34"
+  },
+  {
+    "serialNo": 726,
+    "name": "चेतन शेलार",
+    "relativeName": "रतन शेलार",
+    "relationType": "वडील",
+    "houseNo": "34"
+  },
+  {
+    "serialNo": 727,
+    "name": "आरती शेलार",
+    "relativeName": "विजया शेलार",
+    "relationType": "आई",
+    "houseNo": "43"
+  },
+  {
+    "serialNo": 728,
+    "name": "मुसेब मनियार",
+    "relativeName": "जमील मनियार",
+    "relationType": "वडील",
+    "houseNo": "65"
+  },
+  {
+    "serialNo": 729,
+    "name": "प्रसाद शेलार",
+    "relativeName": "गजेंद्र शेलार",
+    "relationType": "वडील",
+    "houseNo": "75"
+  },
+  {
+    "serialNo": 730,
+    "name": "आयशा शेख",
+    "relativeName": "जुबेर शेख",
+    "relationType": "वडील",
+    "houseNo": "76"
+  },
+  {
+    "serialNo": 731,
+    "name": "जुबेर शेख",
+    "relativeName": "तैय्यब शेख",
+    "relationType": "वडील",
+    "houseNo": "76"
+  },
+  {
+    "serialNo": 732,
+    "name": "नाज़मीन काकर इतर आयपूर काकर",
+    "relativeName": "",
+    "relationType": "वडील",
+    "houseNo": "87"
+  },
+  {
+    "serialNo": 733,
+    "name": "प्रियंका खैरे",
+    "relativeName": "विवेक खैरे",
+    "relationType": "पती",
+    "houseNo": "87"
+  },
+  {
+    "serialNo": 734,
+    "name": "पायल पवार इतर नंदिनी साळी",
+    "relativeName": "",
+    "relationType": "वडील",
+    "houseNo": "87"
+  },
+  {
+    "serialNo": 735,
+    "name": "सारिका संदिप बेलदार",
+    "relativeName": "संदीप निवृत्ती बेलदार",
+    "relationType": "पती",
+    "houseNo": "५०२"
+  },
+  {
+    "serialNo": 736,
+    "name": "अविनाश अशोक खैरे",
+    "relativeName": "अशोक खैरे",
+    "relationType": "वडील",
+    "houseNo": "६२०"
+  },
+  {
+    "serialNo": 737,
+    "name": "साईप्रसाद राजेंद्र मंडाले",
+    "relativeName": "राजेंद्र मंडाले",
+    "relationType": "वडील",
+    "houseNo": "662"
+  },
+  {
+    "serialNo": 738,
+    "name": "आनंद विलास जाधव",
+    "relativeName": "विलास जाधव",
+    "relationType": "वडील",
+    "houseNo": "770 ए"
+  },
+  {
+    "serialNo": 739,
+    "name": "अक्षदा संजय खैरनार",
+    "relativeName": "संजय खैरनार",
+    "relationType": "वडील",
+    "houseNo": "७८४"
+  },
+  {
+    "serialNo": 740,
+    "name": "रशीदा शब्बीर मदारी",
+    "relativeName": "शब्बीर मदारी",
+    "relationType": "पती",
+    "houseNo": "839"
+  },
+  {
+    "serialNo": 741,
+    "name": "भास्कर रामचंद्र गवळी",
+    "relativeName": "रामचंद्र गवळी",
+    "relationType": "वडील",
+    "houseNo": "843"
+  },
+  {
+    "serialNo": 742,
+    "name": "मंगला भास्कर गवळी",
+    "relativeName": "भास्कर गवळी",
+    "relationType": "पती",
+    "houseNo": "843"
+  },
+  {
+    "serialNo": 743,
+    "name": "शांताराम मधुकर उगले",
+    "relativeName": "मधुकर उगले",
+    "relationType": "वडील",
+    "houseNo": "851"
+  },
+  {
+    "serialNo": 744,
+    "name": "सुनिता छबु उगले",
+    "relativeName": "छबु उगले",
+    "relationType": "पती",
+    "houseNo": "851"
+  },
+  {
+    "serialNo": 745,
+    "name": "कल्पना शांताराम उगले",
+    "relativeName": "शांताराम उगले",
+    "relationType": "पती",
+    "houseNo": "851"
+  },
+  {
+    "serialNo": 746,
+    "name": "लिना संजय उगले",
+    "relativeName": "संजय उगले",
+    "relationType": "पती",
+    "houseNo": "851"
+  },
+  {
+    "serialNo": 747,
+    "name": "संदीप मधुकर उगले",
+    "relativeName": "मधुकर उगले",
+    "relationType": "वडील",
+    "houseNo": "851"
+  },
+  {
+    "serialNo": 748,
+    "name": "प्रतिक छबुराव उगले",
+    "relativeName": "छबुराव छबुराव",
+    "relationType": "वडील",
+    "houseNo": "८५१"
+  },
+  {
+    "serialNo": 749,
+    "name": "वैभव शांताराम उगले",
+    "relativeName": "शांताराम उगले",
+    "relationType": "वडील",
+    "houseNo": "८५१"
+  },
+  {
+    "serialNo": 750,
+    "name": "श्रद्धा छबू उगले",
+    "relativeName": "छबू उगले",
+    "relationType": "वडील",
+    "houseNo": "851"
+  },
+  {
+    "serialNo": 751,
+    "name": "जिवन अशोक जिरे",
+    "relativeName": "अशोक जिरे",
+    "relationType": "वडील",
+    "houseNo": "893"
+  },
+  {
+    "serialNo": 752,
+    "name": "मीना जीवन जिरे",
+    "relativeName": "जीवन जिरे",
+    "relationType": "पती",
+    "houseNo": "894"
+  },
+  {
+    "serialNo": 753,
+    "name": "सलीम ईस्माईल शेख",
+    "relativeName": "ईस्माईल शेख",
+    "relationType": "वडील",
+    "houseNo": "894"
+  },
+  {
+    "serialNo": 754,
+    "name": "आरेफा सलीम शेख",
+    "relativeName": "सलीम शेख",
+    "relationType": "पती",
+    "houseNo": "894"
+  },
+  {
+    "serialNo": 755,
+    "name": "भाऊराव एकनाथ सानप",
+    "relativeName": "एकनाथ सानप",
+    "relationType": "वडील",
+    "houseNo": "897"
+  },
+  {
+    "serialNo": 756,
+    "name": "विशाल भाऊसाहेब सानप",
+    "relativeName": "भाऊसाहेब लक्ष्मिबाई",
+    "relationType": "वडील",
+    "houseNo": "८९७"
+  },
+  {
+    "serialNo": 757,
+    "name": "अनिता बापु उगले",
+    "relativeName": "बापु उगले",
+    "relationType": "पती",
+    "houseNo": "898"
+  },
+  {
+    "serialNo": 758,
+    "name": "रंजीता प्रकाश वाघ",
+    "relativeName": "प्रकाश वाघ",
+    "relationType": "पती",
+    "houseNo": "899"
+  },
+  {
+    "serialNo": 759,
+    "name": "योगेश संजय परदेशी",
+    "relativeName": "संजय संजय",
+    "relationType": "वडील",
+    "houseNo": "९०२"
+  },
+  {
+    "serialNo": 760,
+    "name": "राधिका योगेश परदेशी",
+    "relativeName": "योगेश परदेशी",
+    "relationType": "पती",
+    "houseNo": "९०२"
+  },
+  {
+    "serialNo": 761,
+    "name": "राजेंद्र अरुण राजगुरू",
+    "relativeName": "अरुण परदेशी",
+    "relationType": "वडील",
+    "houseNo": "९०२"
+  },
+  {
+    "serialNo": 762,
+    "name": "सविता राजेंद्र राजगुरू",
+    "relativeName": "राजेंद्र राजगुरू",
+    "relationType": "पती",
+    "houseNo": "९०२"
+  },
+  {
+    "serialNo": 763,
+    "name": "कांताबाई भागीरथ बेलदार",
+    "relativeName": "भागीरथ बेलदार",
+    "relationType": "पती",
+    "houseNo": "903"
+  },
+  {
+    "serialNo": 764,
+    "name": "संदीप भागीरथ बेलदार",
+    "relativeName": "भागीरथ बेलदार",
+    "relationType": "वडील",
+    "houseNo": "903"
+  },
+  {
+    "serialNo": 765,
+    "name": "तसलीमुनीसा तैय्यब खान",
+    "relativeName": "तैय्यब खान",
+    "relationType": "पती",
+    "houseNo": "904"
+  },
+  {
+    "serialNo": 766,
+    "name": "गुलनाज़ तैय्यब शेख",
+    "relativeName": "तैय्यब शेख",
+    "relationType": "पती",
+    "houseNo": "904"
+  },
+  {
+    "serialNo": 767,
+    "name": "देवेंद्र भाऊसेठ बागुल",
+    "relativeName": "भाऊशेठ बागूल",
+    "relationType": "वडील",
+    "houseNo": "905"
+  },
+  {
+    "serialNo": 768,
+    "name": "सुरेंद्र भाऊसेठ बागुल",
+    "relativeName": "भाऊसेठ बागुल",
+    "relationType": "वडील",
+    "houseNo": "905"
+  },
+  {
+    "serialNo": 769,
+    "name": "योगिता सुरेंद्र बागुल",
+    "relativeName": "सुरेंद्र सुरेंद्र",
+    "relationType": "पती",
+    "houseNo": "९०५"
+  },
+  {
+    "serialNo": 770,
+    "name": "पूनम देवेंद्र बागुल",
+    "relativeName": "देवेंद्र देवेंद्र",
+    "relationType": "पती",
+    "houseNo": "९०५"
+  },
+  {
+    "serialNo": 771,
+    "name": "लताबाई शामराव वाघ",
+    "relativeName": "शामराव वाघ",
+    "relationType": "पती",
+    "houseNo": "906"
+  },
+  {
+    "serialNo": 772,
+    "name": "निकीता विलास वाघ",
+    "relativeName": "विलास वाघ",
+    "relationType": "वडील",
+    "houseNo": "906"
+  },
+  {
+    "serialNo": 773,
+    "name": "सुभाष पंडीत बेलदार",
+    "relativeName": "पंडीत बेलदार",
+    "relationType": "वडील",
+    "houseNo": "907"
+  },
+  {
+    "serialNo": 774,
+    "name": "सुधाकर पंडीत बेलदार",
+    "relativeName": "पंडीत बेलदार",
+    "relationType": "वडील",
+    "houseNo": "907"
+  },
+  {
+    "serialNo": 775,
+    "name": "राजेंद्र पंडीत बेलदार",
+    "relativeName": "पंडीत बेलदार",
+    "relationType": "वडील",
+    "houseNo": "राजेंद्र पंडित बेलदार"
+  },
+  {
+    "serialNo": 776,
+    "name": "अल्का सुभाष बेलदार",
+    "relativeName": "सुभाष बेलदार",
+    "relationType": "पती",
+    "houseNo": "907"
+  },
+  {
+    "serialNo": 777,
+    "name": "वंदना सुधाकर बेलदार",
+    "relativeName": "सुधाकर बेलदार",
+    "relationType": "पती",
+    "houseNo": "907"
+  },
+  {
+    "serialNo": 778,
+    "name": "संदीप निवृत्ती बेलदार",
+    "relativeName": "निवृत्ती फकिरा बेलदार",
+    "relationType": "वडील",
+    "houseNo": "907"
+  },
+  {
+    "serialNo": 779,
+    "name": "शुभांगी राजेंद्र बेलदार",
+    "relativeName": "राजेंद्र बेलदार",
+    "relationType": "पती",
+    "houseNo": "395/2/20"
+  },
+  {
+    "serialNo": 780,
+    "name": "निर्मला दौलत चौधरी",
+    "relativeName": "दौलत चौधरी",
+    "relationType": "पती",
+    "houseNo": "912"
+  },
+  {
+    "serialNo": 781,
+    "name": "वैभव गंगाराम निकम",
+    "relativeName": "गंगाराम निकम",
+    "relationType": "वडील",
+    "houseNo": "913"
+  },
+  {
+    "serialNo": 782,
+    "name": "मनिषा वैभव निकम",
+    "relativeName": "वैभव निकम",
+    "relationType": "पती",
+    "houseNo": "९१३"
+  },
+  {
+    "serialNo": 783,
+    "name": "जाफर जमील पठाण",
+    "relativeName": "जमील पठाण",
+    "relationType": "वडील",
+    "houseNo": "914"
+  },
+  {
+    "serialNo": 784,
+    "name": "तस्लीम अजीम पठाण",
+    "relativeName": "अजीम पठाण",
+    "relationType": "वडील",
+    "houseNo": "914"
+  },
+  {
+    "serialNo": 785,
+    "name": "रुबीना नदीम शेख",
+    "relativeName": "नदीम शेख",
+    "relationType": "पती",
+    "houseNo": "915"
+  },
+  {
+    "serialNo": 786,
+    "name": "मुख्तार औज मलिक",
+    "relativeName": "औज मलिक",
+    "relationType": "वडील",
+    "houseNo": "916"
+  },
+  {
+    "serialNo": 787,
+    "name": "नाजमीन मुख्तार मलिक",
+    "relativeName": "मुख्तार औज मलिक",
+    "relationType": "पती",
+    "houseNo": "916"
+  },
+  {
+    "serialNo": 788,
+    "name": "सुमन बाळू खैरनार",
+    "relativeName": "बाळू खैरनार",
+    "relationType": "पती",
+    "houseNo": "917"
+  },
+  {
+    "serialNo": 789,
+    "name": "अशोक बाळू खैरनार",
+    "relativeName": "बाळू खैरनार",
+    "relationType": "वडील",
+    "houseNo": "917"
+  },
+  {
+    "serialNo": 790,
+    "name": "आशा सिताराम परदेशी '",
+    "relativeName": "सिताराम परदेशी",
+    "relationType": "पती",
+    "houseNo": "965"
+  },
+  {
+    "serialNo": 791,
+    "name": "शिला अशोक परदेशी",
+    "relativeName": "अशोक परदेशी",
+    "relationType": "पती",
+    "houseNo": "965"
+  },
+  {
+    "serialNo": 792,
+    "name": "ज्योती प्रशांत नागरे",
+    "relativeName": "प्रशांत पांडुरंग नागरे",
+    "relationType": "पती",
+    "houseNo": "8321"
+  },
+  {
+    "serialNo": 793,
+    "name": "शोभा राजु शिंदे",
+    "relativeName": "राजु शिंदे",
+    "relationType": "पती",
+    "houseNo": "832/3"
+  },
+  {
+    "serialNo": 794,
+    "name": "जयश्री दिपक नलावडे",
+    "relativeName": "दिपक नलावडे",
+    "relationType": "पती",
+    "houseNo": "832/5"
+  },
+  {
+    "serialNo": 795,
+    "name": "मनिषा अनिल सांगळे",
+    "relativeName": "अनिल अनिल",
+    "relationType": "पती",
+    "houseNo": "९३४/५"
+  },
+  {
+    "serialNo": 796,
+    "name": "अनिल गंगाधर सांगळे",
+    "relativeName": "गंगाधर सांगळे 51९2017622",
+    "relationType": "वडील",
+    "houseNo": "832/5"
+  },
+  {
+    "serialNo": 797,
+    "name": "भारत वसंत गोसावी",
+    "relativeName": "वसंत गोसावी गा21208305",
+    "relationType": "वडील",
+    "houseNo": "8481"
+  },
+  {
+    "serialNo": 798,
+    "name": "सिंधु नारायण पवार",
+    "relativeName": "नारायण पवार गा21203165",
+    "relationType": "पती",
+    "houseNo": "8484"
+  },
+  {
+    "serialNo": 799,
+    "name": "प्रशांत मनोहर भापकर",
+    "relativeName": "मनोहर भापकर",
+    "relationType": "वडील",
+    "houseNo": "849 1"
+  },
+  {
+    "serialNo": 800,
+    "name": "वंदना प्रशांत भापकर",
+    "relativeName": "प्रशांत भापकर",
+    "relationType": "पती",
+    "houseNo": "८४९/१"
+  },
+  {
+    "serialNo": 801,
+    "name": "लताबाई मनोहर भापकर",
+    "relativeName": "मनोहर भापकर",
+    "relationType": "पती",
+    "houseNo": "8491"
+  },
+  {
+    "serialNo": 802,
+    "name": "शांताराम दगू भापकर",
+    "relativeName": "दगू भापकर",
+    "relationType": "वडील",
+    "houseNo": "8492"
+  },
+  {
+    "serialNo": 803,
+    "name": "नलिनीबाई शांताराम भापकर",
+    "relativeName": "शांताराम भापकर",
+    "relationType": "पती",
+    "houseNo": "8492"
+  },
+  {
+    "serialNo": 804,
+    "name": "राजू शांताराम भापकर",
+    "relativeName": "शांताराम नलिनी",
+    "relationType": "वडील",
+    "houseNo": "८४९२"
+  },
+  {
+    "serialNo": 805,
+    "name": "सुरेखा राजू भापकर",
+    "relativeName": "राजू भापकर",
+    "relationType": "पती",
+    "houseNo": "८४९२"
+  },
+  {
+    "serialNo": 806,
+    "name": "सचिन शांताराम भापकर",
+    "relativeName": "शांताराम भापकर",
+    "relationType": "वडील",
+    "houseNo": "८४९२"
+  },
+  {
+    "serialNo": 807,
+    "name": "आशा शांताराम भापकर",
+    "relativeName": "शांताराम भापकर",
+    "relationType": "पती",
+    "houseNo": "849 2"
+  },
+  {
+    "serialNo": 808,
+    "name": "किशोर निवृत्ती बेलदार",
+    "relativeName": "निवृत्ती बेलदार",
+    "relationType": "वडील",
+    "houseNo": "850 2"
+  },
+  {
+    "serialNo": 809,
+    "name": "निवृत्ती फकिरा बेलदार",
+    "relativeName": "फकिरा किसन बेलदार",
+    "relationType": "वडील",
+    "houseNo": "8502"
+  },
+  {
+    "serialNo": 810,
+    "name": "मिनाबाई निवृत्ती बेलदार",
+    "relativeName": "निवृत्ती फकिरा बेलदार",
+    "relationType": "पती",
+    "houseNo": "8502"
+  },
+  {
+    "serialNo": 811,
+    "name": "शितल किशोर बेलदार",
+    "relativeName": "किशोर किशोर",
+    "relationType": "पती",
+    "houseNo": "८५०२"
+  },
+  {
+    "serialNo": 812,
+    "name": "ठकूबाई भिका उगले",
+    "relativeName": "भिका उगले",
+    "relationType": "पती",
+    "houseNo": "8513"
+  },
+  {
+    "serialNo": 813,
+    "name": "बापू भिका उगले",
+    "relativeName": "भिका उगले",
+    "relationType": "वडील",
+    "houseNo": "8513"
+  },
+  {
+    "serialNo": 814,
+    "name": "सविता सुनिल उगले",
+    "relativeName": "सुनिल उगले",
+    "relationType": "पती",
+    "houseNo": "८५१३"
+  },
+  {
+    "serialNo": 815,
+    "name": "आशा संतोष शिंदे",
+    "relativeName": "संतोष शिंदे",
+    "relationType": "पती",
+    "houseNo": "864 1"
+  },
+  {
+    "serialNo": 816,
+    "name": "अलकाबाई रामभाऊ शिंदे",
+    "relativeName": "रामभाऊ शिंदे",
+    "relationType": "पती",
+    "houseNo": "8641"
+  },
+  {
+    "serialNo": 817,
+    "name": "वैष्णवी विशाल अहिरे",
+    "relativeName": "विशाल विशाल",
+    "relationType": "पती",
+    "houseNo": "८२२१३"
+  },
+  {
+    "serialNo": 818,
+    "name": "कौशाबाई मधुकर अहीरे",
+    "relativeName": "मधुकर अहीरे",
+    "relationType": "पती",
+    "houseNo": "83213"
+  },
+  {
+    "serialNo": 819,
+    "name": "रविंद्र बबन वाघ",
+    "relativeName": "बबन वाघ",
+    "relationType": "वडील",
+    "houseNo": "832/15"
+  },
+  {
+    "serialNo": 820,
+    "name": "गायत्री रविंद्र वाघ",
+    "relativeName": "रविंद्र रविंद्र",
+    "relationType": "पती",
+    "houseNo": "८३२/१५"
+  },
+  {
+    "serialNo": 821,
+    "name": "बबन शिवराम वाघ",
+    "relativeName": "शिवराम वाघ",
+    "relationType": "वडील",
+    "houseNo": "83215"
+  },
+  {
+    "serialNo": 822,
+    "name": "गंगूबाई पोपट वाघ",
+    "relativeName": "पोपट वाघ",
+    "relationType": "पती",
+    "houseNo": "83215"
+  },
+  {
+    "serialNo": 823,
+    "name": "ललिता बबनराव वाघ",
+    "relativeName": "बबनराव वाघ",
+    "relationType": "पती",
+    "houseNo": "83215"
+  },
+  {
+    "serialNo": 824,
+    "name": "बाळू शिवराम वाघ",
+    "relativeName": "शिवराम वाघ",
+    "relationType": "वडील",
+    "houseNo": "83215"
+  },
+  {
+    "serialNo": 825,
+    "name": "संगिता वाघ",
+    "relativeName": "बाळू वाघ",
+    "relationType": "पती",
+    "houseNo": "83215"
+  },
+  {
+    "serialNo": 826,
+    "name": "सचिन बबनराव वाघ",
+    "relativeName": "बबनराव बबनराव",
+    "relationType": "वडील",
+    "houseNo": "८३२१५"
+  },
+  {
+    "serialNo": 827,
+    "name": "गणेश बाळासाहेब वाघ",
+    "relativeName": "बाळासाहेब संगीता",
+    "relationType": "वडील",
+    "houseNo": "८३२१५"
+  },
+  {
+    "serialNo": 828,
+    "name": "पूनम धीरेंद्र भाबड",
+    "relativeName": "बाळू वाघ",
+    "relationType": "वडील",
+    "houseNo": "83215"
+  },
+  {
+    "serialNo": 829,
+    "name": "स्वप्नील जालिंदर बोडके",
+    "relativeName": "जालंधर बोडखे",
+    "relationType": "वडील",
+    "houseNo": "832/16"
+  },
+  {
+    "serialNo": 830,
+    "name": "लक्ष्मी भाऊराव सानप",
+    "relativeName": "भाऊराव सानप",
+    "relationType": "पती",
+    "houseNo": "832/16"
+  },
+  {
+    "serialNo": 831,
+    "name": "मिना शिवाजी सानप",
+    "relativeName": "शिवाजी सानप",
+    "relationType": "पती",
+    "houseNo": "832/16"
+  },
+  {
+    "serialNo": 832,
+    "name": "ताईबाई एकनाथ सानप",
+    "relativeName": "एकनाथ सानप",
+    "relationType": "पती",
+    "houseNo": "83216"
+  },
+  {
+    "serialNo": 833,
+    "name": "केशव बाबुराव वाकोडे",
+    "relativeName": "बाबुराव वाकोडे",
+    "relationType": "वडील",
+    "houseNo": "83217"
+  },
+  {
+    "serialNo": 834,
+    "name": "गोदावरी केशव वाकोडे",
+    "relativeName": "केशव वाकोडे",
+    "relationType": "पती",
+    "houseNo": "83217"
+  },
+  {
+    "serialNo": 835,
+    "name": "मानसी भारत गोसावी गोसावी",
+    "relativeName": "भरत वसंत गोसावी गोसावी",
+    "relationType": "वडील",
+    "houseNo": "गाडगेबाबा चौक चांदवड"
+  },
+  {
+    "serialNo": 836,
+    "name": "यश स्वप्नील बोडके",
+    "relativeName": "स्वप्नील जालिंदर बोडके",
+    "relationType": "वडील",
+    "houseNo": "16"
+  },
+  {
+    "serialNo": 837,
+    "name": "योगिता अरुण परदेशी",
+    "relativeName": "अरुण परदेशी",
+    "relationType": "वडील",
+    "houseNo": "778"
+  },
+  {
+    "serialNo": 838,
+    "name": "ओम किशोर बेलदार",
+    "relativeName": "किशोर बेलदार",
+    "relationType": "वडील",
+    "houseNo": "0"
+  },
+  {
+    "serialNo": 839,
+    "name": "नंदिनी भरत बोटवे",
+    "relativeName": "भरत बोटवे",
+    "relationType": "वडील",
+    "houseNo": "गुजरात गल्ली"
+  },
+  {
+    "serialNo": 840,
+    "name": "प्रीति कल्पेश बेलदार",
+    "relativeName": "कल्पेश सुधाकर बेलदार बेलदार",
+    "relationType": "पती",
+    "houseNo": "गाड्गेबाबा चौक"
+  },
+  {
+    "serialNo": 841,
+    "name": "अनिकेत माधव सांगले सांगले",
+    "relativeName": "माधव सांगले सांगले",
+    "relationType": "वडील",
+    "houseNo": "990"
+  },
+  {
+    "serialNo": 842,
+    "name": "शीतल अमोल बागुल बागुल इतर पूनम देवेंद्र बागुल बागुल",
+    "relativeName": "",
+    "relationType": "वडील",
+    "houseNo": "890"
+  },
+  {
+    "serialNo": 843,
+    "name": "मयूरी विनायक परदेशी परदेशी इतर शीला सीताराम परदेशी परदेशी",
+    "relativeName": "",
+    "relationType": "वडील",
+    "houseNo": "888"
+  },
+  {
+    "serialNo": 844,
+    "name": "भूमिका रवींद्र वाघ",
+    "relativeName": "रवींद्र बबन वाघ वाघ",
+    "relationType": "वडील",
+    "houseNo": "005"
+  },
+  {
+    "serialNo": 845,
+    "name": "जयश्री छगन हिरे हिरे",
+    "relativeName": "छगन हिरे हिरे",
+    "relationType": "वडील",
+    "houseNo": "0078"
+  },
+  {
+    "serialNo": 846,
+    "name": "ओम अनिल बोटवे",
+    "relativeName": "अनिल बोटवे",
+    "relationType": "वडील",
+    "houseNo": "0"
+  },
+  {
+    "serialNo": 847,
+    "name": "शोएब गप़्फ़ार काकर इतर नाज़मीन शोएब काकर",
+    "relativeName": "",
+    "relationType": "वडील",
+    "houseNo": "वंजार गल्ली"
+  },
+  {
+    "serialNo": 848,
+    "name": "सुरेश भोई",
+    "relativeName": "ज्ञानेश्वर बरदे",
+    "relationType": "वडील",
+    "houseNo": "001"
+  },
+  {
+    "serialNo": 849,
+    "name": "संजय माधवराव बेलदार",
+    "relativeName": "माधवराव बेलदार",
+    "relationType": "वडील",
+    "houseNo": "775"
+  },
+  {
+    "serialNo": 850,
+    "name": "आकाश केदा जोशी",
+    "relativeName": "केदा जोशी",
+    "relationType": "वडील",
+    "houseNo": "854"
+  },
+  {
+    "serialNo": 851,
+    "name": "संजय भैयालाल परदेशी",
+    "relativeName": "भैयालाल जयलाल परदेशी",
+    "relationType": "वडील",
+    "houseNo": "गाडगेबाबा चौक"
+  },
+  {
+    "serialNo": 852,
+    "name": "प्रसाद दिगंबर शेलार",
+    "relativeName": "दिगंबर शेलार",
+    "relationType": "वडील",
+    "houseNo": "गाड्गेबाबा"
+  },
+  {
+    "serialNo": 853,
+    "name": "प्रियंका उगले",
+    "relativeName": "वैभव उगले",
+    "relationType": "पती",
+    "houseNo": "चौऱ्याबाबा म्हसोबामंदिर"
+  },
+  {
+    "serialNo": 854,
+    "name": "हरीश खैरनार",
+    "relativeName": "संजय खैरनार",
+    "relationType": "वडील",
+    "houseNo": "गाड्गेबाबा चौक"
+  },
+  {
+    "serialNo": 855,
+    "name": "विकास विजय लाड लाड इतर देविंद्र बागुल बागुल",
+    "relativeName": "",
+    "relationType": "वडील",
+    "houseNo": "गाडगे बाबा चौक"
+  },
+  {
+    "serialNo": 856,
+    "name": "वनिता विकास लाड इतर देविंद्र बी बागुल",
+    "relativeName": "",
+    "relationType": "वडील",
+    "houseNo": "गाडगे बाबा चौक"
+  },
+  {
+    "serialNo": 857,
+    "name": "करण संदीप उगले",
+    "relativeName": "संदीप उगले उगले",
+    "relationType": "वडील",
+    "houseNo": "00"
+  },
+  {
+    "serialNo": 858,
+    "name": "अर्पिता पंडित",
+    "relativeName": "विजय पंडित",
+    "relationType": "वडील",
+    "houseNo": "गाड्गेबाबा चौक"
+  },
+  {
+    "serialNo": 859,
+    "name": "मयूरी कारभारी पवार",
+    "relativeName": "कारभारी पवार",
+    "relationType": "वडील",
+    "houseNo": "गाड्गेबाबा चौक"
+  },
+  {
+    "serialNo": 860,
+    "name": "गायत्री राजेश गोविंद",
+    "relativeName": "राजेश एकनाथ गोविंद",
+    "relationType": "पती",
+    "houseNo": "सी/ओ राजेश गोविंद"
+  },
+  {
+    "serialNo": 861,
+    "name": "पल्लवी नंदू जोशी",
+    "relativeName": "नंदू जोशी",
+    "relationType": "वडील",
+    "houseNo": "गाड्गेबाबा चौक"
+  },
+  {
+    "serialNo": 862,
+    "name": "यश ज्ञानेश्वर बरदे",
+    "relativeName": "ज्ञानेश्वर बरदे",
+    "relationType": "वडील",
+    "houseNo": "0"
+  },
+  {
+    "serialNo": 863,
+    "name": "चंद्रकांत पंडितराव शिरसाट",
+    "relativeName": "पंडितराव शिरसाट",
+    "relationType": "वडील",
+    "houseNo": "गाडगे बाबा"
+  },
+  {
+    "serialNo": 864,
+    "name": "गायत्री विकास बोरसे",
+    "relativeName": "विलास कैलास बोरसे",
+    "relationType": "पती",
+    "houseNo": "गाडगेबाबा चौक"
+  },
+  {
+    "serialNo": 865,
+    "name": "रुकसार कामरान पठाण",
+    "relativeName": "कामरान तैय्यबखान पठाण",
+    "relationType": "पती",
+    "houseNo": "गाडगेबाबा"
+  },
+  {
+    "serialNo": 866,
+    "name": "पल्लवी सागर पवार",
+    "relativeName": "सागर दिलीप पवार",
+    "relationType": "पती",
+    "houseNo": "सी/ओ सागर पवार"
+  },
+  {
+    "serialNo": 867,
+    "name": "सपना विठ्ठल बनकर",
+    "relativeName": "विठ्ठल बनकर",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 868,
+    "name": "सिद्धार्थ महेंद्र जैन",
+    "relativeName": "महेंद्र जैन",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 869,
+    "name": "नमन महेंद्र जैन",
+    "relativeName": "महेंद्र जैन",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 870,
+    "name": "मोना मनोज कटारिया",
+    "relativeName": "मनोज कटारिया",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 871,
+    "name": "प्रणय महेंद्र ललवाणी",
+    "relativeName": "महेंद्र ललवाणी",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 872,
+    "name": "दिव्या महेंद्र ललवाणी",
+    "relativeName": "महेंद्र ललवाणी",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 873,
+    "name": "पूजा पियुष नहार",
+    "relativeName": "पियुष नहार",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 874,
+    "name": "माधुरी लखन पारवे",
+    "relativeName": "लखन पारवे",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 875,
+    "name": "मोनाली संदीप वाघ",
+    "relativeName": "संदीप वाघ",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 876,
+    "name": "हरी जिभाऊ आहिरे",
+    "relativeName": "जिभाऊ आहिरे",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 877,
+    "name": "सुनंदा हरी आहिरे",
+    "relativeName": "हरी जिभाऊ आहिरे",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 878,
+    "name": "योगिता कैलास शेळके",
+    "relativeName": "कैलास अशोक शेळके",
+    "relationType": "पती",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 879,
+    "name": "कांचन मितेश सोनवणे",
+    "relativeName": "मितेश गंगाधर सोनवणे",
+    "relationType": "पती",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 880,
+    "name": "सिद्धेश योगेश सोनवणे",
+    "relativeName": "योगेश सोनवणे",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 881,
+    "name": "अंकिता प्रवीण वाघ",
+    "relativeName": "प्रवीण वामन वाघ",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 882,
+    "name": "रिद्धी महावीर ललवानी",
+    "relativeName": "महावीर ललवानी",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 883,
+    "name": "साधना जैन",
+    "relativeName": "महेश जैन",
+    "relationType": "पती",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 884,
+    "name": "अभय महावीर ललवाणी",
+    "relativeName": "महावीर ललवाणी",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 885,
+    "name": "राजेंद्र माणकलाल नहार",
+    "relativeName": "माणकलाल नहार",
+    "relationType": "वडील",
+    "houseNo": ":"
+  },
+  {
+    "serialNo": 886,
+    "name": "शबाना अल्ताफ शाह",
+    "relativeName": "अल्ताफ शाह",
+    "relationType": "पती",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 887,
+    "name": "नसरीन आरिफ शाह",
+    "relativeName": "आरिफ शाह",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 888,
+    "name": "नसरीन सिराज शाह",
+    "relativeName": "सिराज शाह",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 889,
+    "name": "असलाम शौकत शाह",
+    "relativeName": "शौकत शाह",
+    "relationType": "वडील",
+    "houseNo": "-"
+  },
+  {
+    "serialNo": 890,
+    "name": "आसिफ मोहम्मद शेख",
+    "relativeName": "मोहम्मद शेख",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 891,
+    "name": "आब्रीन आसिफ शेख",
+    "relativeName": "आसिफ शेख",
+    "relationType": "पती",
+    "houseNo": "0"
+  },
+  {
+    "serialNo": 892,
+    "name": "ज्योती गणेश शेळके",
+    "relativeName": "गणेश शेळके",
+    "relationType": "पती",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 893,
+    "name": "जयेश शेळके",
+    "relativeName": "राजेंद्र शेळके",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 894,
+    "name": "योगेश भरतराव शेवाळे",
+    "relativeName": "भरतराव शेवाळे",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 895,
+    "name": "रियाज सिराज शाह",
+    "relativeName": "सिराज शाह",
+    "relationType": "वडील",
+    "houseNo": ""
+  },
+  {
+    "serialNo": 896,
+    "name": "मोहित जैन",
+    "relativeName": "रवींद्र जैन",
+    "relationType": "वडील",
+    "houseNo": "सेकंड राव लास्ड हाऊस"
+  },
+  {
+    "serialNo": 897,
+    "name": "शुभांगी विजय शेळके",
+    "relativeName": "विजय नारायण शेळके",
+    "relationType": "वडील",
+    "houseNo": "शेळके मळा"
+  },
+  {
+    "serialNo": 898,
+    "name": "तनुजा संतोष शेळके",
+    "relativeName": "संतोष नारायण शेळके",
+    "relationType": "वडील",
+    "houseNo": "शेळके मळा"
+  },
+  {
+    "serialNo": 899,
+    "name": "अनुराग संजय शेळके",
+    "relativeName": "संजय पोपटराव शेळके",
+    "relationType": "वडील",
+    "houseNo": "शेळके मळा"
+  },
+  {
+    "serialNo": 900,
+    "name": "भूमि महेश जैन जैन",
+    "relativeName": "महेश जैन",
+    "relationType": "वडील",
+    "houseNo": "स्वामी समर्थ नागर"
+  },
+  {
+    "serialNo": 901,
+    "name": "बाळासाहेब गणपत शेळके",
+    "relativeName": "गणपत शेळके",
+    "relationType": "वडील",
+    "houseNo": "1"
+  },
+  {
+    "serialNo": 902,
+    "name": "विमल बाळासाहेब शेळके",
+    "relativeName": "बाळासाहेब शेळके",
+    "relationType": "पती",
+    "houseNo": "1"
+  },
+  {
+    "serialNo": 903,
+    "name": "कृष्णा जैन",
+    "relativeName": "महेश जैन",
+    "relationType": "वडील",
+    "houseNo": "हाऊस नं.1"
+  },
+  {
+    "serialNo": 904,
+    "name": "रत्नप्रभा तुकाराम निकम",
+    "relativeName": "तुकाराम निकम",
+    "relationType": "पती",
+    "houseNo": "2"
+  },
+  {
+    "serialNo": 905,
+    "name": "मितेश गंगाधर सोनवणे",
+    "relativeName": "गंगाधर सोनवणे",
+    "relationType": "वडील",
+    "houseNo": "2"
+  },
+  {
+    "serialNo": 906,
+    "name": "सुवाबाई तिलोकचंद लुनावत",
+    "relativeName": "तिलोकचंद लुनावत",
+    "relationType": "पती",
+    "houseNo": "3"
+  },
+  {
+    "serialNo": 907,
+    "name": "सुनंदा पारसमल लुनावत",
+    "relativeName": "पारसमल लुनावत",
+    "relationType": "पती",
+    "houseNo": "3"
+  },
+  {
+    "serialNo": 908,
+    "name": "हमीद हुसैन बागवान",
+    "relativeName": "हुसेन बागवान",
+    "relationType": "वडील",
+    "houseNo": "0"
+  },
+  {
+    "serialNo": 909,
+    "name": "रुबिना बागवान",
+    "relativeName": "हमीद बागवान",
+    "relationType": "पती",
+    "houseNo": "बागवान पुरा"
+  },
+  {
+    "serialNo": 910,
+    "name": "बिलक्रिस माजिद बागवान",
+    "relativeName": "मजीद बागवान",
+    "relationType": "पती",
+    "houseNo": "वरचे गाव"
+  },
+  {
+    "serialNo": 911,
+    "name": "विजय नारायण शेळके",
+    "relativeName": "नारायण शेळके",
+    "relationType": "वडील",
+    "houseNo": "8"
+  },
+  {
+    "serialNo": 912,
+    "name": "नारायण किसन शेळके",
+    "relativeName": "किसन शेळके",
+    "relationType": "वडील",
+    "houseNo": "8"
+  },
+  {
+    "serialNo": 913,
+    "name": "सुशिला नारायण शेळके",
+    "relativeName": "नारायण शेळके",
+    "relationType": "पती",
+    "houseNo": "8"
+  },
+  {
+    "serialNo": 914,
+    "name": "हिराबाई पोपटराव शेळके",
+    "relativeName": "पोपटराव शेळके",
+    "relationType": "पती",
+    "houseNo": "8"
+  },
+  {
+    "serialNo": 915,
+    "name": "भारत गणपत शेळके",
+    "relativeName": "गणपत शेळके गा27651565",
+    "relationType": "वडील",
+    "houseNo": "8"
+  },
+  {
+    "serialNo": 916,
+    "name": "सत्यभामा भारत शेळके",
+    "relativeName": "भारत शेळके गा22075471",
+    "relationType": "पती",
+    "houseNo": "8"
+  },
+  {
+    "serialNo": 917,
+    "name": "राजाराम नारायण शेळके",
+    "relativeName": "नारायण शेळके र शं > 5 ज्यु घा घा ९ 0",
+    "relationType": "वडील",
+    "houseNo": "8"
+  },
+  {
+    "serialNo": 918,
+    "name": "संतोष नारायण शेळके",
+    "relativeName": "नारायण शेळके",
+    "relationType": "वडील",
+    "houseNo": "8"
+  },
+  {
+    "serialNo": 919,
+    "name": "सुभाष पोपट शेळके",
+    "relativeName": "पोपट शेळके",
+    "relationType": "वडील",
+    "houseNo": "8"
+  },
+  {
+    "serialNo": 920,
+    "name": "सुनिता दिनकर शेळके",
+    "relativeName": "दिनकर शेळके",
+    "relationType": "पती",
+    "houseNo": "8"
+  },
+  {
+    "serialNo": 921,
+    "name": "संजय पोपट शेळके",
+    "relativeName": "पोपट शेळके",
+    "relationType": "वडील",
+    "houseNo": "8"
+  },
+  {
+    "serialNo": 922,
+    "name": "गणेश बाळासाहेब शेळके",
+    "relativeName": "बाळासाहेब शेळके",
+    "relationType": "वडील",
+    "houseNo": "10"
+  },
+  {
+    "serialNo": 923,
+    "name": "सुनिल तिलोकचंद लुनावत",
+    "relativeName": "तिलोकचंद लुनावत",
+    "relationType": "वडील",
+    "houseNo": "मनाली निवास"
+  },
+  {
+    "serialNo": 924,
+    "name": "जयश्री संजय शेळके",
+    "relativeName": "संजय शेळके",
+    "relationType": "पती",
+    "houseNo": "15"
+  },
+  {
+    "serialNo": 925,
+    "name": "रेणुका प्रकाश शेळके",
+    "relativeName": "प्रकाश वसंतराव शेळके",
+    "relationType": "वडील",
+    "houseNo": "42"
+  },
+  {
+    "serialNo": 926,
+    "name": "ओम संजय शेळके",
+    "relativeName": "संजय वसंतराव शेळके",
+    "relationType": "वडील",
+    "houseNo": "42"
+  },
+  {
+    "serialNo": 927,
+    "name": "संजय वसंत शेळके",
+    "relativeName": "वसंत शेळके",
+    "relationType": "वडील",
+    "houseNo": "42"
+  },
+  {
+    "serialNo": 928,
+    "name": "सुमन वसंत शेळके",
+    "relativeName": "वसंत शेळके",
+    "relationType": "पती",
+    "houseNo": "42"
+  },
+  {
+    "serialNo": 929,
+    "name": "प्रकाश वसंत शेळके",
+    "relativeName": "वसंत शेळके",
+    "relationType": "वडील",
+    "houseNo": "42"
+  },
+  {
+    "serialNo": 930,
+    "name": "अरुण वसंत शेळके",
+    "relativeName": "वसंत शेळके",
+    "relationType": "वडील",
+    "houseNo": "42"
+  },
+  {
+    "serialNo": 931,
+    "name": "अजिंक्य प्रकाश शेळके",
+    "relativeName": "प्रकाश शेळके",
+    "relationType": "वडील",
+    "houseNo": "४२"
+  },
+  {
+    "serialNo": 932,
+    "name": "प्रमीळाबाई मुलचंद जैन",
+    "relativeName": "मुलचंद जैन",
+    "relationType": "पती",
+    "houseNo": "66"
+  },
+  {
+    "serialNo": 933,
+    "name": "नेमिचंद झुंबरलाल जैन",
+    "relativeName": "झुंबरलाल जैन",
+    "relationType": "वडील",
+    "houseNo": "66"
+  },
+  {
+    "serialNo": 934,
+    "name": "महेश नेमिचंद जैन",
+    "relativeName": "नेमिचंद जैन",
+    "relationType": "वडील",
+    "houseNo": "66"
+  },
+  {
+    "serialNo": 935,
+    "name": "निलेश नेमिचंद जैन",
+    "relativeName": "नेमिचंद जैन",
+    "relationType": "वडील",
+    "houseNo": "66"
+  },
+  {
+    "serialNo": 936,
+    "name": "भटू नरहर वाणी",
+    "relativeName": "नरहर वाणी",
+    "relationType": "वडील",
+    "houseNo": "67"
+  },
+  {
+    "serialNo": 937,
+    "name": "शकुतला भटु वाणी",
+    "relativeName": "भटु वाणी",
+    "relationType": "पती",
+    "houseNo": "67"
+  },
+  {
+    "serialNo": 938,
+    "name": "भाऊलाल माणकलाल नहार",
+    "relativeName": "माणकलाल नहार",
+    "relationType": "वडील",
+    "houseNo": "68"
+  },
+  {
+    "serialNo": 939,
+    "name": "राजश्री भाऊलाल नहार",
+    "relativeName": "भाऊलाल नहार",
+    "relationType": "पती",
+    "houseNo": "68"
+  },
+  {
+    "serialNo": 940,
+    "name": "पियुष भाऊलाल नहार",
+    "relativeName": "भाऊलाल नहार",
+    "relationType": "वडील",
+    "houseNo": "68"
+  },
+  {
+    "serialNo": 941,
+    "name": "अशोक सदाशिव जमदाडे",
+    "relativeName": "सदाशिव जमदाडे",
+    "relationType": "वडील",
+    "houseNo": "69"
+  },
+  {
+    "serialNo": 942,
+    "name": "राहुल अशोक जमदाडे",
+    "relativeName": "अशोक जमदाडे",
+    "relationType": "वडील",
+    "houseNo": "69"
+  },
+  {
+    "serialNo": 943,
+    "name": "पुजा राहुल जमदाडे",
+    "relativeName": "राहुल जमदाडे",
+    "relationType": "पती",
+    "houseNo": "69"
+  },
+  {
+    "serialNo": 944,
+    "name": "योगेश प्रविण गांधीमुथा",
+    "relativeName": "प्रविण गांधीमुथा",
+    "relationType": "वडील",
+    "houseNo": "७०"
+  },
+  {
+    "serialNo": 945,
+    "name": "संगिता प्रवीण जैन",
+    "relativeName": "प्रवीण जैन",
+    "relationType": "पती",
+    "houseNo": "70"
+  },
+  {
+    "serialNo": 946,
+    "name": "महेंद्र ग्यानमलजी जैन",
+    "relativeName": "ग्यानमलजी जैन",
+    "relationType": "वडील",
+    "houseNo": "72"
+  },
+  {
+    "serialNo": 947,
+    "name": "नम्रता महेंद्र जैन",
+    "relativeName": "महेंद्र जैन",
+    "relationType": "पती",
+    "houseNo": "72"
+  },
+  {
+    "serialNo": 948,
+    "name": "जिजाबाई वामन वाघ",
+    "relativeName": "वामन वाघ",
+    "relationType": "पती",
+    "houseNo": "75"
+  },
+  {
+    "serialNo": 949,
+    "name": "प्रवीण वामनराव वाघ",
+    "relativeName": "वामनराव वाघ",
+    "relationType": "वडील",
+    "houseNo": "76"
+  },
+  {
+    "serialNo": 950,
+    "name": "सुवर्णा प्रवीण वाघ",
+    "relativeName": "प्रवीण वाघ",
+    "relationType": "पती",
+    "houseNo": "76"
+  },
+  {
+    "serialNo": 951,
+    "name": "बजरंग वामनराव वाघ",
+    "relativeName": "वामनराव वाघ",
+    "relationType": "वडील",
+    "houseNo": "76"
+  },
+  {
+    "serialNo": 952,
+    "name": "मधुकर काशिनाथ पेंढारी",
+    "relativeName": "काशिनाथ पेंढारी",
+    "relationType": "वडील",
+    "houseNo": "99"
+  },
+  {
+    "serialNo": 953,
+    "name": "मनिषा मधुकर पेंढारी",
+    "relativeName": "मधुकर पेंढारी",
+    "relationType": "पती",
+    "houseNo": "99"
+  },
+  {
+    "serialNo": 954,
+    "name": "उत्तम कचरु जाधव",
+    "relativeName": "कचरु जाधव",
+    "relationType": "वडील",
+    "houseNo": "100"
+  },
+  {
+    "serialNo": 955,
+    "name": "सुबोध शेळके",
+    "relativeName": "सुभाष शेळके",
+    "relationType": "वडील",
+    "houseNo": "122"
+  },
+  {
+    "serialNo": 956,
+    "name": "वैशाली अरुण शेळके",
+    "relativeName": "अरुण शेळके",
+    "relationType": "पती",
+    "houseNo": "1173"
+  },
+  {
+    "serialNo": 957,
+    "name": "बद्रुजीसा महमद शाह",
+    "relativeName": "महमद शाह",
+    "relationType": "पती",
+    "houseNo": "1299"
+  },
+  {
+    "serialNo": 958,
+    "name": "गंगाधर जयवंत सोनावणे",
+    "relativeName": "जयवंत सोनावणे",
+    "relationType": "वडील",
+    "houseNo": "1660"
+  },
+  {
+    "serialNo": 959,
+    "name": "अभीजित गंगाधर सोनवणे",
+    "relativeName": "गंगाधर सोनवणे",
+    "relationType": "वडील",
+    "houseNo": "1660"
+  },
+  {
+    "serialNo": 960,
+    "name": "तुकाराम पुंडलीक निकम",
+    "relativeName": "पुंडलीक निकम",
+    "relationType": "वडील",
+    "houseNo": "1662"
+  },
+  {
+    "serialNo": 961,
+    "name": "मनोज दगुलाल कटारिया",
+    "relativeName": "दगुलाल कटारिया",
+    "relationType": "वडील",
+    "houseNo": "1884"
+  },
+  {
+    "serialNo": 962,
+    "name": "कल्पना मनोज कटारिया",
+    "relativeName": "मनोज कटारिया",
+    "relationType": "पती",
+    "houseNo": "1884"
+  },
+  {
+    "serialNo": 963,
+    "name": "क्रतुजा विजय शेळके",
+    "relativeName": "विजय नारायण शेळके",
+    "relationType": "वडील",
+    "houseNo": "8"
+  },
+  {
+    "serialNo": 964,
+    "name": "वैष्णवी अरुण शेळके",
+    "relativeName": "अरुण शेळके",
+    "relationType": "वडील",
+    "houseNo": "0"
+  },
+  {
+    "serialNo": 965,
+    "name": "शेळके प्रसाद संजय शेळके",
+    "relativeName": "संजय पोपटराव शेळके शेळके",
+    "relationType": "वडील",
+    "houseNo": "शेळके माला"
+  },
+  {
+    "serialNo": 966,
+    "name": "प्रसाद रमेशलाल फूलफगर फूलफगर इतर प्रांजल प्रसाद फूलफगर फूलफगर",
+    "relativeName": "",
+    "relationType": "वडील",
+    "houseNo": "बंगला,नं,12"
+  },
+  {
+    "serialNo": 967,
+    "name": "दिग्विजय सुभाष शेळके",
+    "relativeName": "दिग्विजय सुभाष शेळके",
+    "relationType": "वडील",
+    "houseNo": "सुभाष शेळके,शेळके माला"
+  },
+  {
+    "serialNo": 968,
+    "name": "प्रांजल फूलफगर",
+    "relativeName": "प्रसाद फूलफगर",
+    "relationType": "पती",
+    "houseNo": "बंगला नं.12"
+  },
+  {
+    "serialNo": 969,
+    "name": "आर्या धीरज जमदाडे जमदाडे",
+    "relativeName": "धीरज अशोक जमदाडे जमदाडे",
+    "relationType": "वडील",
+    "houseNo": "श्री स्वामी समर्थ नागर चांदवड"
+  },
+  {
+    "serialNo": 970,
+    "name": "देवा नितिन थोरे थोरे इतर प्रसाद शेळके",
+    "relativeName": "",
+    "relationType": "वडील",
+    "houseNo": "मर्चंट कॉलोनी"
+  },
+  {
+    "serialNo": 971,
+    "name": "अथर्व प्रविण वाघ",
+    "relativeName": "प्रविण वाघ",
+    "relationType": "वडील",
+    "houseNo": "14"
+  }
+]
