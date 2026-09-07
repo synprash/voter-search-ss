@@ -66,7 +66,7 @@ export async function GET(request: NextRequest) {
       }
 
       const whereClause = conditions.length > 0 ? `WHERE ${conditions.join(' AND ')}` : '';
-      const sqlQuery = `SELECT * FROM voters ${whereClause} ORDER BY part_no ASC, serial_no ASC LIMIT 2000;`;
+      const sqlQuery = `SELECT * FROM voters_view ${whereClause} ORDER BY part_no ASC, serial_no ASC LIMIT 2000;`;
 
       const result = await pool.query(sqlQuery, values);
       return NextResponse.json({
