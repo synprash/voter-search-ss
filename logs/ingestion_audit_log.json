@@ -1,5 +1,137 @@
 [
   {
+    "id": "ingest-1788783452284",
+    "timestamp": "2026-09-07T12:32:22.566Z",
+    "triggerType": "FILE_WATCHER",
+    "boothsDetected": [
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160
+    ],
+    "boothsAlreadyImported": [
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      157,
+      158
+    ],
+    "boothsImported": [
+      153,
+      154,
+      155,
+      156,
+      159,
+      160
+    ],
+    "recordsImported": {
+      "total": 6790,
+      "male": 3561,
+      "female": 3229,
+      "boothBreakdown": {
+        "153": {
+          "total": 1291,
+          "male": 700,
+          "female": 591
+        },
+        "154": {
+          "total": 1156,
+          "male": 581,
+          "female": 575
+        },
+        "155": {
+          "total": 984,
+          "male": 522,
+          "female": 462
+        },
+        "156": {
+          "total": 1115,
+          "male": 595,
+          "female": 520
+        },
+        "159": {
+          "total": 1083,
+          "male": 554,
+          "female": 529
+        },
+        "160": {
+          "total": 1161,
+          "male": 609,
+          "female": 552
+        }
+      }
+    },
+    "durationSeconds": 890.3,
+    "status": "SUCCESS"
+  },
+  {
+    "id": "ingest-1788782948316",
+    "timestamp": "2026-09-07T12:13:16.945Z",
+    "triggerType": "FILE_WATCHER",
+    "boothsDetected": [
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      157,
+      158
+    ],
+    "boothsAlreadyImported": [
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      157,
+      158
+    ],
+    "boothsImported": [
+      151,
+      152
+    ],
+    "recordsImported": {
+      "total": 2143,
+      "male": 1097,
+      "female": 1046,
+      "boothBreakdown": {
+        "151": {
+          "total": 971,
+          "male": 486,
+          "female": 485
+        },
+        "152": {
+          "total": 1172,
+          "male": 611,
+          "female": 561
+        }
+      }
+    },
+    "durationSeconds": 248.6,
+    "status": "SUCCESS"
+  },
+  {
     "id": "ingest-1788782918813",
     "timestamp": "2026-09-07T12:08:39.842Z",
     "triggerType": "WATCHER_INITIAL_SCAN",
