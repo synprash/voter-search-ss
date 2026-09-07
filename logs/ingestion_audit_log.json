@@ -1,0 +1,68 @@
+[
+  {
+    "id": "ingest-1788782816814",
+    "timestamp": "2026-09-07T12:06:57.917Z",
+    "triggerType": "CLI_ON_DEMAND",
+    "boothsDetected": [
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      157,
+      158
+    ],
+    "boothsAlreadyImported": [
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      157,
+      158
+    ],
+    "boothsImported": [],
+    "recordsImported": {
+      "total": 0,
+      "male": 0,
+      "female": 0
+    },
+    "durationSeconds": 1.1,
+    "status": "NO_NEW_DATA"
+  },
+  {
+    "id": "ingest-1788782777216",
+    "timestamp": "2026-09-07T12:06:18.276Z",
+    "triggerType": "CLI_ON_DEMAND",
+    "boothsDetected": [
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      157,
+      158
+    ],
+    "boothsAlreadyImported": [
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      157,
+      158
+    ],
+    "boothsImported": [],
+    "recordsImported": {
+      "total": 0,
+      "male": 0,
+      "female": 0
+    },
+    "durationSeconds": 1.1,
+    "status": "NO_NEW_DATA"
+  }
+]
