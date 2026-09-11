@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useEffect, useState } from 'react';
+import React, { useEffect, useState, useSyncExternalStore } from 'react';
 import { Download, WifiOff, X } from 'lucide-react';
 
 interface BeforeInstallPromptEvent extends Event {
@@ -8,23 +8,55 @@ interface BeforeInstallPromptEvent extends Event {
   userChoice: Promise<{ outcome: 'accepted' | 'dismissed'; platform: string }>;
 }
 
-export const PwaController: React.FC = () => {
-  const [isOnline, setIsOnline] = useState<boolean>(() => {
-    if (typeof navigator !== 'undefined') {
-      return navigator.onLine;
-    }
-    return true;
-  });
+function subscribeOnline(callback: () => void) {
+  window.addEventListener('online', callback);
+  window.addEventListener('offline', callback);
+  return () => {
+    window.removeEventListener('online', callback);
+    window.removeEventListener('offline', callback);
+  };
+}
 
-  const [isStandalone] = useState<boolean>(() => {
-    if (typeof window !== 'undefined') {
-      return (
-        window.matchMedia('(display-mode: standalone)').matches ||
-        (window.navigator as unknown as { standalone?: boolean }).standalone === true
-      );
-    }
-    return false;
-  });
+function getOnlineSnapshot(): boolean {
+  return typeof navigator !== 'undefined' && typeof navigator.onLine === 'boolean'
+    ? navigator.onLine
+    : true;
+}
+
+function getOnlineServerSnapshot(): boolean {
+  return true;
+}
+
+function subscribeStandalone(callback: () => void) {
+  const mql = window.matchMedia('(display-mode: standalone)');
+  mql.addEventListener('change', callback);
+  return () => mql.removeEventListener('change', callback);
+}
+
+function getStandaloneSnapshot(): boolean {
+  if (typeof window === 'undefined') return false;
+  return (
+    window.matchMedia('(display-mode: standalone)').matches ||
+    (window.navigator as unknown as { standalone?: boolean }).standalone === true
+  );
+}
+
+function getStandaloneServerSnapshot(): boolean {
+  return false;
+}
+
+export const PwaController: React.FC = () => {
+  const isOnline = useSyncExternalStore(
+    subscribeOnline,
+    getOnlineSnapshot,
+    getOnlineServerSnapshot
+  );
+
+  const isStandalone = useSyncExternalStore(
+    subscribeStandalone,
+    getStandaloneSnapshot,
+    getStandaloneServerSnapshot
+  );
 
   const [deferredPrompt, setDeferredPrompt] = useState<BeforeInstallPromptEvent | null>(null);
   const [showInstallBanner, setShowInstallBanner] = useState<boolean>(false);
@@ -44,14 +76,7 @@ export const PwaController: React.FC = () => {
       });
     }
 
-    // 2. Online/Offline Network Status Listeners
-    const handleOnline = () => setIsOnline(true);
-    const handleOffline = () => setIsOnline(false);
-
-    window.addEventListener('online', handleOnline);
-    window.addEventListener('offline', handleOffline);
-
-    // 3. Listen for PWA Install Prompt
+    // 2. Listen for PWA Install Prompt
     const handleBeforeInstallPrompt = (e: Event) => {
       e.preventDefault();
       setDeferredPrompt(e as BeforeInstallPromptEvent);
@@ -63,7 +88,7 @@ export const PwaController: React.FC = () => {
 
     window.addEventListener('beforeinstallprompt', handleBeforeInstallPrompt);
 
-    // 4. Track successful installation
+    // 3. Track successful installation
     const handleAppInstalled = () => {
       setShowInstallBanner(false);
       setDeferredPrompt(null);
@@ -73,8 +98,6 @@ export const PwaController: React.FC = () => {
     window.addEventListener('appinstalled', handleAppInstalled);
 
     return () => {
-      window.removeEventListener('online', handleOnline);
-      window.removeEventListener('offline', handleOffline);
       window.removeEventListener('beforeinstallprompt', handleBeforeInstallPrompt);
       window.removeEventListener('appinstalled', handleAppInstalled);
     };
@@ -98,7 +121,7 @@ export const PwaController: React.FC = () => {
 
   return (
     <>
-      {/* Offline Toast Banner */}
+      {/* Offline Toast Banner - Only shown when genuinely offline */}
       {!isOnline && (
         <aside
           role="alert"
